@@ -19,7 +19,6 @@ DashboardAjax/GetAgesAccDataStatistics?City=[row0]&Area=[row1];ALL,ALL
 DashboardAjax/GetAgesAccDataStatisticsNear12Month?City=[row0]&Area=[row1];ALL,ALL 
 */
 $dataPath = dirname(__DIR__) . '/raw/GetCitiesAreaAccDataStatistics';
-$dataPath2 = dirname(__DIR__) . '/raw/GetCitiesAccData_EachYM';
 $options = ['ALL', '基隆市', '臺北市', '新北市', '桃園市', '新竹市', '新竹縣', '苗栗縣', '臺中市', '彰化縣', '南投縣', '雲林縣', '嘉義市', '嘉義縣',
 '臺南市', '高雄市', '屏東縣', '宜蘭縣', '花蓮縣', '臺東縣', '澎湖縣', '金門縣', '連江縣'];
 $baseUrl = 'https://roadsafety.tw/motcgisDashboard/api/DashboardAjax/GetCitiesAreaAccDataStatistics?';
@@ -45,6 +44,7 @@ for($y = 98; $y <= 110; $y++) {
     }
 }
 
+$dataPath2 = dirname(__DIR__) . '/raw/GetCitiesAccData_EachYM';
 $baseUrl2 = 'https://roadsafety.tw/motcgisDashboard/api/DashboardAjax/GetCitiesAccData_EachYM?';
 foreach($options AS $option) {
     $optionPath = $dataPath2 . '/' . $option;
@@ -56,5 +56,22 @@ foreach($options AS $option) {
         $city = urlencode($option);
         file_put_contents($targetFile, file_get_contents("{$baseUrl2}City={$city}&Area=ALL"));
     }
-    $json = json_decode(file_get_contents($targetFile), true);
+}
+
+$dataPath3 = dirname(__DIR__) . '/raw/GetStaticData';
+$topics = ['年齡與運具', '碰撞型態與位置與肇事原因', '年齡與碰撞型態與位置', '碰撞型態與位置與運具', '肇事原因與運具'];
+$baseUrl3 = 'https://roadsafety.tw/motcgisDashboard/api/DashboardAjax/GetStaticData?';
+foreach($topics AS $topic) {
+    $uTopic = urlencode($topic);
+    foreach($options AS $option) {
+        $optionPath = $dataPath3 . '/' . $option;
+        if(!file_exists($optionPath)) {
+            mkdir($optionPath, 0777, true);
+        }
+        $targetFile = "{$optionPath}/{$topic}.json";
+        if(!file_exists($targetFile)) {
+            $city = urlencode($option);
+            file_put_contents($targetFile, file_get_contents("{$baseUrl3}Topic={$uTopic}&City={$city}"));
+        }
+    }
 }
