@@ -1,1 +1,386 @@
-[{"row":["ALL","106\u5E74","12\u6708"],"col":["\u57FA\u9686\u5E02"],"colCode":null,"value":30,"descriptionHtml":null,"qty":0,"diff":null,"tooltip":null},{"row":["ALL","106\u5E74","12\u6708"],"col":["\u81FA\u5317\u5E02"],"colCode":null,"value":106,"descriptionHtml":null,"qty":0,"diff":null,"tooltip":null},{"row":["ALL","106\u5E74","12\u6708"],"col":["\u65B0\u5317\u5E02"],"colCode":null,"value":256,"descriptionHtml":null,"qty":0,"diff":null,"tooltip":null},{"row":["ALL","106\u5E74","12\u6708"],"col":["\u6843\u5712\u5E02"],"colCode":null,"value":213,"descriptionHtml":null,"qty":0,"diff":null,"tooltip":null},{"row":["ALL","106\u5E74","12\u6708"],"col":["\u65B0\u7AF9\u5E02"],"colCode":null,"value":39,"descriptionHtml":null,"qty":0,"diff":null,"tooltip":null},{"row":["ALL","106\u5E74","12\u6708"],"col":["\u65B0\u7AF9\u7E23"],"colCode":null,"value":86,"descriptionHtml":null,"qty":0,"diff":null,"tooltip":null},{"row":["ALL","106\u5E74","12\u6708"],"col":["\u82D7\u6817\u7E23"],"colCode":null,"value":85,"descriptionHtml":null,"qty":0,"diff":null,"tooltip":null},{"row":["ALL","106\u5E74","12\u6708"],"col":["\u81FA\u4E2D\u5E02"],"colCode":null,"value":217,"descriptionHtml":null,"qty":0,"diff":null,"tooltip":null},{"row":["ALL","106\u5E74","12\u6708"],"col":["\u5F70\u5316\u7E23"],"colCode":null,"value":193,"descriptionHtml":null,"qty":0,"diff":null,"tooltip":null},{"row":["ALL","106\u5E74","12\u6708"],"col":["\u5357\u6295\u7E23"],"colCode":null,"value":89,"descriptionHtml":null,"qty":0,"diff":null,"tooltip":null},{"row":["ALL","106\u5E74","12\u6708"],"col":["\u96F2\u6797\u7E23"],"colCode":null,"value":165,"descriptionHtml":null,"qty":0,"diff":null,"tooltip":null},{"row":["ALL","106\u5E74","12\u6708"],"col":["\u5609\u7FA9\u5E02"],"colCode":null,"value":18,"descriptionHtml":null,"qty":0,"diff":null,"tooltip":null},{"row":["ALL","106\u5E74","12\u6708"],"col":["\u5609\u7FA9\u7E23"],"colCode":null,"value":95,"descriptionHtml":null,"qty":0,"diff":null,"tooltip":null},{"row":["ALL","106\u5E74","12\u6708"],"col":["\u81FA\u5357\u5E02"],"colCode":null,"value":246,"descriptionHtml":null,"qty":0,"diff":null,"tooltip":null},{"row":["ALL","106\u5E74","12\u6708"],"col":["\u9AD8\u96C4\u5E02"],"colCode":null,"value":289,"descriptionHtml":null,"qty":0,"diff":null,"tooltip":null},{"row":["ALL","106\u5E74","12\u6708"],"col":["\u5C4F\u6771\u7E23"],"colCode":null,"value":203,"descriptionHtml":null,"qty":0,"diff":null,"tooltip":null},{"row":["ALL","106\u5E74","12\u6708"],"col":["\u5B9C\u862D\u7E23"],"colCode":null,"value":58,"descriptionHtml":null,"qty":0,"diff":null,"tooltip":null},{"row":["ALL","106\u5E74","12\u6708"],"col":["\u82B1\u84EE\u7E23"],"colCode":null,"value":82,"descriptionHtml":null,"qty":0,"diff":null,"tooltip":null},{"row":["ALL","106\u5E74","12\u6708"],"col":["\u81FA\u6771\u7E23"],"colCode":null,"value":55,"descriptionHtml":null,"qty":0,"diff":null,"tooltip":null},{"row":["ALL","106\u5E74","12\u6708"],"col":["\u6F8E\u6E56\u7E23"],"colCode":null,"value":15,"descriptionHtml":null,"qty":0,"diff":null,"tooltip":null},{"row":["ALL","106\u5E74","12\u6708"],"col":["\u91D1\u9580\u7E23"],"colCode":null,"value":12,"descriptionHtml":null,"qty":0,"diff":null,"tooltip":null},{"row":["ALL","106\u5E74","12\u6708"],"col":["\u9023\u6C5F\u7E23"],"colCode":null,"value":0,"descriptionHtml":null,"qty":0,"diff":null,"tooltip":null},{"row":["ALL","106\u5E74","12\u6708"],"col":["\u570B\u9053"],"colCode":null,"value":131,"descriptionHtml":null,"qty":0,"diff":null,"tooltip":null},{"row":["ALL","106\u5E74","12\u6708"],"col":["\u5176\u4ED6"],"colCode":null,"value":14,"descriptionHtml":null,"qty":0,"diff":null,"tooltip":null}]
+[
+    {
+        "row": [
+            "ALL",
+            "106年",
+            "12月"
+        ],
+        "col": [
+            "基隆市"
+        ],
+        "colCode": null,
+        "value": 30,
+        "descriptionHtml": null,
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "106年",
+            "12月"
+        ],
+        "col": [
+            "臺北市"
+        ],
+        "colCode": null,
+        "value": 106,
+        "descriptionHtml": null,
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "106年",
+            "12月"
+        ],
+        "col": [
+            "新北市"
+        ],
+        "colCode": null,
+        "value": 256,
+        "descriptionHtml": null,
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "106年",
+            "12月"
+        ],
+        "col": [
+            "桃園市"
+        ],
+        "colCode": null,
+        "value": 213,
+        "descriptionHtml": null,
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "106年",
+            "12月"
+        ],
+        "col": [
+            "新竹市"
+        ],
+        "colCode": null,
+        "value": 39,
+        "descriptionHtml": null,
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "106年",
+            "12月"
+        ],
+        "col": [
+            "新竹縣"
+        ],
+        "colCode": null,
+        "value": 86,
+        "descriptionHtml": null,
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "106年",
+            "12月"
+        ],
+        "col": [
+            "苗栗縣"
+        ],
+        "colCode": null,
+        "value": 85,
+        "descriptionHtml": null,
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "106年",
+            "12月"
+        ],
+        "col": [
+            "臺中市"
+        ],
+        "colCode": null,
+        "value": 217,
+        "descriptionHtml": null,
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "106年",
+            "12月"
+        ],
+        "col": [
+            "彰化縣"
+        ],
+        "colCode": null,
+        "value": 193,
+        "descriptionHtml": null,
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "106年",
+            "12月"
+        ],
+        "col": [
+            "南投縣"
+        ],
+        "colCode": null,
+        "value": 89,
+        "descriptionHtml": null,
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "106年",
+            "12月"
+        ],
+        "col": [
+            "雲林縣"
+        ],
+        "colCode": null,
+        "value": 165,
+        "descriptionHtml": null,
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "106年",
+            "12月"
+        ],
+        "col": [
+            "嘉義市"
+        ],
+        "colCode": null,
+        "value": 18,
+        "descriptionHtml": null,
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "106年",
+            "12月"
+        ],
+        "col": [
+            "嘉義縣"
+        ],
+        "colCode": null,
+        "value": 95,
+        "descriptionHtml": null,
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "106年",
+            "12月"
+        ],
+        "col": [
+            "臺南市"
+        ],
+        "colCode": null,
+        "value": 246,
+        "descriptionHtml": null,
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "106年",
+            "12月"
+        ],
+        "col": [
+            "高雄市"
+        ],
+        "colCode": null,
+        "value": 289,
+        "descriptionHtml": null,
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "106年",
+            "12月"
+        ],
+        "col": [
+            "屏東縣"
+        ],
+        "colCode": null,
+        "value": 203,
+        "descriptionHtml": null,
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "106年",
+            "12月"
+        ],
+        "col": [
+            "宜蘭縣"
+        ],
+        "colCode": null,
+        "value": 58,
+        "descriptionHtml": null,
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "106年",
+            "12月"
+        ],
+        "col": [
+            "花蓮縣"
+        ],
+        "colCode": null,
+        "value": 82,
+        "descriptionHtml": null,
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "106年",
+            "12月"
+        ],
+        "col": [
+            "臺東縣"
+        ],
+        "colCode": null,
+        "value": 55,
+        "descriptionHtml": null,
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "106年",
+            "12月"
+        ],
+        "col": [
+            "澎湖縣"
+        ],
+        "colCode": null,
+        "value": 15,
+        "descriptionHtml": null,
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "106年",
+            "12月"
+        ],
+        "col": [
+            "金門縣"
+        ],
+        "colCode": null,
+        "value": 12,
+        "descriptionHtml": null,
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "106年",
+            "12月"
+        ],
+        "col": [
+            "連江縣"
+        ],
+        "colCode": null,
+        "value": 0,
+        "descriptionHtml": null,
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "106年",
+            "12月"
+        ],
+        "col": [
+            "國道"
+        ],
+        "colCode": null,
+        "value": 131,
+        "descriptionHtml": null,
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "106年",
+            "12月"
+        ],
+        "col": [
+            "其他"
+        ],
+        "colCode": null,
+        "value": 14,
+        "descriptionHtml": null,
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    }
+]
