@@ -26,7 +26,7 @@ $options = [
 $baseUrl = 'https://roadsafety.tw/motcgisDashboard/api/DashboardAjax/GetCitiesAreaAccDataStatistics?';
 for ($y = 98; $y <= 110; $y++) {
     for ($m = 1; $m <= 12; $m++) {
-        if ($y === 110 && $m > 1) {
+        if ($y === 110 && $m > 2) {
             continue;
         }
         $ty = str_pad($y, 3, '0', STR_PAD_LEFT);
@@ -38,8 +38,10 @@ for ($y = 98; $y <= 110; $y++) {
             }
             $targetFile = "{$optionPath}/{$ty}_{$tm}.json";
             $city = urlencode($option);
-            $json = json_decode(file_get_contents("{$baseUrl}City={$city}&Cyear={$ty}%E5%B9%B4&Month={$tm}%E6%9C%88&Type=30%E6%97%A5%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B8"));
-            file_put_contents($targetFile, json_encode($json, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+            if(!file_exists($targetFile)) {
+                $json = json_decode(file_get_contents("{$baseUrl}City={$city}&Cyear={$ty}%E5%B9%B4&Month={$tm}%E6%9C%88&Type=30%E6%97%A5%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B8"));
+                file_put_contents($targetFile, json_encode($json, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+            }
         }
     }
 }
