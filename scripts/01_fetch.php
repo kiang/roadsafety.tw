@@ -23,10 +23,10 @@ $options = [
     'ALL', '基隆市', '臺北市', '新北市', '桃園市', '新竹市', '新竹縣', '苗栗縣', '臺中市', '彰化縣', '南投縣', '雲林縣', '嘉義市', '嘉義縣',
     '臺南市', '高雄市', '屏東縣', '宜蘭縣', '花蓮縣', '臺東縣', '澎湖縣', '金門縣', '連江縣'
 ];
-$baseUrl = 'https://roadsafety.tw/motcgisDashboard/api/DashboardAjax/GetCitiesAreaAccDataStatistics?';
+$baseUrl = 'https://roadsafety.tw/api/DashboardAjax/GetCitiesAreaAccDataStatistics?';
 for ($y = 98; $y <= 110; $y++) {
     for ($m = 1; $m <= 12; $m++) {
-        if ($y === 110 && $m > 2) {
+        if ($y === 110 && $m > 4) {
             continue;
         }
         $ty = str_pad($y, 3, '0', STR_PAD_LEFT);
@@ -38,7 +38,7 @@ for ($y = 98; $y <= 110; $y++) {
             }
             $targetFile = "{$optionPath}/{$ty}_{$tm}.json";
             $city = urlencode($option);
-            if(!file_exists($targetFile)) {
+            if (!file_exists($targetFile)) {
                 $json = json_decode(file_get_contents("{$baseUrl}City={$city}&Cyear={$ty}%E5%B9%B4&Month={$tm}%E6%9C%88&Type=30%E6%97%A5%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B8"));
                 file_put_contents($targetFile, json_encode($json, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
             }
@@ -46,32 +46,34 @@ for ($y = 98; $y <= 110; $y++) {
     }
 }
 
-$dataPath2 = dirname(__DIR__) . '/raw/GetCitiesAccData_EachYM';
-$baseUrl2 = 'https://roadsafety.tw/motcgisDashboard/api/DashboardAjax/GetCitiesAccData_EachYM?';
-foreach ($options as $option) {
-    $optionPath = $dataPath2 . '/' . $option;
-    if (!file_exists($optionPath)) {
-        mkdir($optionPath, 0777, true);
-    }
-    $targetFile = "{$optionPath}/data.json";
-    $city = urlencode($option);
-    $json = json_decode(file_get_contents("{$baseUrl2}City={$city}&Area=ALL"));
-    file_put_contents($targetFile, json_encode($json, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
-}
+// $dataPath2 = dirname(__DIR__) . '/raw/GetCitiesAccData_EachYM';
+// $baseUrl2 = 'https://roadsafety.tw/api/DashboardAjax/GetCitiesAccData_EachYM?';
+// foreach ($options as $option) {
+//     $optionPath = $dataPath2 . '/' . $option;
+//     if (!file_exists($optionPath)) {
+//         mkdir($optionPath, 0777, true);
+//     }
+//     $targetFile = "{$optionPath}/data.json";
+//     $city = urlencode($option);
+//     $json = json_decode(file_get_contents("{$baseUrl2}City={$city}&Area=ALL"));
+//     file_put_contents($targetFile, json_encode($json, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+// }
 
 $dataPath3 = dirname(__DIR__) . '/raw/GetStaticData';
 $topics = ['年齡與運具', '碰撞型態與位置與肇事原因', '年齡與碰撞型態與位置', '碰撞型態與位置與運具', '肇事原因與運具'];
-$baseUrl3 = 'https://roadsafety.tw/motcgisDashboard/api/DashboardAjax/GetStaticData?';
+$baseUrl3 = 'https://roadsafety.tw/api/DashboardAjax/GetStaticData?';
 foreach ($topics as $topic) {
     $uTopic = urlencode($topic);
     foreach ($options as $option) {
-        $optionPath = $dataPath3 . '/' . $option;
-        if (!file_exists($optionPath)) {
-            mkdir($optionPath, 0777, true);
-        }
-        $targetFile = "{$optionPath}/{$topic}.json";
         $city = urlencode($option);
-        $json = json_decode(file_get_contents("{$baseUrl3}Topic={$uTopic}&City={$city}"));
-        file_put_contents($targetFile, json_encode($json, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+        $json = json_decode(file_get_contents("{$baseUrl3}Topic={$uTopic}&City={$city}"), true);
+        if (!empty($json)) {
+            $optionPath = $dataPath3 . '/' . $option . '/' . $json[0]['row'][1];
+            if (!file_exists($optionPath)) {
+                mkdir($optionPath, 0777, true);
+            }
+            $targetFile = "{$optionPath}/{$topic}.json";
+            file_put_contents($targetFile, json_encode($json, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+        }
     }
 }
