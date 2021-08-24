@@ -26,7 +26,7 @@ $options = [
 $baseUrl = 'https://roadsafety.tw/api/DashboardAjax/GetCitiesAreaAccDataStatistics?';
 for ($y = 98; $y <= 110; $y++) {
     for ($m = 1; $m <= 12; $m++) {
-        if ($y === 110 && $m > 5) {
+        if ($y === 110 && $m > 6) {
             continue;
         }
         $ty = str_pad($y, 3, '0', STR_PAD_LEFT);
