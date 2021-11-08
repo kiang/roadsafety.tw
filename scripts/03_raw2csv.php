@@ -33,6 +33,10 @@ $toReplace = [
 ];
 foreach (glob($basePath . '/raw/GetCitiesAreaAccDataStatistics/*/*.json') as $jsonFile) {
     $p1 = pathinfo($jsonFile);
+    $dataFile = $dataPath . '/' . $p1['filename'] . '.csv';
+    if(file_exists($dataFile)) {
+        continue;
+    }
     if (substr($p1['dirname'], -3) !== 'ALL') {
         $parts = explode('_', $p1['filename']);
         if (!isset($population[$parts[0]][$parts[1]])) {
@@ -64,7 +68,6 @@ foreach (glob($basePath . '/raw/GetCitiesAreaAccDataStatistics/*/*.json') as $js
             $json = json_decode(file_get_contents($jsonFile), true);
             foreach($json AS $item) {
                 $area = $item['row'][0] . $item['col'][0];
-                $dataFile = $dataPath . '/' . $p1['filename'] . '.csv';
                 if(!file_exists($dataFile)) {
                     $oFh = fopen($dataFile, 'w');
                     fputcsv($oFh, ['area', 'population', 'death', 'rate']);
