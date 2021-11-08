@@ -3,7 +3,7 @@
 $basePath = dirname(__DIR__);
 $populationPath = '/home/kiang/public_html/tw_population/population';
 $population = [];
-$dataPath = $basePath . '/data/csv';
+$dataPath = $basePath . '/data/area';
 if(!file_exists($dataPath)) {
     mkdir($dataPath, 0777, true);
 }
