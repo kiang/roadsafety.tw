@@ -1,6 +1,15 @@
 <?php
 
-$page = file_get_contents('https://roadsafety.tw/Dashboard/Custom?type=30%E6%97%A5%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B8');
+include dirname(__DIR__) . '/vendor/autoload.php';
+
+use Goutte\Client;
+
+$client = new Client();
+$client->setServerParameter('HTTP_USER_AGENT', 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0');
+
+$client->request('GET', 'https://roadsafety.tw/Dashboard/Custom?type=30%E6%97%A5%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B8');
+
+$page = $client->getResponse()->getContent();
 $pos = strpos($page, 'DashboardAjax/GetCitiesAreaAccDataStatistics');
 if (false !== $pos) {
     $pos = strpos($page, '?City', $pos);
@@ -23,7 +32,8 @@ if (false !== $pos) {
             $targetFile = "{$optionPath}/{$parts[1]}_{$parts[2]}.json";
             $city = urlencode($option);
             if (!file_exists($targetFile)) {
-                $json = json_decode(file_get_contents("{$baseUrl}City={$city}&Cyear={$parts[1]}%E5%B9%B4&Month={$parts[2]}%E6%9C%88&Type=30%E6%97%A5%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B8"));
+                $client->request('GET', "{$baseUrl}City={$city}&Cyear={$parts[1]}%E5%B9%B4&Month={$parts[2]}%E6%9C%88&Type=30%E6%97%A5%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B8");
+                $json = json_decode($client->getResponse()->getContent());
                 file_put_contents($targetFile, json_encode($json, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
             }
         }
@@ -35,7 +45,8 @@ if (false !== $pos) {
             $uTopic = urlencode($topic);
             foreach ($options as $option) {
                 $city = urlencode($option);
-                $json = json_decode(file_get_contents("{$baseUrl3}Topic={$uTopic}&City={$city}"), true);
+                $client->request('GET', "{$baseUrl3}Topic={$uTopic}&City={$city}");
+                $json = json_decode($client->getResponse()->getContent(), true);
                 if (!empty($json)) {
                     $optionPath = $dataPath3 . '/' . $option . '/' . $json[0]['row'][1];
                     if (!file_exists($optionPath)) {
