@@ -31,10 +31,11 @@ $toReplace = [
     '彰化縣員林鎮' => '彰化縣員林市',
     '苗栗縣頭份鎮' => '苗栗縣頭份市',
 ];
+$created = [];
 foreach (glob($basePath . '/raw/GetCitiesAreaAccDataStatistics/*/*.json') as $jsonFile) {
     $p1 = pathinfo($jsonFile);
     $dataFile = $dataPath . '/' . $p1['filename'] . '.csv';
-    if(file_exists($dataFile)) {
+    if(file_exists($dataFile) && !isset($created[$dataFile])) {
         continue;
     }
     if (substr($p1['dirname'], -3) !== 'ALL') {
@@ -71,6 +72,7 @@ foreach (glob($basePath . '/raw/GetCitiesAreaAccDataStatistics/*/*.json') as $js
                 if(!file_exists($dataFile)) {
                     $oFh = fopen($dataFile, 'w');
                     fputcsv($oFh, ['area', 'population', 'death', 'rate']);
+                    $created[$dataFile] = true;
                 } else {
                     $oFh = fopen($dataFile, 'a');
                 }
