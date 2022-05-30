@@ -9,7 +9,7 @@
             "未注意車前狀況"
         ],
         "colCode": null,
-        "value": 628,
+        "value": 979,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 200,
+        "value": 327,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "未依規定讓車"
         ],
         "colCode": null,
-        "value": 149,
+        "value": 238,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "不明原因肇事"
         ],
         "colCode": null,
-        "value": 106,
+        "value": 161,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,7 @@
             "未依規定減速"
         ],
         "colCode": null,
-        "value": 60,
+        "value": 104,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -89,7 +89,7 @@
             "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 36,
+        "value": 52,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -105,7 +105,7 @@
             "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 97,
+        "value": 169,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -121,7 +121,7 @@
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 68,
+        "value": 107,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -135,6 +135,70 @@
         ],
         "col": [
             "未保持行車安全距離"
+        ],
+        "colCode": null,
+        "value": 79,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "雲林縣",
+            "111年",
+            "小客車"
+        ],
+        "col": [
+            "未注意車前狀況"
+        ],
+        "colCode": null,
+        "value": 306,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "雲林縣",
+            "111年",
+            "小客車"
+        ],
+        "col": [
+            "車輛駕駛人-尚未發現肇事因素"
+        ],
+        "colCode": null,
+        "value": 240,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "雲林縣",
+            "111年",
+            "小客車"
+        ],
+        "col": [
+            "未依規定讓車"
+        ],
+        "colCode": null,
+        "value": 276,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "雲林縣",
+            "111年",
+            "小客車"
+        ],
+        "col": [
+            "不明原因肇事"
         ],
         "colCode": null,
         "value": 51,
@@ -150,74 +214,10 @@
             "小客車"
         ],
         "col": [
-            "未注意車前狀況"
-        ],
-        "colCode": null,
-        "value": 208,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "雲林縣",
-            "111年",
-            "小客車"
-        ],
-        "col": [
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "colCode": null,
-        "value": 150,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "雲林縣",
-            "111年",
-            "小客車"
-        ],
-        "col": [
-            "未依規定讓車"
-        ],
-        "colCode": null,
-        "value": 183,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "雲林縣",
-            "111年",
-            "小客車"
-        ],
-        "col": [
-            "不明原因肇事"
-        ],
-        "colCode": null,
-        "value": 27,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "雲林縣",
-            "111年",
-            "小客車"
-        ],
-        "col": [
             "未依規定減速"
         ],
         "colCode": null,
-        "value": 42,
+        "value": 65,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -233,7 +233,7 @@
             "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 25,
+        "value": 36,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -249,7 +249,7 @@
             "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 43,
+        "value": 79,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -265,7 +265,7 @@
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 39,
+        "value": 60,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -281,7 +281,7 @@
             "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 12,
+        "value": 21,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -297,7 +297,7 @@
             "未注意車前狀況"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -323,13 +323,45 @@
         "row": [
             "雲林縣",
             "111年",
+            "大客車"
+        ],
+        "col": [
+            "不明原因肇事"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "雲林縣",
+            "111年",
+            "大客車"
+        ],
+        "col": [
+            "其他引起事故之違規或不當行為"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "雲林縣",
+            "111年",
             "自行車"
         ],
         "col": [
             "未注意車前狀況"
         ],
         "colCode": null,
-        "value": 11,
+        "value": 18,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -345,7 +377,7 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 21,
+        "value": 28,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -361,7 +393,7 @@
             "未依規定讓車"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 10,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -377,7 +409,23 @@
             "不明原因肇事"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 9,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "雲林縣",
+            "111年",
+            "自行車"
+        ],
+        "col": [
+            "未依規定減速"
+        ],
+        "colCode": null,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -409,7 +457,7 @@
             "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -425,7 +473,7 @@
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 10,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -441,7 +489,7 @@
             "未注意車前狀況"
         ],
         "colCode": null,
-        "value": 20,
+        "value": 25,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -457,7 +505,7 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 11,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -473,7 +521,7 @@
             "未依規定讓車"
         ],
         "colCode": null,
-        "value": 7,
+        "value": 13,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -489,7 +537,7 @@
             "不明原因肇事"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -521,7 +569,7 @@
             "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -537,7 +585,7 @@
             "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -553,7 +601,23 @@
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 3,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "雲林縣",
+            "111年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "未保持行車安全距離"
+        ],
+        "colCode": null,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -569,7 +633,7 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 24,
+        "value": 33,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
