@@ -41,7 +41,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -89,7 +89,7 @@
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -121,7 +121,7 @@
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 11,
+        "value": 17,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -166,7 +166,39 @@
             "未依規定讓車"
         ],
         "col": [
+            "車與車其他"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "連江縣",
+            "111年",
+            "未依規定讓車"
+        ],
+        "col": [
             "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "連江縣",
+            "111年",
+            "其他引起事故之違規或不當行為"
+        ],
+        "col": [
+            "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 1,

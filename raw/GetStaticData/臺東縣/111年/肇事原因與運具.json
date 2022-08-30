@@ -9,7 +9,7 @@
             "未注意車前狀況"
         ],
         "colCode": null,
-        "value": 388,
+        "value": 478,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 303,
+        "value": 362,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -36,6 +36,150 @@
             "臺東縣",
             "111年",
             "機車"
+        ],
+        "col": [
+            "未依規定讓車"
+        ],
+        "colCode": null,
+        "value": 222,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "111年",
+            "機車"
+        ],
+        "col": [
+            "不明原因肇事"
+        ],
+        "colCode": null,
+        "value": 51,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "111年",
+            "機車"
+        ],
+        "col": [
+            "未依規定減速"
+        ],
+        "colCode": null,
+        "value": 185,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "111年",
+            "機車"
+        ],
+        "col": [
+            "違反號誌管制或指揮"
+        ],
+        "colCode": null,
+        "value": 19,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "111年",
+            "機車"
+        ],
+        "col": [
+            "其他引起事故之違規或不當行為"
+        ],
+        "colCode": null,
+        "value": 335,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "111年",
+            "機車"
+        ],
+        "col": [
+            "左轉彎未依規定"
+        ],
+        "colCode": null,
+        "value": 34,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "111年",
+            "機車"
+        ],
+        "col": [
+            "未保持行車安全距離"
+        ],
+        "colCode": null,
+        "value": 44,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "111年",
+            "小客車"
+        ],
+        "col": [
+            "未注意車前狀況"
+        ],
+        "colCode": null,
+        "value": 167,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "111年",
+            "小客車"
+        ],
+        "col": [
+            "車輛駕駛人-尚未發現肇事因素"
+        ],
+        "colCode": null,
+        "value": 216,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "111年",
+            "小客車"
         ],
         "col": [
             "未依規定讓車"
@@ -51,42 +195,10 @@
         "row": [
             "臺東縣",
             "111年",
-            "機車"
+            "小客車"
         ],
         "col": [
             "不明原因肇事"
-        ],
-        "colCode": null,
-        "value": 40,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺東縣",
-            "111年",
-            "機車"
-        ],
-        "col": [
-            "未依規定減速"
-        ],
-        "colCode": null,
-        "value": 151,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺東縣",
-            "111年",
-            "機車"
-        ],
-        "col": [
-            "違反號誌管制或指揮"
         ],
         "colCode": null,
         "value": 15,
@@ -99,13 +211,45 @@
         "row": [
             "臺東縣",
             "111年",
-            "機車"
+            "小客車"
+        ],
+        "col": [
+            "未依規定減速"
+        ],
+        "colCode": null,
+        "value": 72,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "111年",
+            "小客車"
+        ],
+        "col": [
+            "違反號誌管制或指揮"
+        ],
+        "colCode": null,
+        "value": 20,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "111年",
+            "小客車"
         ],
         "col": [
             "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 274,
+        "value": 67,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -115,90 +259,10 @@
         "row": [
             "臺東縣",
             "111年",
-            "機車"
+            "小客車"
         ],
         "col": [
             "左轉彎未依規定"
-        ],
-        "colCode": null,
-        "value": 31,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺東縣",
-            "111年",
-            "機車"
-        ],
-        "col": [
-            "未保持行車安全距離"
-        ],
-        "colCode": null,
-        "value": 40,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺東縣",
-            "111年",
-            "小客車"
-        ],
-        "col": [
-            "未注意車前狀況"
-        ],
-        "colCode": null,
-        "value": 136,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺東縣",
-            "111年",
-            "小客車"
-        ],
-        "col": [
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "colCode": null,
-        "value": 180,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺東縣",
-            "111年",
-            "小客車"
-        ],
-        "col": [
-            "未依規定讓車"
-        ],
-        "colCode": null,
-        "value": 145,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺東縣",
-            "111年",
-            "小客車"
-        ],
-        "col": [
-            "不明原因肇事"
         ],
         "colCode": null,
         "value": 13,
@@ -214,10 +278,10 @@
             "小客車"
         ],
         "col": [
-            "未依規定減速"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 61,
+        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -227,10 +291,154 @@
         "row": [
             "臺東縣",
             "111年",
-            "小客車"
+            "大客車"
+        ],
+        "col": [
+            "未注意車前狀況"
+        ],
+        "colCode": null,
+        "value": 3,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "111年",
+            "大客車"
+        ],
+        "col": [
+            "車輛駕駛人-尚未發現肇事因素"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "111年",
+            "大客車"
+        ],
+        "col": [
+            "未依規定減速"
+        ],
+        "colCode": null,
+        "value": 2,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "111年",
+            "大客車"
+        ],
+        "col": [
+            "未保持行車安全距離"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "111年",
+            "自行車"
+        ],
+        "col": [
+            "未注意車前狀況"
+        ],
+        "colCode": null,
+        "value": 11,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "111年",
+            "自行車"
+        ],
+        "col": [
+            "車輛駕駛人-尚未發現肇事因素"
+        ],
+        "colCode": null,
+        "value": 21,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "111年",
+            "自行車"
+        ],
+        "col": [
+            "未依規定讓車"
+        ],
+        "colCode": null,
+        "value": 5,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "111年",
+            "自行車"
+        ],
+        "col": [
+            "不明原因肇事"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "111年",
+            "自行車"
         ],
         "col": [
             "違反號誌管制或指揮"
+        ],
+        "colCode": null,
+        "value": 2,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "111年",
+            "自行車"
+        ],
+        "col": [
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
         "value": 16,
@@ -243,221 +451,13 @@
         "row": [
             "臺東縣",
             "111年",
-            "小客車"
-        ],
-        "col": [
-            "其他引起事故之違規或不當行為"
-        ],
-        "colCode": null,
-        "value": 58,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺東縣",
-            "111年",
-            "小客車"
-        ],
-        "col": [
-            "左轉彎未依規定"
-        ],
-        "colCode": null,
-        "value": 12,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺東縣",
-            "111年",
-            "小客車"
-        ],
-        "col": [
-            "未保持行車安全距離"
-        ],
-        "colCode": null,
-        "value": 5,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺東縣",
-            "111年",
-            "大客車"
-        ],
-        "col": [
-            "未注意車前狀況"
-        ],
-        "colCode": null,
-        "value": 2,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺東縣",
-            "111年",
-            "大客車"
-        ],
-        "col": [
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "colCode": null,
-        "value": 1,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺東縣",
-            "111年",
-            "大客車"
-        ],
-        "col": [
-            "未依規定減速"
-        ],
-        "colCode": null,
-        "value": 1,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺東縣",
-            "111年",
-            "大客車"
-        ],
-        "col": [
-            "未保持行車安全距離"
-        ],
-        "colCode": null,
-        "value": 1,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺東縣",
-            "111年",
-            "自行車"
-        ],
-        "col": [
-            "未注意車前狀況"
-        ],
-        "colCode": null,
-        "value": 10,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺東縣",
-            "111年",
-            "自行車"
-        ],
-        "col": [
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "colCode": null,
-        "value": 19,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺東縣",
-            "111年",
-            "自行車"
-        ],
-        "col": [
-            "未依規定讓車"
-        ],
-        "colCode": null,
-        "value": 4,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺東縣",
-            "111年",
-            "自行車"
-        ],
-        "col": [
-            "不明原因肇事"
-        ],
-        "colCode": null,
-        "value": 1,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺東縣",
-            "111年",
-            "自行車"
-        ],
-        "col": [
-            "違反號誌管制或指揮"
-        ],
-        "colCode": null,
-        "value": 2,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺東縣",
-            "111年",
-            "自行車"
-        ],
-        "col": [
-            "其他引起事故之違規或不當行為"
-        ],
-        "colCode": null,
-        "value": 13,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺東縣",
-            "111年",
             "自行車"
         ],
         "col": [
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -489,7 +489,7 @@
             "未注意車前狀況"
         ],
         "colCode": null,
-        "value": 17,
+        "value": 18,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -505,7 +505,7 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 14,
+        "value": 15,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -521,7 +521,7 @@
             "未依規定讓車"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -569,7 +569,7 @@
             "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -601,7 +601,7 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 21,
+        "value": 23,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,

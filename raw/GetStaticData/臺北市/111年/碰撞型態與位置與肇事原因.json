@@ -9,7 +9,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 378,
+        "value": 450,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 458,
+        "value": 572,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 320,
+        "value": 392,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 128,
+        "value": 170,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 538,
+        "value": 638,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -89,7 +89,7 @@
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 12,
+        "value": 16,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -103,6 +103,54 @@
         ],
         "col": [
             "車與車對向擦撞"
+        ],
+        "colCode": null,
+        "value": 64,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "未注意車前狀況"
+        ],
+        "col": [
+            "人與汽(機)車穿越道路中"
+        ],
+        "colCode": null,
+        "value": 153,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "未注意車前狀況"
+        ],
+        "col": [
+            "車與車對撞"
+        ],
+        "colCode": null,
+        "value": 17,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "未注意車前狀況"
+        ],
+        "col": [
+            "人與汽(機)車其他"
         ],
         "colCode": null,
         "value": 56,
@@ -115,13 +163,125 @@
         "row": [
             "臺北市",
             "111年",
-            "未注意車前狀況"
+            "車輛駕駛人-尚未發現肇事因素"
+        ],
+        "col": [
+            "車與車側撞"
+        ],
+        "colCode": null,
+        "value": 1510,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "車輛駕駛人-尚未發現肇事因素"
+        ],
+        "col": [
+            "車與車其他"
+        ],
+        "colCode": null,
+        "value": 1856,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "車輛駕駛人-尚未發現肇事因素"
+        ],
+        "col": [
+            "車與車同向擦撞"
+        ],
+        "colCode": null,
+        "value": 1142,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "車輛駕駛人-尚未發現肇事因素"
+        ],
+        "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 383,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "車輛駕駛人-尚未發現肇事因素"
+        ],
+        "col": [
+            "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 1245,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "車輛駕駛人-尚未發現肇事因素"
+        ],
+        "col": [
+            "汽(機)車本身路上翻車、摔倒"
+        ],
+        "colCode": null,
+        "value": 34,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "車輛駕駛人-尚未發現肇事因素"
+        ],
+        "col": [
+            "車與車對向擦撞"
+        ],
+        "colCode": null,
+        "value": 220,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 137,
+        "value": 36,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -131,13 +291,13 @@
         "row": [
             "臺北市",
             "111年",
-            "未注意車前狀況"
+            "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
             "車與車對撞"
         ],
         "colCode": null,
-        "value": 13,
+        "value": 51,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -147,10 +307,122 @@
         "row": [
             "臺北市",
             "111年",
-            "未注意車前狀況"
+            "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
             "人與汽(機)車其他"
+        ],
+        "colCode": null,
+        "value": 44,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "非車輛駕駛人-尚未發現肇事因素"
+        ],
+        "col": [
+            "車與車側撞"
+        ],
+        "colCode": null,
+        "value": 393,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "非車輛駕駛人-尚未發現肇事因素"
+        ],
+        "col": [
+            "車與車其他"
+        ],
+        "colCode": null,
+        "value": 394,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "非車輛駕駛人-尚未發現肇事因素"
+        ],
+        "col": [
+            "車與車同向擦撞"
+        ],
+        "colCode": null,
+        "value": 259,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "非車輛駕駛人-尚未發現肇事因素"
+        ],
+        "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 120,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "非車輛駕駛人-尚未發現肇事因素"
+        ],
+        "col": [
+            "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 263,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "非車輛駕駛人-尚未發現肇事因素"
+        ],
+        "col": [
+            "汽(機)車本身路上翻車、摔倒"
+        ],
+        "colCode": null,
+        "value": 253,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "非車輛駕駛人-尚未發現肇事因素"
+        ],
+        "col": [
+            "車與車對向擦撞"
         ],
         "colCode": null,
         "value": 45,
@@ -163,285 +435,13 @@
         "row": [
             "臺北市",
             "111年",
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "車與車側撞"
-        ],
-        "colCode": null,
-        "value": 1273,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "車與車其他"
-        ],
-        "colCode": null,
-        "value": 1584,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "車與車同向擦撞"
-        ],
-        "colCode": null,
-        "value": 979,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 312,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "車與車追撞"
-        ],
-        "colCode": null,
-        "value": 1047,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "汽(機)車本身路上翻車、摔倒"
-        ],
-        "colCode": null,
-        "value": 31,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "車與車對向擦撞"
-        ],
-        "colCode": null,
-        "value": 180,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "人與汽(機)車穿越道路中"
-        ],
-        "colCode": null,
-        "value": 33,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "車與車對撞"
-        ],
-        "colCode": null,
-        "value": 39,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "人與汽(機)車其他"
-        ],
-        "colCode": null,
-        "value": 37,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "非車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "車與車側撞"
-        ],
-        "colCode": null,
-        "value": 323,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "非車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "車與車其他"
-        ],
-        "colCode": null,
-        "value": 328,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "非車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "車與車同向擦撞"
-        ],
-        "colCode": null,
-        "value": 219,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "非車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 104,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "非車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "車與車追撞"
-        ],
-        "colCode": null,
-        "value": 228,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "非車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "汽(機)車本身路上翻車、摔倒"
-        ],
-        "colCode": null,
-        "value": 214,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "非車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "車與車對向擦撞"
-        ],
-        "colCode": null,
-        "value": 41,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 314,
+        "value": 350,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -455,102 +455,6 @@
         ],
         "col": [
             "車與車對撞"
-        ],
-        "colCode": null,
-        "value": 8,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "非車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "人與汽(機)車其他"
-        ],
-        "colCode": null,
-        "value": 197,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "未依規定讓車"
-        ],
-        "col": [
-            "車與車側撞"
-        ],
-        "colCode": null,
-        "value": 595,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "未依規定讓車"
-        ],
-        "col": [
-            "車與車其他"
-        ],
-        "colCode": null,
-        "value": 400,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "未依規定讓車"
-        ],
-        "col": [
-            "車與車同向擦撞"
-        ],
-        "colCode": null,
-        "value": 69,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "未依規定讓車"
-        ],
-        "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 535,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "未依規定讓車"
-        ],
-        "col": [
-            "車與車追撞"
         ],
         "colCode": null,
         "value": 9,
@@ -563,10 +467,58 @@
         "row": [
             "臺北市",
             "111年",
+            "非車輛駕駛人-尚未發現肇事因素"
+        ],
+        "col": [
+            "人與汽(機)車其他"
+        ],
+        "colCode": null,
+        "value": 221,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
             "未依規定讓車"
         ],
         "col": [
-            "車與車對向擦撞"
+            "車與車側撞"
+        ],
+        "colCode": null,
+        "value": 711,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "未依規定讓車"
+        ],
+        "col": [
+            "車與車其他"
+        ],
+        "colCode": null,
+        "value": 466,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "未依規定讓車"
+        ],
+        "col": [
+            "車與車同向擦撞"
         ],
         "colCode": null,
         "value": 85,
@@ -582,10 +534,58 @@
             "未依規定讓車"
         ],
         "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 688,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "未依規定讓車"
+        ],
+        "col": [
+            "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 12,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "未依規定讓車"
+        ],
+        "col": [
+            "車與車對向擦撞"
+        ],
+        "colCode": null,
+        "value": 101,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "未依規定讓車"
+        ],
+        "col": [
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -617,7 +617,7 @@
             "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -633,7 +633,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 295,
+        "value": 321,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -649,7 +649,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 677,
+        "value": 758,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -665,7 +665,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 351,
+        "value": 388,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -681,7 +681,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 90,
+        "value": 106,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -697,7 +697,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 269,
+        "value": 301,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -711,262 +711,6 @@
         ],
         "col": [
             "汽(機)車本身路上翻車、摔倒"
-        ],
-        "colCode": null,
-        "value": 71,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "不明原因肇事"
-        ],
-        "col": [
-            "車與車對向擦撞"
-        ],
-        "colCode": null,
-        "value": 52,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "不明原因肇事"
-        ],
-        "col": [
-            "人與汽(機)車穿越道路中"
-        ],
-        "colCode": null,
-        "value": 58,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "不明原因肇事"
-        ],
-        "col": [
-            "車與車對撞"
-        ],
-        "colCode": null,
-        "value": 16,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "不明原因肇事"
-        ],
-        "col": [
-            "人與汽(機)車其他"
-        ],
-        "colCode": null,
-        "value": 76,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "未依規定減速"
-        ],
-        "col": [
-            "車與車側撞"
-        ],
-        "colCode": null,
-        "value": 174,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "未依規定減速"
-        ],
-        "col": [
-            "車與車其他"
-        ],
-        "colCode": null,
-        "value": 109,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "未依規定減速"
-        ],
-        "col": [
-            "車與車同向擦撞"
-        ],
-        "colCode": null,
-        "value": 37,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "未依規定減速"
-        ],
-        "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 176,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "未依規定減速"
-        ],
-        "col": [
-            "車與車追撞"
-        ],
-        "colCode": null,
-        "value": 16,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "未依規定減速"
-        ],
-        "col": [
-            "汽(機)車本身路上翻車、摔倒"
-        ],
-        "colCode": null,
-        "value": 2,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "未依規定減速"
-        ],
-        "col": [
-            "車與車對向擦撞"
-        ],
-        "colCode": null,
-        "value": 17,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "未依規定減速"
-        ],
-        "col": [
-            "人與汽(機)車穿越道路中"
-        ],
-        "colCode": null,
-        "value": 7,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "未依規定減速"
-        ],
-        "col": [
-            "車與車對撞"
-        ],
-        "colCode": null,
-        "value": 5,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "未依規定減速"
-        ],
-        "col": [
-            "人與汽(機)車其他"
-        ],
-        "colCode": null,
-        "value": 2,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "違反號誌管制或指揮"
-        ],
-        "col": [
-            "車與車側撞"
-        ],
-        "colCode": null,
-        "value": 109,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "違反號誌管制或指揮"
-        ],
-        "col": [
-            "車與車其他"
         ],
         "colCode": null,
         "value": 84,
@@ -979,58 +723,42 @@
         "row": [
             "臺北市",
             "111年",
-            "違反號誌管制或指揮"
-        ],
-        "col": [
-            "車與車同向擦撞"
-        ],
-        "colCode": null,
-        "value": 9,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "違反號誌管制或指揮"
-        ],
-        "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 139,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "違反號誌管制或指揮"
-        ],
-        "col": [
-            "車與車追撞"
-        ],
-        "colCode": null,
-        "value": 7,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "違反號誌管制或指揮"
+            "不明原因肇事"
         ],
         "col": [
             "車與車對向擦撞"
+        ],
+        "colCode": null,
+        "value": 53,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "不明原因肇事"
+        ],
+        "col": [
+            "人與汽(機)車穿越道路中"
+        ],
+        "colCode": null,
+        "value": 63,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "不明原因肇事"
+        ],
+        "col": [
+            "車與車對撞"
         ],
         "colCode": null,
         "value": 16,
@@ -1043,45 +771,13 @@
         "row": [
             "臺北市",
             "111年",
-            "違反號誌管制或指揮"
-        ],
-        "col": [
-            "人與汽(機)車穿越道路中"
-        ],
-        "colCode": null,
-        "value": 9,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "違反號誌管制或指揮"
-        ],
-        "col": [
-            "車與車對撞"
-        ],
-        "colCode": null,
-        "value": 5,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺北市",
-            "111年",
-            "違反號誌管制或指揮"
+            "不明原因肇事"
         ],
         "col": [
             "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 80,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1091,13 +787,13 @@
         "row": [
             "臺北市",
             "111年",
-            "其他引起事故之違規或不當行為"
+            "未依規定減速"
         ],
         "col": [
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 62,
+        "value": 205,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1107,13 +803,13 @@
         "row": [
             "臺北市",
             "111年",
-            "其他引起事故之違規或不當行為"
+            "未依規定減速"
         ],
         "col": [
             "車與車其他"
         ],
         "colCode": null,
-        "value": 281,
+        "value": 134,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1123,13 +819,13 @@
         "row": [
             "臺北市",
             "111年",
-            "其他引起事故之違規或不當行為"
+            "未依規定減速"
         ],
         "col": [
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 83,
+        "value": 48,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1139,13 +835,13 @@
         "row": [
             "臺北市",
             "111年",
-            "其他引起事故之違規或不當行為"
+            "未依規定減速"
         ],
         "col": [
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 25,
+        "value": 224,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1155,13 +851,13 @@
         "row": [
             "臺北市",
             "111年",
-            "其他引起事故之違規或不當行為"
+            "未依規定減速"
         ],
         "col": [
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 82,
+        "value": 18,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1171,13 +867,13 @@
         "row": [
             "臺北市",
             "111年",
-            "其他引起事故之違規或不當行為"
+            "未依規定減速"
         ],
         "col": [
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 74,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1187,7 +883,7 @@
         "row": [
             "臺北市",
             "111年",
-            "其他引起事故之違規或不當行為"
+            "未依規定減速"
         ],
         "col": [
             "車與車對向擦撞"
@@ -1203,13 +899,317 @@
         "row": [
             "臺北市",
             "111年",
+            "未依規定減速"
+        ],
+        "col": [
+            "人與汽(機)車穿越道路中"
+        ],
+        "colCode": null,
+        "value": 8,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "未依規定減速"
+        ],
+        "col": [
+            "車與車對撞"
+        ],
+        "colCode": null,
+        "value": 5,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "未依規定減速"
+        ],
+        "col": [
+            "人與汽(機)車其他"
+        ],
+        "colCode": null,
+        "value": 2,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "違反號誌管制或指揮"
+        ],
+        "col": [
+            "車與車側撞"
+        ],
+        "colCode": null,
+        "value": 139,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "違反號誌管制或指揮"
+        ],
+        "col": [
+            "車與車其他"
+        ],
+        "colCode": null,
+        "value": 94,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "違反號誌管制或指揮"
+        ],
+        "col": [
+            "車與車同向擦撞"
+        ],
+        "colCode": null,
+        "value": 17,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "違反號誌管制或指揮"
+        ],
+        "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 174,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "違反號誌管制或指揮"
+        ],
+        "col": [
+            "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 9,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "違反號誌管制或指揮"
+        ],
+        "col": [
+            "車與車對向擦撞"
+        ],
+        "colCode": null,
+        "value": 17,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "違反號誌管制或指揮"
+        ],
+        "col": [
+            "人與汽(機)車穿越道路中"
+        ],
+        "colCode": null,
+        "value": 9,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "違反號誌管制或指揮"
+        ],
+        "col": [
+            "車與車對撞"
+        ],
+        "colCode": null,
+        "value": 7,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "違反號誌管制或指揮"
+        ],
+        "col": [
+            "人與汽(機)車其他"
+        ],
+        "colCode": null,
+        "value": 5,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "其他引起事故之違規或不當行為"
+        ],
+        "col": [
+            "車與車側撞"
+        ],
+        "colCode": null,
+        "value": 79,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "其他引起事故之違規或不當行為"
+        ],
+        "col": [
+            "車與車其他"
+        ],
+        "colCode": null,
+        "value": 333,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "其他引起事故之違規或不當行為"
+        ],
+        "col": [
+            "車與車同向擦撞"
+        ],
+        "colCode": null,
+        "value": 99,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "其他引起事故之違規或不當行為"
+        ],
+        "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 27,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "其他引起事故之違規或不當行為"
+        ],
+        "col": [
+            "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 94,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "其他引起事故之違規或不當行為"
+        ],
+        "col": [
+            "汽(機)車本身路上翻車、摔倒"
+        ],
+        "colCode": null,
+        "value": 90,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
+            "其他引起事故之違規或不當行為"
+        ],
+        "col": [
+            "車與車對向擦撞"
+        ],
+        "colCode": null,
+        "value": 25,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺北市",
+            "111年",
             "其他引起事故之違規或不當行為"
         ],
         "col": [
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 10,
+        "value": 11,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1225,7 +1225,7 @@
             "車與車對撞"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1241,7 +1241,7 @@
             "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 21,
+        "value": 25,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1257,7 +1257,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 347,
+        "value": 419,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1273,7 +1273,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 254,
+        "value": 301,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1289,7 +1289,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 154,
+        "value": 191,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1305,7 +1305,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 18,
+        "value": 21,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1337,7 +1337,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 60,
+        "value": 67,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1353,7 +1353,7 @@
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 14,
+        "value": 15,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1385,7 +1385,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 31,
+        "value": 39,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1401,7 +1401,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 120,
+        "value": 143,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1417,7 +1417,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 63,
+        "value": 85,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1433,7 +1433,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 475,
+        "value": 580,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
