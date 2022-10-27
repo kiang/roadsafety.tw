@@ -9,7 +9,7 @@
             "未注意車前狀況"
         ],
         "colCode": null,
-        "value": 2902,
+        "value": 3396,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 1422,
+        "value": 1649,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "未依規定讓車"
         ],
         "colCode": null,
-        "value": 472,
+        "value": 552,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "不明原因肇事"
         ],
         "colCode": null,
-        "value": 278,
+        "value": 328,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -71,6 +71,70 @@
         ],
         "col": [
             "未依規定減速"
+        ],
+        "colCode": null,
+        "value": 401,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "111年",
+            "機車"
+        ],
+        "col": [
+            "其他引起事故之違規或不當行為"
+        ],
+        "colCode": null,
+        "value": 218,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "111年",
+            "機車"
+        ],
+        "col": [
+            "違反號誌管制或指揮"
+        ],
+        "colCode": null,
+        "value": 120,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "111年",
+            "機車"
+        ],
+        "col": [
+            "左轉彎未依規定"
+        ],
+        "colCode": null,
+        "value": 209,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "111年",
+            "機車"
+        ],
+        "col": [
+            "未保持行車安全距離"
         ],
         "colCode": null,
         "value": 341,
@@ -83,77 +147,13 @@
         "row": [
             "新竹縣",
             "111年",
-            "機車"
-        ],
-        "col": [
-            "違反號誌管制或指揮"
-        ],
-        "colCode": null,
-        "value": 107,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "111年",
-            "機車"
-        ],
-        "col": [
-            "其他引起事故之違規或不當行為"
-        ],
-        "colCode": null,
-        "value": 181,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "111年",
-            "機車"
-        ],
-        "col": [
-            "左轉彎未依規定"
-        ],
-        "colCode": null,
-        "value": 183,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "111年",
-            "機車"
-        ],
-        "col": [
-            "未保持行車安全距離"
-        ],
-        "colCode": null,
-        "value": 303,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "111年",
             "小客車"
         ],
         "col": [
             "未注意車前狀況"
         ],
         "colCode": null,
-        "value": 970,
+        "value": 1110,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -169,7 +169,7 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 873,
+        "value": 1044,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -185,7 +185,7 @@
             "未依規定讓車"
         ],
         "colCode": null,
-        "value": 640,
+        "value": 746,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -201,7 +201,7 @@
             "不明原因肇事"
         ],
         "colCode": null,
-        "value": 112,
+        "value": 128,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -217,23 +217,7 @@
             "未依規定減速"
         ],
         "colCode": null,
-        "value": 162,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "111年",
-            "小客車"
-        ],
-        "col": [
-            "違反號誌管制或指揮"
-        ],
-        "colCode": null,
-        "value": 64,
+        "value": 185,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -249,7 +233,23 @@
             "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 91,
+        "value": 107,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "111年",
+            "小客車"
+        ],
+        "col": [
+            "違反號誌管制或指揮"
+        ],
+        "colCode": null,
+        "value": 72,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -265,7 +265,7 @@
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 132,
+        "value": 149,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -281,7 +281,7 @@
             "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 65,
+        "value": 69,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -297,7 +297,7 @@
             "未注意車前狀況"
         ],
         "colCode": null,
-        "value": 7,
+        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -313,7 +313,7 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 10,
+        "value": 12,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -329,7 +329,7 @@
             "未依規定讓車"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -345,7 +345,7 @@
             "不明原因肇事"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -371,141 +371,13 @@
         "row": [
             "新竹縣",
             "111年",
-            "自行車"
-        ],
-        "col": [
-            "未注意車前狀況"
-        ],
-        "colCode": null,
-        "value": 40,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "111年",
-            "自行車"
-        ],
-        "col": [
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "colCode": null,
-        "value": 41,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "111年",
-            "自行車"
-        ],
-        "col": [
-            "未依規定讓車"
-        ],
-        "colCode": null,
-        "value": 9,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "111年",
-            "自行車"
-        ],
-        "col": [
-            "不明原因肇事"
-        ],
-        "colCode": null,
-        "value": 8,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "111年",
-            "自行車"
-        ],
-        "col": [
-            "未依規定減速"
-        ],
-        "colCode": null,
-        "value": 2,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "111年",
-            "自行車"
-        ],
-        "col": [
-            "違反號誌管制或指揮"
-        ],
-        "colCode": null,
-        "value": 2,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "111年",
-            "自行車"
-        ],
-        "col": [
-            "其他引起事故之違規或不當行為"
-        ],
-        "colCode": null,
-        "value": 4,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "111年",
-            "自行車"
-        ],
-        "col": [
-            "左轉彎未依規定"
-        ],
-        "colCode": null,
-        "value": 3,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "111年",
-            "自行車"
+            "大客車"
         ],
         "col": [
             "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -515,13 +387,13 @@
         "row": [
             "新竹縣",
             "111年",
-            "電動自行車(電動+\r電動輔助)"
+            "自行車"
         ],
         "col": [
             "未注意車前狀況"
         ],
         "colCode": null,
-        "value": 53,
+        "value": 54,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -531,13 +403,13 @@
         "row": [
             "新竹縣",
             "111年",
-            "電動自行車(電動+\r電動輔助)"
+            "自行車"
         ],
         "col": [
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 29,
+        "value": 50,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -547,7 +419,7 @@
         "row": [
             "新竹縣",
             "111年",
-            "電動自行車(電動+\r電動輔助)"
+            "自行車"
         ],
         "col": [
             "未依規定讓車"
@@ -563,13 +435,157 @@
         "row": [
             "新竹縣",
             "111年",
+            "自行車"
+        ],
+        "col": [
+            "不明原因肇事"
+        ],
+        "colCode": null,
+        "value": 9,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "111年",
+            "自行車"
+        ],
+        "col": [
+            "未依規定減速"
+        ],
+        "colCode": null,
+        "value": 2,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "111年",
+            "自行車"
+        ],
+        "col": [
+            "其他引起事故之違規或不當行為"
+        ],
+        "colCode": null,
+        "value": 5,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "111年",
+            "自行車"
+        ],
+        "col": [
+            "違反號誌管制或指揮"
+        ],
+        "colCode": null,
+        "value": 2,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "111年",
+            "自行車"
+        ],
+        "col": [
+            "左轉彎未依規定"
+        ],
+        "colCode": null,
+        "value": 4,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "111年",
+            "自行車"
+        ],
+        "col": [
+            "未保持行車安全距離"
+        ],
+        "colCode": null,
+        "value": 3,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "111年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "未注意車前狀況"
+        ],
+        "colCode": null,
+        "value": 63,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "111年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "車輛駕駛人-尚未發現肇事因素"
+        ],
+        "colCode": null,
+        "value": 36,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "111年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "未依規定讓車"
+        ],
+        "colCode": null,
+        "value": 14,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "111年",
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
             "不明原因肇事"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 10,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -585,23 +601,7 @@
             "未依規定減速"
         ],
         "colCode": null,
-        "value": 5,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "111年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "違反號誌管制或指揮"
-        ],
-        "colCode": null,
-        "value": 1,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -630,10 +630,26 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
+            "違反號誌管制或指揮"
+        ],
+        "colCode": null,
+        "value": 2,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "111年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 14,
+        "value": 16,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -649,7 +665,7 @@
             "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -665,7 +681,7 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 144,
+        "value": 155,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -758,10 +774,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 196,
+        "value": 316,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -774,10 +790,10 @@
             "機車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 316,
+        "value": 196,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -902,10 +918,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 127,
+        "value": 188,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -918,10 +934,10 @@
             "小客車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 188,
+        "value": 127,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1142,10 +1158,10 @@
             "自行車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 10,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1158,10 +1174,10 @@
             "自行車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 10,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1286,10 +1302,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1302,10 +1318,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1446,10 +1462,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 195,
+        "value": 165,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1462,10 +1478,10 @@
             "機車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 165,
+        "value": 195,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1590,10 +1606,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 113,
+        "value": 88,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1606,10 +1622,10 @@
             "小客車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 88,
+        "value": 113,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1734,7 +1750,7 @@
             "大客車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
         "value": 1,
@@ -1750,7 +1766,7 @@
             "大客車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
         "value": 1,
@@ -1878,10 +1894,10 @@
             "自行車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 9,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1894,10 +1910,10 @@
             "自行車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 9,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2022,10 +2038,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2038,10 +2054,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2182,10 +2198,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 228,
+        "value": 153,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2198,10 +2214,10 @@
             "機車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 153,
+        "value": 228,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2326,10 +2342,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 130,
+        "value": 61,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2342,10 +2358,10 @@
             "小客車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 61,
+        "value": 130,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2550,10 +2566,10 @@
             "自行車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2566,10 +2582,10 @@
             "自行車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2694,10 +2710,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 7,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2710,10 +2726,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2854,10 +2870,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 232,
+        "value": 124,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2870,10 +2886,10 @@
             "機車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 124,
+        "value": 232,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2998,10 +3014,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 138,
+        "value": 78,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3014,10 +3030,10 @@
             "小客車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 78,
+        "value": 138,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3142,10 +3158,10 @@
             "大客車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3158,10 +3174,10 @@
             "大客車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3286,10 +3302,10 @@
             "自行車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3302,10 +3318,10 @@
             "自行車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3430,10 +3446,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3446,10 +3462,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3574,10 +3590,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 173,
+        "value": 108,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3590,10 +3606,10 @@
             "機車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 108,
+        "value": 173,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3718,10 +3734,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 144,
+        "value": 83,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3734,10 +3750,10 @@
             "小客車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 83,
+        "value": 144,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3862,7 +3878,7 @@
             "大客車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
         "value": 2,
@@ -3878,7 +3894,7 @@
             "大客車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
         "value": 2,
@@ -3990,10 +4006,10 @@
             "自行車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4006,10 +4022,10 @@
             "自行車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4118,10 +4134,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4134,10 +4150,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4278,10 +4294,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 205,
+        "value": 116,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4294,10 +4310,10 @@
             "機車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 116,
+        "value": 205,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4422,10 +4438,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 154,
+        "value": 44,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4438,10 +4454,10 @@
             "小客車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 44,
+        "value": 154,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4678,10 +4694,10 @@
             "自行車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4694,10 +4710,10 @@
             "自行車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 7,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4950,10 +4966,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 191,
+        "value": 129,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4966,10 +4982,10 @@
             "機車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 129,
+        "value": 191,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5094,10 +5110,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 125,
+        "value": 40,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5110,10 +5126,10 @@
             "小客車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 40,
+        "value": 125,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5350,10 +5366,10 @@
             "自行車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5366,10 +5382,10 @@
             "自行車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5494,7 +5510,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
         "value": 1,
@@ -5510,7 +5526,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
         "value": 1,
@@ -5622,10 +5638,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 248,
+        "value": 137,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5638,10 +5654,10 @@
             "機車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 137,
+        "value": 248,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5766,10 +5782,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 163,
+        "value": 31,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5782,10 +5798,10 @@
             "小客車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 31,
+        "value": 163,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5894,7 +5910,7 @@
             "大客車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
         "value": 2,
@@ -5910,7 +5926,7 @@
             "大客車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
         "value": 2,
@@ -6022,10 +6038,10 @@
             "自行車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6038,10 +6054,10 @@
             "自行車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6118,7 +6134,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
         "value": 1,
@@ -6134,7 +6150,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
         "value": 1,
@@ -6278,10 +6294,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 307,
+        "value": 129,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6294,10 +6310,10 @@
             "機車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 129,
+        "value": 307,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6438,10 +6454,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 183,
+        "value": 40,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6454,10 +6470,10 @@
             "小客車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 40,
+        "value": 183,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6582,10 +6598,10 @@
             "大客車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6598,10 +6614,10 @@
             "大客車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6710,10 +6726,10 @@
             "自行車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6726,10 +6742,10 @@
             "自行車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6822,10 +6838,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6838,10 +6854,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6982,10 +6998,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 209,
+        "value": 66,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6998,10 +7014,10 @@
             "機車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 66,
+        "value": 209,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7142,10 +7158,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 117,
+        "value": 28,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7158,10 +7174,10 @@
             "小客車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 28,
+        "value": 117,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7270,10 +7286,10 @@
             "大客車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7286,10 +7302,10 @@
             "大客車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7398,10 +7414,10 @@
             "自行車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7414,10 +7430,10 @@
             "自行車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 7,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7702,10 +7718,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 193,
+        "value": 68,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7718,10 +7734,10 @@
             "機車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 68,
+        "value": 193,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7862,10 +7878,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 116,
+        "value": 19,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7878,10 +7894,10 @@
             "小客車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 19,
+        "value": 116,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8118,10 +8134,10 @@
             "自行車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8134,10 +8150,10 @@
             "自行車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 7,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8390,10 +8406,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 162,
+        "value": 83,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8406,10 +8422,10 @@
             "機車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 83,
+        "value": 162,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8550,10 +8566,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 102,
+        "value": 21,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8566,10 +8582,10 @@
             "小客車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 21,
+        "value": 102,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8806,10 +8822,10 @@
             "自行車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8822,10 +8838,10 @@
             "自行車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9094,10 +9110,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 143,
+        "value": 50,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9110,10 +9126,10 @@
             "機車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 50,
+        "value": 143,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9238,10 +9254,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 76,
+        "value": 29,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9254,10 +9270,10 @@
             "小客車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 29,
+        "value": 76,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9654,10 +9670,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 101,
+        "value": 31,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9670,10 +9686,10 @@
             "機車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 31,
+        "value": 101,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9798,10 +9814,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 52,
+        "value": 13,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9814,10 +9830,10 @@
             "小客車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 13,
+        "value": 52,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10022,7 +10038,7 @@
             "自行車"
         ],
         "col": [
-            "違反號誌管制或指揮"
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
         "value": 3,
@@ -10038,7 +10054,7 @@
             "自行車"
         ],
         "col": [
-            "其他引起事故之違規或不當行為"
+            "違反號誌管制或指揮"
         ],
         "colCode": null,
         "value": 3,
