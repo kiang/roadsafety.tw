@@ -59,7 +59,6 @@ foreach (glob($basePath . '/raw/GetCitiesAccData_EachYM/*/*.json') as $jsonFile)
         'backgroundColor' => randomColor(),
         'data' => array_values($pool2),
     ];
-    print_r($chart); exit();
 
     file_put_contents($basePath . '/tmp/chart.json', json_encode([
         'title' => $title . '交通事故死亡統計',
