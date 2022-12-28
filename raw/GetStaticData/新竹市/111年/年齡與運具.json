@@ -9,7 +9,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 916,
+        "value": 1015,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 5628,
+        "value": 6229,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 2185,
+        "value": 2399,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 142,
+        "value": 159,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 142,
+        "value": 159,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -89,7 +89,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 242,
+        "value": 268,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -105,7 +105,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 3067,
+        "value": 3374,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -121,7 +121,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 284,
+        "value": 309,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -169,7 +169,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 33,
+        "value": 37,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -185,7 +185,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 40,
+        "value": 45,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -196,6 +196,102 @@
             "新竹市",
             "111年",
             "自行車"
+        ],
+        "col": [
+            "25-64歲"
+        ],
+        "colCode": null,
+        "value": 75,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "111年",
+            "自行車"
+        ],
+        "col": [
+            "18-24歲"
+        ],
+        "colCode": null,
+        "value": 15,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "111年",
+            "自行車"
+        ],
+        "col": [
+            "兒少(0-17歲)"
+        ],
+        "colCode": null,
+        "value": 53,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "111年",
+            "自行車"
+        ],
+        "col": [
+            "少年(12-17歲)"
+        ],
+        "colCode": null,
+        "value": 47,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "111年",
+            "自行車"
+        ],
+        "col": [
+            "兒童(未滿12歲)"
+        ],
+        "colCode": null,
+        "value": 15,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "111年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "高齡者(65歲以上)"
+        ],
+        "colCode": null,
+        "value": 24,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "111年",
+            "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
             "25-64歲"
@@ -211,58 +307,10 @@
         "row": [
             "新竹市",
             "111年",
-            "自行車"
+            "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
             "18-24歲"
-        ],
-        "colCode": null,
-        "value": 13,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "111年",
-            "自行車"
-        ],
-        "col": [
-            "兒少(0-17歲)"
-        ],
-        "colCode": null,
-        "value": 49,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "111年",
-            "自行車"
-        ],
-        "col": [
-            "少年(12-17歲)"
-        ],
-        "colCode": null,
-        "value": 43,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "111年",
-            "自行車"
-        ],
-        "col": [
-            "兒童(未滿12歲)"
         ],
         "colCode": null,
         "value": 14,
@@ -278,58 +326,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "高齡者(65歲以上)"
-        ],
-        "colCode": null,
-        "value": 19,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "111年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "25-64歲"
-        ],
-        "colCode": null,
-        "value": 62,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "111年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "18-24歲"
-        ],
-        "colCode": null,
-        "value": 11,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "111年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 27,
+        "value": 29,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -345,7 +345,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 27,
+        "value": 29,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -361,7 +361,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 132,
+        "value": 146,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -377,7 +377,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 205,
+        "value": 224,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -391,6 +391,38 @@
         ],
         "col": [
             "18-24歲"
+        ],
+        "colCode": null,
+        "value": 25,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "111年",
+            "行人"
+        ],
+        "col": [
+            "兒少(0-17歲)"
+        ],
+        "colCode": null,
+        "value": 43,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "111年",
+            "行人"
+        ],
+        "col": [
+            "少年(12-17歲)"
         ],
         "colCode": null,
         "value": 22,
@@ -406,42 +438,10 @@
             "行人"
         ],
         "col": [
-            "兒少(0-17歲)"
-        ],
-        "colCode": null,
-        "value": 35,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "111年",
-            "行人"
-        ],
-        "col": [
-            "少年(12-17歲)"
-        ],
-        "colCode": null,
-        "value": 16,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "111年",
-            "行人"
-        ],
-        "col": [
             "兒童(未滿12歲)"
         ],
         "colCode": null,
-        "value": 20,
+        "value": 23,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
