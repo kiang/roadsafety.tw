@@ -9,7 +9,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 839,
+        "value": 1098,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 503,
+        "value": 650,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 469,
+        "value": 629,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 361,
+        "value": 439,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 423,
+        "value": 570,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -89,7 +89,7 @@
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 137,
+        "value": 196,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -105,7 +105,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 176,
+        "value": 222,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -121,7 +121,7 @@
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 45,
+        "value": 58,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -137,7 +137,7 @@
             "車與車對撞"
         ],
         "colCode": null,
-        "value": 54,
+        "value": 72,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -151,150 +151,6 @@
         ],
         "col": [
             "人與汽(機)車其他"
-        ],
-        "colCode": null,
-        "value": 24,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "車與車側撞"
-        ],
-        "colCode": null,
-        "value": 448,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "車與車其他"
-        ],
-        "colCode": null,
-        "value": 300,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "車與車同向擦撞"
-        ],
-        "colCode": null,
-        "value": 270,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 228,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "車與車追撞"
-        ],
-        "colCode": null,
-        "value": 263,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "汽(機)車本身路上翻車、摔倒"
-        ],
-        "colCode": null,
-        "value": 6,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "車與車對向擦撞"
-        ],
-        "colCode": null,
-        "value": 92,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "人與汽(機)車穿越道路中"
-        ],
-        "colCode": null,
-        "value": 30,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "車與車對撞"
         ],
         "colCode": null,
         "value": 29,
@@ -310,26 +166,10 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
-        ],
-        "colCode": null,
-        "value": 15,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "112年",
-            "大客車"
-        ],
-        "col": [
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 598,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -339,13 +179,13 @@
         "row": [
             "新竹縣",
             "112年",
-            "大客車"
+            "小客車"
         ],
         "col": [
             "車與車其他"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 401,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -355,13 +195,13 @@
         "row": [
             "新竹縣",
             "112年",
-            "大客車"
+            "小客車"
         ],
         "col": [
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 358,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -371,13 +211,13 @@
         "row": [
             "新竹縣",
             "112年",
-            "大客車"
+            "小客車"
         ],
         "col": [
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 271,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -387,13 +227,13 @@
         "row": [
             "新竹縣",
             "112年",
-            "大客車"
+            "小客車"
         ],
         "col": [
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 346,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -403,106 +243,10 @@
         "row": [
             "新竹縣",
             "112年",
-            "大客車"
+            "小客車"
         ],
         "col": [
-            "車與車對向擦撞"
-        ],
-        "colCode": null,
-        "value": 1,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "112年",
-            "大客車"
-        ],
-        "col": [
-            "人與汽(機)車其他"
-        ],
-        "colCode": null,
-        "value": 1,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "112年",
-            "自行車"
-        ],
-        "col": [
-            "車與車側撞"
-        ],
-        "colCode": null,
-        "value": 9,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "112年",
-            "自行車"
-        ],
-        "col": [
-            "車與車其他"
-        ],
-        "colCode": null,
-        "value": 15,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "112年",
-            "自行車"
-        ],
-        "col": [
-            "車與車同向擦撞"
-        ],
-        "colCode": null,
-        "value": 4,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "112年",
-            "自行車"
-        ],
-        "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 3,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "112年",
-            "自行車"
-        ],
-        "col": [
-            "車與車追撞"
+            "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 6,
@@ -515,28 +259,92 @@
         "row": [
             "新竹縣",
             "112年",
-            "自行車"
-        ],
-        "col": [
-            "汽(機)車本身路上翻車、摔倒"
-        ],
-        "colCode": null,
-        "value": 2,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹縣",
-            "112年",
-            "自行車"
+            "小客車"
         ],
         "col": [
             "車與車對向擦撞"
         ],
         "colCode": null,
+        "value": 119,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "人與汽(機)車穿越道路中"
+        ],
+        "colCode": null,
+        "value": 39,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "車與車對撞"
+        ],
+        "colCode": null,
+        "value": 37,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "人與汽(機)車其他"
+        ],
+        "colCode": null,
+        "value": 16,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "車與車側撞"
+        ],
+        "colCode": null,
+        "value": 4,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "車與車其他"
+        ],
+        "colCode": null,
         "value": 2,
         "descriptionHtml": "",
         "qty": 0,
@@ -547,7 +355,87 @@
         "row": [
             "新竹縣",
             "112年",
-            "自行車"
+            "大客車"
+        ],
+        "col": [
+            "車與車同向擦撞"
+        ],
+        "colCode": null,
+        "value": 6,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 4,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "車與車對向擦撞"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "人與汽(機)車穿越道路中"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "112年",
+            "大客車"
         ],
         "col": [
             "人與汽(機)車其他"
@@ -563,7 +451,7 @@
         "row": [
             "新竹縣",
             "112年",
-            "電動自行車(電動+\r電動輔助)"
+            "自行車"
         ],
         "col": [
             "車與車側撞"
@@ -579,13 +467,157 @@
         "row": [
             "新竹縣",
             "112年",
+            "自行車"
+        ],
+        "col": [
+            "車與車其他"
+        ],
+        "colCode": null,
+        "value": 22,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "車與車同向擦撞"
+        ],
+        "colCode": null,
+        "value": 7,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 3,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 7,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "汽(機)車本身路上翻車、摔倒"
+        ],
+        "colCode": null,
+        "value": 3,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "車與車對向擦撞"
+        ],
+        "colCode": null,
+        "value": 7,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "車與車對撞"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "人與汽(機)車其他"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "112年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "車與車側撞"
+        ],
+        "colCode": null,
+        "value": 25,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "112年",
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
             "車與車其他"
         ],
         "colCode": null,
-        "value": 9,
+        "value": 10,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -601,7 +633,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 11,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -617,7 +649,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 10,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -633,7 +665,23 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 9,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹縣",
+            "112年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "汽(機)車本身路上翻車、摔倒"
+        ],
+        "colCode": null,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -649,7 +697,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -697,7 +745,7 @@
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 76,
+        "value": 98,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -713,7 +761,7 @@
             "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 20,
+        "value": 24,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,

@@ -9,7 +9,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 998,
+        "value": 1426,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 588,
+        "value": 829,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 334,
+        "value": 455,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 321,
+        "value": 426,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 316,
+        "value": 431,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -89,7 +89,7 @@
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 61,
+        "value": 96,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -105,7 +105,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 74,
+        "value": 103,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -121,7 +121,7 @@
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 169,
+        "value": 223,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -137,7 +137,7 @@
             "車與車對撞"
         ],
         "colCode": null,
-        "value": 23,
+        "value": 28,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -148,6 +148,326 @@
             "臺中市",
             "112年",
             "高齡者(65歲以上)"
+        ],
+        "col": [
+            "人與汽(機)車其他"
+        ],
+        "colCode": null,
+        "value": 75,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺中市",
+            "112年",
+            "25-64歲"
+        ],
+        "col": [
+            "車與車側撞"
+        ],
+        "colCode": null,
+        "value": 10059,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺中市",
+            "112年",
+            "25-64歲"
+        ],
+        "col": [
+            "車與車其他"
+        ],
+        "colCode": null,
+        "value": 5668,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺中市",
+            "112年",
+            "25-64歲"
+        ],
+        "col": [
+            "車與車同向擦撞"
+        ],
+        "colCode": null,
+        "value": 2488,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺中市",
+            "112年",
+            "25-64歲"
+        ],
+        "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 2645,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺中市",
+            "112年",
+            "25-64歲"
+        ],
+        "col": [
+            "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 4503,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺中市",
+            "112年",
+            "25-64歲"
+        ],
+        "col": [
+            "汽(機)車本身路上翻車、摔倒"
+        ],
+        "colCode": null,
+        "value": 763,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺中市",
+            "112年",
+            "25-64歲"
+        ],
+        "col": [
+            "車與車對向擦撞"
+        ],
+        "colCode": null,
+        "value": 619,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺中市",
+            "112年",
+            "25-64歲"
+        ],
+        "col": [
+            "人與汽(機)車穿越道路中"
+        ],
+        "colCode": null,
+        "value": 635,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺中市",
+            "112年",
+            "25-64歲"
+        ],
+        "col": [
+            "車與車對撞"
+        ],
+        "colCode": null,
+        "value": 144,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺中市",
+            "112年",
+            "25-64歲"
+        ],
+        "col": [
+            "人與汽(機)車其他"
+        ],
+        "colCode": null,
+        "value": 248,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺中市",
+            "112年",
+            "18-24歲"
+        ],
+        "col": [
+            "車與車側撞"
+        ],
+        "colCode": null,
+        "value": 3798,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺中市",
+            "112年",
+            "18-24歲"
+        ],
+        "col": [
+            "車與車其他"
+        ],
+        "colCode": null,
+        "value": 1876,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺中市",
+            "112年",
+            "18-24歲"
+        ],
+        "col": [
+            "車與車同向擦撞"
+        ],
+        "colCode": null,
+        "value": 806,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺中市",
+            "112年",
+            "18-24歲"
+        ],
+        "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 721,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺中市",
+            "112年",
+            "18-24歲"
+        ],
+        "col": [
+            "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 1411,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺中市",
+            "112年",
+            "18-24歲"
+        ],
+        "col": [
+            "汽(機)車本身路上翻車、摔倒"
+        ],
+        "colCode": null,
+        "value": 443,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺中市",
+            "112年",
+            "18-24歲"
+        ],
+        "col": [
+            "車與車對向擦撞"
+        ],
+        "colCode": null,
+        "value": 170,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺中市",
+            "112年",
+            "18-24歲"
+        ],
+        "col": [
+            "人與汽(機)車穿越道路中"
+        ],
+        "colCode": null,
+        "value": 134,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺中市",
+            "112年",
+            "18-24歲"
+        ],
+        "col": [
+            "車與車對撞"
+        ],
+        "colCode": null,
+        "value": 52,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺中市",
+            "112年",
+            "18-24歲"
         ],
         "col": [
             "人與汽(機)車其他"
@@ -163,333 +483,13 @@
         "row": [
             "臺中市",
             "112年",
-            "25-64歲"
-        ],
-        "col": [
-            "車與車側撞"
-        ],
-        "colCode": null,
-        "value": 7107,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺中市",
-            "112年",
-            "25-64歲"
-        ],
-        "col": [
-            "車與車其他"
-        ],
-        "colCode": null,
-        "value": 4011,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺中市",
-            "112年",
-            "25-64歲"
-        ],
-        "col": [
-            "車與車同向擦撞"
-        ],
-        "colCode": null,
-        "value": 1794,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺中市",
-            "112年",
-            "25-64歲"
-        ],
-        "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 1971,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺中市",
-            "112年",
-            "25-64歲"
-        ],
-        "col": [
-            "車與車追撞"
-        ],
-        "colCode": null,
-        "value": 3239,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺中市",
-            "112年",
-            "25-64歲"
-        ],
-        "col": [
-            "汽(機)車本身路上翻車、摔倒"
-        ],
-        "colCode": null,
-        "value": 518,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺中市",
-            "112年",
-            "25-64歲"
-        ],
-        "col": [
-            "車與車對向擦撞"
-        ],
-        "colCode": null,
-        "value": 417,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺中市",
-            "112年",
-            "25-64歲"
-        ],
-        "col": [
-            "人與汽(機)車穿越道路中"
-        ],
-        "colCode": null,
-        "value": 452,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺中市",
-            "112年",
-            "25-64歲"
-        ],
-        "col": [
-            "車與車對撞"
-        ],
-        "colCode": null,
-        "value": 104,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺中市",
-            "112年",
-            "25-64歲"
-        ],
-        "col": [
-            "人與汽(機)車其他"
-        ],
-        "colCode": null,
-        "value": 169,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺中市",
-            "112年",
-            "18-24歲"
-        ],
-        "col": [
-            "車與車側撞"
-        ],
-        "colCode": null,
-        "value": 2664,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺中市",
-            "112年",
-            "18-24歲"
-        ],
-        "col": [
-            "車與車其他"
-        ],
-        "colCode": null,
-        "value": 1323,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺中市",
-            "112年",
-            "18-24歲"
-        ],
-        "col": [
-            "車與車同向擦撞"
-        ],
-        "colCode": null,
-        "value": 588,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺中市",
-            "112年",
-            "18-24歲"
-        ],
-        "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 530,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺中市",
-            "112年",
-            "18-24歲"
-        ],
-        "col": [
-            "車與車追撞"
-        ],
-        "colCode": null,
-        "value": 1012,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺中市",
-            "112年",
-            "18-24歲"
-        ],
-        "col": [
-            "汽(機)車本身路上翻車、摔倒"
-        ],
-        "colCode": null,
-        "value": 307,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺中市",
-            "112年",
-            "18-24歲"
-        ],
-        "col": [
-            "車與車對向擦撞"
-        ],
-        "colCode": null,
-        "value": 118,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺中市",
-            "112年",
-            "18-24歲"
-        ],
-        "col": [
-            "人與汽(機)車穿越道路中"
-        ],
-        "colCode": null,
-        "value": 93,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺中市",
-            "112年",
-            "18-24歲"
-        ],
-        "col": [
-            "車與車對撞"
-        ],
-        "colCode": null,
-        "value": 41,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺中市",
-            "112年",
-            "18-24歲"
-        ],
-        "col": [
-            "人與汽(機)車其他"
-        ],
-        "colCode": null,
-        "value": 38,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺中市",
-            "112年",
             "兒少(0-17歲)"
         ],
         "col": [
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 339,
+        "value": 461,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -505,7 +505,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 145,
+        "value": 217,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -521,7 +521,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 63,
+        "value": 87,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -537,7 +537,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 90,
+        "value": 141,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -553,7 +553,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 101,
+        "value": 142,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -569,7 +569,7 @@
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 24,
+        "value": 42,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -585,7 +585,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 28,
+        "value": 32,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -601,7 +601,7 @@
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 75,
+        "value": 106,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -633,7 +633,7 @@
             "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 18,
+        "value": 23,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -649,7 +649,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 218,
+        "value": 304,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -665,7 +665,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 101,
+        "value": 148,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -681,7 +681,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 44,
+        "value": 58,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -697,7 +697,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 53,
+        "value": 87,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -713,7 +713,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 67,
+        "value": 93,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -729,7 +729,7 @@
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 19,
+        "value": 33,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -745,7 +745,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 19,
+        "value": 20,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -761,7 +761,7 @@
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 42,
+        "value": 59,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -793,7 +793,7 @@
             "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 12,
+        "value": 16,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -809,7 +809,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 132,
+        "value": 174,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -825,7 +825,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 55,
+        "value": 84,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -841,7 +841,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 20,
+        "value": 30,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -857,7 +857,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 40,
+        "value": 57,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -873,7 +873,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 36,
+        "value": 54,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -889,7 +889,7 @@
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 9,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -905,7 +905,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 9,
+        "value": 12,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -921,7 +921,7 @@
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 35,
+        "value": 52,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -953,7 +953,7 @@
             "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 9,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,

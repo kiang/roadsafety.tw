@@ -9,7 +9,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 21,
+        "value": 33,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 73,
+        "value": 123,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 25,
+        "value": 34,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 13,
+        "value": 22,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -89,7 +89,23 @@
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 9,
+        "value": 23,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "金門縣",
+            "112年",
+            "機車"
+        ],
+        "col": [
+            "車與車對向擦撞"
+        ],
+        "colCode": null,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -105,7 +121,7 @@
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -121,7 +137,7 @@
             "車與車對撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -153,7 +169,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 16,
+        "value": 25,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -169,7 +185,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 36,
+        "value": 63,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -185,7 +201,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -201,7 +217,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 16,
+        "value": 23,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -217,7 +233,23 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 10,
+        "value": 13,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "金門縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "車與車對撞"
+        ],
+        "colCode": null,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -231,6 +263,22 @@
         ],
         "col": [
             "車與車側撞"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "金門縣",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "車與車同向擦撞"
         ],
         "colCode": null,
         "value": 1,
@@ -281,7 +329,23 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 3,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "金門縣",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -295,6 +359,22 @@
         ],
         "col": [
             "車與車其他"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "金門縣",
+            "112年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "車與車同向擦撞"
         ],
         "colCode": null,
         "value": 1,
@@ -329,7 +409,7 @@
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,

@@ -9,7 +9,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 160,
+        "value": 202,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 594,
+        "value": 759,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 301,
+        "value": 391,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 30,
+        "value": 43,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,23 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 30,
+        "value": 42,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "112年",
+            "機車"
+        ],
+        "col": [
+            "兒童(未滿12歲)"
+        ],
+        "colCode": null,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -89,7 +105,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 74,
+        "value": 92,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -105,7 +121,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 404,
+        "value": 533,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -121,7 +137,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 52,
+        "value": 66,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -169,22 +185,6 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 3,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺東縣",
-            "112年",
-            "自行車"
-        ],
-        "col": [
-            "高齡者(65歲以上)"
-        ],
-        "colCode": null,
         "value": 5,
         "descriptionHtml": "",
         "qty": 0,
@@ -198,10 +198,42 @@
             "自行車"
         ],
         "col": [
+            "高齡者(65歲以上)"
+        ],
+        "colCode": null,
+        "value": 8,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "112年",
+            "自行車"
+        ],
+        "col": [
             "25-64歲"
         ],
         "colCode": null,
-        "value": 13,
+        "value": 19,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "18-24歲"
+        ],
+        "colCode": null,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -217,7 +249,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 13,
+        "value": 14,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -233,7 +265,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 9,
+        "value": 10,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -281,7 +313,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 12,
+        "value": 13,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -313,7 +345,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 9,
+        "value": 15,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -329,7 +361,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 9,
+        "value": 15,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -345,7 +377,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 18,
+        "value": 24,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -361,7 +393,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 16,
+        "value": 22,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -377,7 +409,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 7,
+        "value": 9,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -391,41 +423,41 @@
         ],
         "col": [
             "兒少(0-17歲)"
+        ],
+        "colCode": null,
+        "value": 5,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "112年",
+            "行人"
+        ],
+        "col": [
+            "少年(12-17歲)"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺東縣",
+            "112年",
+            "行人"
+        ],
+        "col": [
+            "兒童(未滿12歲)"
         ],
         "colCode": null,
         "value": 4,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺東縣",
-            "112年",
-            "行人"
-        ],
-        "col": [
-            "少年(12-17歲)"
-        ],
-        "colCode": null,
-        "value": 1,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺東縣",
-            "112年",
-            "行人"
-        ],
-        "col": [
-            "兒童(未滿12歲)"
-        ],
-        "colCode": null,
-        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,

@@ -9,7 +9,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 1746,
+        "value": 2600,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 588,
+        "value": 894,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 229,
+        "value": 352,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 223,
+        "value": 344,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 605,
+        "value": 915,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -89,7 +89,7 @@
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 304,
+        "value": 453,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -105,7 +105,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 71,
+        "value": 107,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -121,7 +121,7 @@
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 75,
+        "value": 106,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -135,134 +135,6 @@
         ],
         "col": [
             "車與車對撞"
-        ],
-        "colCode": null,
-        "value": 26,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "未注意車前狀況"
-        ],
-        "col": [
-            "人與汽(機)車其他"
-        ],
-        "colCode": null,
-        "value": 23,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "車與車側撞"
-        ],
-        "colCode": null,
-        "value": 828,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "車與車其他"
-        ],
-        "colCode": null,
-        "value": 516,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "車與車同向擦撞"
-        ],
-        "colCode": null,
-        "value": 295,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 193,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "車與車追撞"
-        ],
-        "colCode": null,
-        "value": 982,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "汽(機)車本身路上翻車、摔倒"
-        ],
-        "colCode": null,
-        "value": 74,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "車與車對向擦撞"
         ],
         "colCode": null,
         "value": 42,
@@ -275,13 +147,141 @@
         "row": [
             "臺南市",
             "112年",
+            "未注意車前狀況"
+        ],
+        "col": [
+            "人與汽(機)車其他"
+        ],
+        "colCode": null,
+        "value": 35,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "車輛駕駛人-尚未發現肇事因素"
+        ],
+        "col": [
+            "車與車側撞"
+        ],
+        "colCode": null,
+        "value": 1268,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "車輛駕駛人-尚未發現肇事因素"
+        ],
+        "col": [
+            "車與車其他"
+        ],
+        "colCode": null,
+        "value": 783,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "車輛駕駛人-尚未發現肇事因素"
+        ],
+        "col": [
+            "車與車同向擦撞"
+        ],
+        "colCode": null,
+        "value": 450,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "車輛駕駛人-尚未發現肇事因素"
+        ],
+        "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 279,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "車輛駕駛人-尚未發現肇事因素"
+        ],
+        "col": [
+            "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 1454,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "車輛駕駛人-尚未發現肇事因素"
+        ],
+        "col": [
+            "汽(機)車本身路上翻車、摔倒"
+        ],
+        "colCode": null,
+        "value": 103,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "車輛駕駛人-尚未發現肇事因素"
+        ],
+        "col": [
+            "車與車對向擦撞"
+        ],
+        "colCode": null,
+        "value": 73,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 9,
+        "value": 11,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -297,7 +297,7 @@
             "車與車對撞"
         ],
         "colCode": null,
-        "value": 31,
+        "value": 38,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -313,7 +313,7 @@
             "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 10,
+        "value": 12,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -329,7 +329,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 410,
+        "value": 618,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -345,7 +345,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 140,
+        "value": 217,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -361,7 +361,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 90,
+        "value": 143,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -377,7 +377,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 156,
+        "value": 214,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -393,7 +393,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 169,
+        "value": 230,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -409,7 +409,7 @@
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 603,
+        "value": 901,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -425,7 +425,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 19,
+        "value": 26,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -441,7 +441,7 @@
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 56,
+        "value": 80,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -473,7 +473,7 @@
             "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 26,
+        "value": 42,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -489,7 +489,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 1229,
+        "value": 1842,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -505,7 +505,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 166,
+        "value": 241,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -521,7 +521,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 64,
+        "value": 98,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -537,7 +537,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 513,
+        "value": 774,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -553,7 +553,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 12,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -569,7 +569,7 @@
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 30,
+        "value": 48,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -585,7 +585,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 16,
+        "value": 23,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -617,7 +617,7 @@
             "車與車對撞"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -633,7 +633,7 @@
             "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -649,7 +649,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 52,
+        "value": 83,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -665,7 +665,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 65,
+        "value": 106,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -679,22 +679,6 @@
         ],
         "col": [
             "車與車同向擦撞"
-        ],
-        "colCode": null,
-        "value": 16,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "不明原因肇事"
-        ],
-        "col": [
-            "車與車路口交岔撞"
         ],
         "colCode": null,
         "value": 20,
@@ -710,154 +694,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車追撞"
-        ],
-        "colCode": null,
-        "value": 28,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "不明原因肇事"
-        ],
-        "col": [
-            "汽(機)車本身路上翻車、摔倒"
-        ],
-        "colCode": null,
-        "value": 81,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "不明原因肇事"
-        ],
-        "col": [
-            "車與車對向擦撞"
-        ],
-        "colCode": null,
-        "value": 5,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "不明原因肇事"
-        ],
-        "col": [
-            "人與汽(機)車穿越道路中"
-        ],
-        "colCode": null,
-        "value": 2,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "不明原因肇事"
-        ],
-        "col": [
-            "車與車對撞"
-        ],
-        "colCode": null,
-        "value": 3,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "不明原因肇事"
-        ],
-        "col": [
-            "人與汽(機)車其他"
-        ],
-        "colCode": null,
-        "value": 2,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "未依規定減速"
-        ],
-        "col": [
-            "車與車側撞"
-        ],
-        "colCode": null,
-        "value": 263,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "未依規定減速"
-        ],
-        "col": [
-            "車與車其他"
-        ],
-        "colCode": null,
-        "value": 47,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "未依規定減速"
-        ],
-        "col": [
-            "車與車同向擦撞"
-        ],
-        "colCode": null,
-        "value": 11,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "未依規定減速"
-        ],
-        "col": [
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 313,
+        "value": 33,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -867,13 +707,13 @@
         "row": [
             "臺南市",
             "112年",
-            "未依規定減速"
+            "不明原因肇事"
         ],
         "col": [
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 43,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -883,13 +723,13 @@
         "row": [
             "臺南市",
             "112年",
-            "未依規定減速"
+            "不明原因肇事"
         ],
         "col": [
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 15,
+        "value": 128,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -899,7 +739,7 @@
         "row": [
             "臺南市",
             "112年",
-            "未依規定減速"
+            "不明原因肇事"
         ],
         "col": [
             "車與車對向擦撞"
@@ -915,13 +755,13 @@
         "row": [
             "臺南市",
             "112年",
-            "未依規定減速"
+            "不明原因肇事"
         ],
         "col": [
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -931,138 +771,10 @@
         "row": [
             "臺南市",
             "112年",
-            "未依規定減速"
+            "不明原因肇事"
         ],
         "col": [
             "車與車對撞"
-        ],
-        "colCode": null,
-        "value": 1,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "其他引起事故之違規或不當行為"
-        ],
-        "col": [
-            "車與車側撞"
-        ],
-        "colCode": null,
-        "value": 264,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "其他引起事故之違規或不當行為"
-        ],
-        "col": [
-            "車與車其他"
-        ],
-        "colCode": null,
-        "value": 239,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "其他引起事故之違規或不當行為"
-        ],
-        "col": [
-            "車與車同向擦撞"
-        ],
-        "colCode": null,
-        "value": 91,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "其他引起事故之違規或不當行為"
-        ],
-        "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 23,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "其他引起事故之違規或不當行為"
-        ],
-        "col": [
-            "車與車追撞"
-        ],
-        "colCode": null,
-        "value": 107,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "其他引起事故之違規或不當行為"
-        ],
-        "col": [
-            "汽(機)車本身路上翻車、摔倒"
-        ],
-        "colCode": null,
-        "value": 170,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "其他引起事故之違規或不當行為"
-        ],
-        "col": [
-            "車與車對向擦撞"
-        ],
-        "colCode": null,
-        "value": 12,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "其他引起事故之違規或不當行為"
-        ],
-        "col": [
-            "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
         "value": 3,
@@ -1075,29 +787,13 @@
         "row": [
             "臺南市",
             "112年",
-            "其他引起事故之違規或不當行為"
-        ],
-        "col": [
-            "車與車對撞"
-        ],
-        "colCode": null,
-        "value": 9,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "其他引起事故之違規或不當行為"
+            "不明原因肇事"
         ],
         "col": [
             "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1107,13 +803,13 @@
         "row": [
             "臺南市",
             "112年",
-            "違反號誌管制或指揮"
+            "未依規定減速"
         ],
         "col": [
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 234,
+        "value": 400,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1123,13 +819,13 @@
         "row": [
             "臺南市",
             "112年",
-            "違反號誌管制或指揮"
+            "未依規定減速"
         ],
         "col": [
             "車與車其他"
         ],
         "colCode": null,
-        "value": 45,
+        "value": 68,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1139,10 +835,74 @@
         "row": [
             "臺南市",
             "112年",
-            "違反號誌管制或指揮"
+            "未依規定減速"
         ],
         "col": [
             "車與車同向擦撞"
+        ],
+        "colCode": null,
+        "value": 16,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "未依規定減速"
+        ],
+        "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 477,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "未依規定減速"
+        ],
+        "col": [
+            "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 5,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "未依規定減速"
+        ],
+        "col": [
+            "汽(機)車本身路上翻車、摔倒"
+        ],
+        "colCode": null,
+        "value": 18,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "未依規定減速"
+        ],
+        "col": [
+            "車與車對向擦撞"
         ],
         "colCode": null,
         "value": 8,
@@ -1155,13 +915,253 @@
         "row": [
             "臺南市",
             "112年",
+            "未依規定減速"
+        ],
+        "col": [
+            "人與汽(機)車穿越道路中"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "未依規定減速"
+        ],
+        "col": [
+            "車與車對撞"
+        ],
+        "colCode": null,
+        "value": 3,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "其他引起事故之違規或不當行為"
+        ],
+        "col": [
+            "車與車側撞"
+        ],
+        "colCode": null,
+        "value": 420,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "其他引起事故之違規或不當行為"
+        ],
+        "col": [
+            "車與車其他"
+        ],
+        "colCode": null,
+        "value": 362,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "其他引起事故之違規或不當行為"
+        ],
+        "col": [
+            "車與車同向擦撞"
+        ],
+        "colCode": null,
+        "value": 127,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "其他引起事故之違規或不當行為"
+        ],
+        "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 28,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "其他引起事故之違規或不當行為"
+        ],
+        "col": [
+            "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 136,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "其他引起事故之違規或不當行為"
+        ],
+        "col": [
+            "汽(機)車本身路上翻車、摔倒"
+        ],
+        "colCode": null,
+        "value": 243,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "其他引起事故之違規或不當行為"
+        ],
+        "col": [
+            "車與車對向擦撞"
+        ],
+        "colCode": null,
+        "value": 13,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "其他引起事故之違規或不當行為"
+        ],
+        "col": [
+            "人與汽(機)車穿越道路中"
+        ],
+        "colCode": null,
+        "value": 5,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "其他引起事故之違規或不當行為"
+        ],
+        "col": [
+            "車與車對撞"
+        ],
+        "colCode": null,
+        "value": 11,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "其他引起事故之違規或不當行為"
+        ],
+        "col": [
+            "人與汽(機)車其他"
+        ],
+        "colCode": null,
+        "value": 11,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "違反號誌管制或指揮"
+        ],
+        "col": [
+            "車與車側撞"
+        ],
+        "colCode": null,
+        "value": 359,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "違反號誌管制或指揮"
+        ],
+        "col": [
+            "車與車其他"
+        ],
+        "colCode": null,
+        "value": 80,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "違反號誌管制或指揮"
+        ],
+        "col": [
+            "車與車同向擦撞"
+        ],
+        "colCode": null,
+        "value": 10,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
             "違反號誌管制或指揮"
         ],
         "col": [
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 226,
+        "value": 338,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1177,7 +1177,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 12,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1193,7 +1193,7 @@
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 13,
+        "value": 19,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1209,7 +1209,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1225,7 +1225,7 @@
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1273,7 +1273,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 352,
+        "value": 545,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1289,7 +1289,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 65,
+        "value": 98,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1305,7 +1305,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 26,
+        "value": 40,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1319,38 +1319,6 @@
         ],
         "col": [
             "車與車追撞"
-        ],
-        "colCode": null,
-        "value": 9,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "左轉彎未依規定"
-        ],
-        "col": [
-            "汽(機)車本身路上翻車、摔倒"
-        ],
-        "colCode": null,
-        "value": 7,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺南市",
-            "112年",
-            "左轉彎未依規定"
-        ],
-        "col": [
-            "車與車對向擦撞"
         ],
         "colCode": null,
         "value": 16,
@@ -1366,10 +1334,58 @@
             "左轉彎未依規定"
         ],
         "col": [
+            "汽(機)車本身路上翻車、摔倒"
+        ],
+        "colCode": null,
+        "value": 12,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "左轉彎未依規定"
+        ],
+        "col": [
+            "車與車對向擦撞"
+        ],
+        "colCode": null,
+        "value": 19,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "左轉彎未依規定"
+        ],
+        "col": [
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 6,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺南市",
+            "112年",
+            "左轉彎未依規定"
+        ],
+        "col": [
+            "人與汽(機)車其他"
+        ],
+        "colCode": null,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1385,7 +1401,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 64,
+        "value": 88,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1401,7 +1417,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 24,
+        "value": 42,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1417,7 +1433,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 32,
+        "value": 50,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1433,7 +1449,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1449,7 +1465,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 418,
+        "value": 615,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1465,7 +1481,7 @@
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 15,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,

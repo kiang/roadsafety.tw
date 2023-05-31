@@ -9,7 +9,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 242,
+        "value": 374,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 87,
+        "value": 125,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 62,
+        "value": 93,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 107,
+        "value": 164,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -71,6 +71,22 @@
         ],
         "col": [
             "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 66,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "雲林縣",
+            "112年",
+            "高齡者(65歲以上)"
+        ],
+        "col": [
+            "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 47,
@@ -86,26 +102,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
-        ],
-        "colCode": null,
-        "value": 31,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "雲林縣",
-            "112年",
-            "高齡者(65歲以上)"
-        ],
-        "col": [
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 21,
+        "value": 30,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -121,7 +121,7 @@
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 20,
+        "value": 26,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -137,7 +137,7 @@
             "車與車對撞"
         ],
         "colCode": null,
-        "value": 9,
+        "value": 13,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -153,7 +153,7 @@
             "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 12,
+        "value": 15,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -169,7 +169,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 810,
+        "value": 1222,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -185,7 +185,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 373,
+        "value": 541,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -201,7 +201,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 216,
+        "value": 294,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -217,7 +217,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 406,
+        "value": 630,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -233,7 +233,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 271,
+        "value": 378,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -249,7 +249,7 @@
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 97,
+        "value": 125,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -265,7 +265,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 96,
+        "value": 146,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -279,6 +279,22 @@
         ],
         "col": [
             "人與汽(機)車穿越道路中"
+        ],
+        "colCode": null,
+        "value": 53,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "雲林縣",
+            "112年",
+            "25-64歲"
+        ],
+        "col": [
+            "車與車對撞"
         ],
         "colCode": null,
         "value": 33,
@@ -294,26 +310,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車對撞"
-        ],
-        "colCode": null,
-        "value": 22,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "雲林縣",
-            "112年",
-            "25-64歲"
-        ],
-        "col": [
             "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 23,
+        "value": 38,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -329,7 +329,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 292,
+        "value": 443,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -345,7 +345,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 93,
+        "value": 146,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -361,7 +361,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 69,
+        "value": 99,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -377,7 +377,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 100,
+        "value": 173,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -393,7 +393,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 73,
+        "value": 127,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -409,7 +409,7 @@
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 27,
+        "value": 47,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -425,7 +425,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 26,
+        "value": 47,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -441,7 +441,7 @@
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 11,
+        "value": 14,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -457,7 +457,7 @@
             "車與車對撞"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 9,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -473,7 +473,7 @@
             "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -489,7 +489,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 76,
+        "value": 108,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -505,7 +505,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 28,
+        "value": 40,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -521,7 +521,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 12,
+        "value": 20,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -537,7 +537,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 30,
+        "value": 45,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -551,6 +551,38 @@
         ],
         "col": [
             "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 27,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "雲林縣",
+            "112年",
+            "兒少(0-17歲)"
+        ],
+        "col": [
+            "汽(機)車本身路上翻車、摔倒"
+        ],
+        "colCode": null,
+        "value": 15,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "雲林縣",
+            "112年",
+            "兒少(0-17歲)"
+        ],
+        "col": [
+            "車與車對向擦撞"
         ],
         "colCode": null,
         "value": 19,
@@ -566,42 +598,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
-        ],
-        "colCode": null,
-        "value": 12,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "雲林縣",
-            "112年",
-            "兒少(0-17歲)"
-        ],
-        "col": [
-            "車與車對向擦撞"
-        ],
-        "colCode": null,
-        "value": 9,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "雲林縣",
-            "112年",
-            "兒少(0-17歲)"
-        ],
-        "col": [
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -649,7 +649,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 61,
+        "value": 83,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -665,7 +665,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 15,
+        "value": 23,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -681,7 +681,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 9,
+        "value": 14,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -697,7 +697,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 20,
+        "value": 29,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -713,7 +713,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 15,
+        "value": 20,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -729,7 +729,7 @@
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 9,
+        "value": 11,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -745,7 +745,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 9,
+        "value": 14,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -761,7 +761,7 @@
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -809,7 +809,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 20,
+        "value": 31,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -825,7 +825,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 13,
+        "value": 17,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -841,7 +841,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -857,7 +857,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 10,
+        "value": 16,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -873,7 +873,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -889,7 +889,23 @@
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 5,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "雲林縣",
+            "112年",
+            "兒童(未滿12歲)"
+        ],
+        "col": [
+            "車與車對向擦撞"
+        ],
+        "colCode": null,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -905,7 +921,7 @@
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,

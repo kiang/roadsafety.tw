@@ -9,7 +9,7 @@
             "未注意車前狀況"
         ],
         "colCode": null,
-        "value": 1540,
+        "value": 2137,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 822,
+        "value": 1142,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "未依規定讓車"
         ],
         "colCode": null,
-        "value": 409,
+        "value": 575,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "不明原因肇事"
         ],
         "colCode": null,
-        "value": 198,
+        "value": 281,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,7 @@
             "未依規定減速"
         ],
         "colCode": null,
-        "value": 38,
+        "value": 53,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -89,7 +89,7 @@
             "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 125,
+        "value": 172,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -105,7 +105,7 @@
             "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 121,
+        "value": 155,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -121,7 +121,7 @@
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 165,
+        "value": 228,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -137,7 +137,7 @@
             "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 91,
+        "value": 136,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -153,7 +153,7 @@
             "未注意車前狀況"
         ],
         "colCode": null,
-        "value": 350,
+        "value": 460,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -169,7 +169,7 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 337,
+        "value": 462,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -185,7 +185,7 @@
             "未依規定讓車"
         ],
         "colCode": null,
-        "value": 314,
+        "value": 411,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -201,7 +201,7 @@
             "不明原因肇事"
         ],
         "colCode": null,
-        "value": 28,
+        "value": 43,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -217,7 +217,7 @@
             "未依規定減速"
         ],
         "colCode": null,
-        "value": 13,
+        "value": 16,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -231,22 +231,6 @@
         ],
         "col": [
             "其他引起事故之違規或不當行為"
-        ],
-        "colCode": null,
-        "value": 28,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "屏東縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "違反號誌管制或指揮"
         ],
         "colCode": null,
         "value": 49,
@@ -262,10 +246,26 @@
             "小客車"
         ],
         "col": [
+            "違反號誌管制或指揮"
+        ],
+        "colCode": null,
+        "value": 69,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "屏東縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 58,
+        "value": 80,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -281,7 +281,7 @@
             "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 16,
+        "value": 19,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -297,7 +297,7 @@
             "未注意車前狀況"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -345,7 +345,7 @@
             "未注意車前狀況"
         ],
         "colCode": null,
-        "value": 25,
+        "value": 35,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -361,7 +361,7 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 60,
+        "value": 85,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -375,6 +375,38 @@
         ],
         "col": [
             "未依規定讓車"
+        ],
+        "colCode": null,
+        "value": 27,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "屏東縣",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "不明原因肇事"
+        ],
+        "colCode": null,
+        "value": 17,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "屏東縣",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
         "value": 19,
@@ -390,42 +422,10 @@
             "自行車"
         ],
         "col": [
-            "不明原因肇事"
-        ],
-        "colCode": null,
-        "value": 13,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "屏東縣",
-            "112年",
-            "自行車"
-        ],
-        "col": [
-            "其他引起事故之違規或不當行為"
-        ],
-        "colCode": null,
-        "value": 12,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "屏東縣",
-            "112年",
-            "自行車"
-        ],
-        "col": [
             "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -441,7 +441,7 @@
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 15,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -457,7 +457,7 @@
             "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -473,7 +473,7 @@
             "未注意車前狀況"
         ],
         "colCode": null,
-        "value": 27,
+        "value": 42,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -489,7 +489,7 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 14,
+        "value": 21,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -505,7 +505,7 @@
             "未依規定讓車"
         ],
         "colCode": null,
-        "value": 15,
+        "value": 22,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -521,7 +521,7 @@
             "不明原因肇事"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 11,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -537,7 +537,7 @@
             "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 9,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -553,7 +553,7 @@
             "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 11,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -569,7 +569,7 @@
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -585,7 +585,7 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 49,
+        "value": 70,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
