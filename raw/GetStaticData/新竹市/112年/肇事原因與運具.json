@@ -9,7 +9,7 @@
             "未注意車前狀況"
         ],
         "colCode": null,
-        "value": 1134,
+        "value": 1315,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 692,
+        "value": 825,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "未依規定讓車"
         ],
         "colCode": null,
-        "value": 340,
+        "value": 387,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "不明原因肇事"
         ],
         "colCode": null,
-        "value": 61,
+        "value": 66,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,7 @@
             "未依規定減速"
         ],
         "colCode": null,
-        "value": 242,
+        "value": 269,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -89,7 +89,7 @@
             "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 260,
+        "value": 286,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -105,7 +105,7 @@
             "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 57,
+        "value": 69,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -121,7 +121,7 @@
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 155,
+        "value": 176,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -137,7 +137,7 @@
             "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 172,
+        "value": 196,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -153,7 +153,7 @@
             "未注意車前狀況"
         ],
         "colCode": null,
-        "value": 219,
+        "value": 263,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -169,7 +169,7 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 381,
+        "value": 442,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -185,7 +185,7 @@
             "未依規定讓車"
         ],
         "colCode": null,
-        "value": 238,
+        "value": 264,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -201,7 +201,7 @@
             "不明原因肇事"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 9,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -217,7 +217,7 @@
             "未依規定減速"
         ],
         "colCode": null,
-        "value": 49,
+        "value": 54,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -233,7 +233,7 @@
             "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 30,
+        "value": 37,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -265,7 +265,7 @@
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 84,
+        "value": 92,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -281,7 +281,7 @@
             "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 19,
+        "value": 24,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -391,6 +391,22 @@
         ],
         "col": [
             "未注意車前狀況"
+        ],
+        "colCode": null,
+        "value": 16,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
         "value": 14,
@@ -406,22 +422,6 @@
             "自行車"
         ],
         "col": [
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "colCode": null,
-        "value": 11,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "112年",
-            "自行車"
-        ],
-        "col": [
             "未依規定讓車"
         ],
         "colCode": null,
@@ -441,7 +441,7 @@
             "不明原因肇事"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -457,7 +457,7 @@
             "未依規定減速"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -473,7 +473,7 @@
             "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 10,
+        "value": 13,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -489,7 +489,7 @@
             "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -505,7 +505,7 @@
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -537,7 +537,7 @@
             "未注意車前狀況"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -553,7 +553,7 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 9,
+        "value": 13,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -601,7 +601,7 @@
             "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -633,7 +633,7 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 86,
+        "value": 93,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,

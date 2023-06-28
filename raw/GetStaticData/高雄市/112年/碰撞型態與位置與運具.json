@@ -9,7 +9,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 4782,
+        "value": 5960,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 3991,
+        "value": 4881,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 1719,
+        "value": 2106,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 1750,
+        "value": 2149,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 2361,
+        "value": 2854,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -89,7 +89,7 @@
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 605,
+        "value": 794,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -105,7 +105,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 323,
+        "value": 388,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -121,23 +121,7 @@
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 124,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "機車"
-        ],
-        "col": [
-            "車與車對撞"
-        ],
-        "colCode": null,
-        "value": 109,
+        "value": 159,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -153,7 +137,23 @@
             "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 87,
+        "value": 110,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "機車"
+        ],
+        "col": [
+            "車與車對撞"
+        ],
+        "colCode": null,
+        "value": 130,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -169,7 +169,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 1796,
+        "value": 2228,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -185,7 +185,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 1325,
+        "value": 1620,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -201,7 +201,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 561,
+        "value": 680,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -217,7 +217,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 419,
+        "value": 517,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -233,7 +233,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 629,
+        "value": 741,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -249,7 +249,7 @@
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 9,
+        "value": 11,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -265,7 +265,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 123,
+        "value": 143,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -281,7 +281,7 @@
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 68,
+        "value": 80,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -294,7 +294,7 @@
             "小客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
         "value": 35,
@@ -310,7 +310,407 @@
             "小客車"
         ],
         "col": [
+            "車與車對撞"
+        ],
+        "colCode": null,
+        "value": 37,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "車與車側撞"
+        ],
+        "colCode": null,
+        "value": 18,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "車與車其他"
+        ],
+        "colCode": null,
+        "value": 20,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "車與車同向擦撞"
+        ],
+        "colCode": null,
+        "value": 16,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 2,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 4,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "車與車對向擦撞"
+        ],
+        "colCode": null,
+        "value": 3,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "人與汽(機)車穿越道路中"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "大客車"
+        ],
+        "col": [
             "人與汽(機)車其他"
+        ],
+        "colCode": null,
+        "value": 3,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "車與車對撞"
+        ],
+        "colCode": null,
+        "value": 2,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "車與車側撞"
+        ],
+        "colCode": null,
+        "value": 228,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "車與車其他"
+        ],
+        "colCode": null,
+        "value": 148,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "車與車同向擦撞"
+        ],
+        "colCode": null,
+        "value": 63,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 35,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 82,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "汽(機)車本身路上翻車、摔倒"
+        ],
+        "colCode": null,
+        "value": 40,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "車與車對向擦撞"
+        ],
+        "colCode": null,
+        "value": 4,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "人與汽(機)車穿越道路中"
+        ],
+        "colCode": null,
+        "value": 3,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "人與汽(機)車其他"
+        ],
+        "colCode": null,
+        "value": 8,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "車與車對撞"
+        ],
+        "colCode": null,
+        "value": 8,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "車與車側撞"
+        ],
+        "colCode": null,
+        "value": 113,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "車與車其他"
+        ],
+        "colCode": null,
+        "value": 123,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "車與車同向擦撞"
+        ],
+        "colCode": null,
+        "value": 55,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 40,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 44,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 25,
@@ -323,92 +723,28 @@
         "row": [
             "高雄市",
             "112年",
-            "大客車"
-        ],
-        "col": [
-            "車與車側撞"
-        ],
-        "colCode": null,
-        "value": 14,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "大客車"
-        ],
-        "col": [
-            "車與車其他"
-        ],
-        "colCode": null,
-        "value": 15,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "大客車"
-        ],
-        "col": [
-            "車與車同向擦撞"
-        ],
-        "colCode": null,
-        "value": 14,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "大客車"
-        ],
-        "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 2,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "大客車"
-        ],
-        "col": [
-            "車與車追撞"
-        ],
-        "colCode": null,
-        "value": 4,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "大客車"
+            "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
             "車與車對向擦撞"
         ],
         "colCode": null,
+        "value": 10,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "人與汽(機)車穿越道路中"
+        ],
+        "colCode": null,
         "value": 2,
         "descriptionHtml": "",
         "qty": 0,
@@ -419,39 +755,7 @@
         "row": [
             "高雄市",
             "112年",
-            "大客車"
-        ],
-        "col": [
-            "人與汽(機)車穿越道路中"
-        ],
-        "colCode": null,
-        "value": 1,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "大客車"
-        ],
-        "col": [
-            "車與車對撞"
-        ],
-        "colCode": null,
-        "value": 1,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "大客車"
+            "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
             "人與汽(機)車其他"
@@ -467,13 +771,29 @@
         "row": [
             "高雄市",
             "112年",
-            "自行車"
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "車與車對撞"
+        ],
+        "colCode": null,
+        "value": 2,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "行人"
         ],
         "col": [
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 178,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -483,13 +803,13 @@
         "row": [
             "高雄市",
             "112年",
-            "自行車"
+            "行人"
         ],
         "col": [
             "車與車其他"
         ],
         "colCode": null,
-        "value": 115,
+        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -499,13 +819,13 @@
         "row": [
             "高雄市",
             "112年",
-            "自行車"
+            "行人"
         ],
         "col": [
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 54,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -515,29 +835,13 @@
         "row": [
             "高雄市",
             "112年",
-            "自行車"
-        ],
-        "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 26,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "自行車"
+            "行人"
         ],
         "col": [
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 72,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -547,252 +851,12 @@
         "row": [
             "高雄市",
             "112年",
-            "自行車"
+            "行人"
         ],
         "col": [
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 32,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "自行車"
-        ],
-        "col": [
-            "車與車對向擦撞"
-        ],
-        "colCode": null,
-        "value": 4,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "自行車"
-        ],
-        "col": [
-            "人與汽(機)車穿越道路中"
-        ],
-        "colCode": null,
-        "value": 3,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "自行車"
-        ],
-        "col": [
-            "車與車對撞"
-        ],
-        "colCode": null,
-        "value": 8,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "自行車"
-        ],
-        "col": [
-            "人與汽(機)車其他"
-        ],
-        "colCode": null,
-        "value": 4,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "車與車側撞"
-        ],
-        "colCode": null,
-        "value": 91,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "車與車其他"
-        ],
-        "colCode": null,
-        "value": 92,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "車與車同向擦撞"
-        ],
-        "colCode": null,
-        "value": 49,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 32,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "車與車追撞"
-        ],
-        "colCode": null,
-        "value": 32,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "汽(機)車本身路上翻車、摔倒"
-        ],
-        "colCode": null,
-        "value": 22,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "車與車對向擦撞"
-        ],
-        "colCode": null,
-        "value": 8,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "人與汽(機)車穿越道路中"
-        ],
-        "colCode": null,
-        "value": 2,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "車與車對撞"
-        ],
-        "colCode": null,
-        "value": 2,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "人與汽(機)車其他"
-        ],
-        "colCode": null,
-        "value": 2,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "行人"
-        ],
-        "col": [
-            "車與車側撞"
-        ],
-        "colCode": null,
         "value": 1,
         "descriptionHtml": "",
         "qty": 0,
@@ -806,58 +870,10 @@
             "行人"
         ],
         "col": [
-            "車與車其他"
-        ],
-        "colCode": null,
-        "value": 8,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "行人"
-        ],
-        "col": [
-            "車與車同向擦撞"
-        ],
-        "colCode": null,
-        "value": 3,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "行人"
-        ],
-        "col": [
-            "車與車追撞"
-        ],
-        "colCode": null,
-        "value": 2,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "行人"
-        ],
-        "col": [
             "人與汽(機)車穿越道路中"
         ],
         "colCode": null,
-        "value": 217,
+        "value": 269,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -873,7 +889,7 @@
             "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 98,
+        "value": 122,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1014,10 +1030,10 @@
             "機車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 322,
+        "value": 177,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1030,10 +1046,10 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 177,
+        "value": 322,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1174,10 +1190,10 @@
             "小客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 80,
+        "value": 103,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1190,10 +1206,10 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 103,
+        "value": 80,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1318,10 +1334,10 @@
             "大客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1334,10 +1350,10 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 7,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1478,10 +1494,10 @@
             "自行車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 15,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1494,10 +1510,10 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 15,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1638,10 +1654,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1654,10 +1670,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1926,10 +1942,10 @@
             "機車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 395,
+        "value": 190,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1942,10 +1958,10 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 190,
+        "value": 395,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2086,10 +2102,10 @@
             "小客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 120,
+        "value": 85,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2102,10 +2118,10 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 85,
+        "value": 120,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2246,7 +2262,7 @@
             "大客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
         "value": 2,
@@ -2262,7 +2278,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
         "value": 2,
@@ -2406,10 +2422,10 @@
             "自行車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 16,
+        "value": 9,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2422,10 +2438,10 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 9,
+        "value": 16,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2566,10 +2582,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 11,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2582,10 +2598,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 11,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2838,10 +2854,10 @@
             "機車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 428,
+        "value": 244,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2854,10 +2870,10 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 244,
+        "value": 428,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2998,10 +3014,10 @@
             "小客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 91,
+        "value": 117,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3014,10 +3030,10 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 117,
+        "value": 91,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3286,10 +3302,10 @@
             "自行車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 30,
+        "value": 11,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3302,10 +3318,10 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 11,
+        "value": 30,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3446,10 +3462,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3462,10 +3478,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3718,7 +3734,7 @@
             "機車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
         "value": 352,
@@ -3734,7 +3750,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
         "value": 352,
@@ -3878,10 +3894,10 @@
             "小客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 81,
+        "value": 161,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3894,10 +3910,10 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 161,
+        "value": 81,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4022,10 +4038,10 @@
             "大客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 14,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4038,10 +4054,10 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 14,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4182,10 +4198,10 @@
             "自行車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 14,
+        "value": 12,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4198,10 +4214,10 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 12,
+        "value": 14,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4342,7 +4358,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
         "value": 6,
@@ -4358,7 +4374,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
         "value": 6,
@@ -4646,10 +4662,10 @@
             "機車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 415,
+        "value": 396,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4662,10 +4678,10 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 396,
+        "value": 415,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4806,10 +4822,10 @@
             "小客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 123,
+        "value": 176,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4822,10 +4838,10 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 176,
+        "value": 123,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4950,10 +4966,10 @@
             "大客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 9,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4966,10 +4982,10 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 9,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5110,10 +5126,10 @@
             "自行車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 30,
+        "value": 16,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5126,10 +5142,10 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 16,
+        "value": 30,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5270,10 +5286,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5286,10 +5302,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5574,10 +5590,10 @@
             "機車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 467,
+        "value": 348,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5590,10 +5606,10 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 348,
+        "value": 467,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5734,10 +5750,10 @@
             "小客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 124,
+        "value": 152,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5750,10 +5766,10 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 152,
+        "value": 124,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6022,10 +6038,10 @@
             "自行車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 29,
+        "value": 12,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6038,10 +6054,10 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 12,
+        "value": 29,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6182,10 +6198,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6198,10 +6214,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6486,10 +6502,10 @@
             "機車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 511,
+        "value": 441,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6502,10 +6518,10 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 441,
+        "value": 511,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6646,10 +6662,10 @@
             "小客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 145,
+        "value": 205,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6662,10 +6678,10 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 205,
+        "value": 145,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6806,10 +6822,10 @@
             "大客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6822,10 +6838,10 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6966,10 +6982,10 @@
             "自行車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 25,
+        "value": 18,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6982,10 +6998,10 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 18,
+        "value": 25,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7126,10 +7142,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7142,10 +7158,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7398,10 +7414,10 @@
             "機車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 642,
+        "value": 267,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7414,10 +7430,10 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 267,
+        "value": 642,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7558,10 +7574,10 @@
             "小客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 177,
+        "value": 140,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7574,10 +7590,10 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 140,
+        "value": 177,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7718,10 +7734,10 @@
             "大客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 11,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7734,10 +7750,10 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 11,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7878,10 +7894,10 @@
             "自行車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 35,
+        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7894,10 +7910,10 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 35,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8038,10 +8054,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8054,10 +8070,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8310,10 +8326,10 @@
             "機車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 704,
+        "value": 371,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8326,10 +8342,10 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 371,
+        "value": 704,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8470,10 +8486,10 @@
             "小客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 177,
+        "value": 179,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8486,10 +8502,10 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 179,
+        "value": 177,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8614,10 +8630,10 @@
             "大客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 13,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8630,10 +8646,10 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 13,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8774,10 +8790,10 @@
             "自行車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 52,
+        "value": 13,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8790,10 +8806,10 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 13,
+        "value": 52,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9062,10 +9078,10 @@
             "行人"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 617,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9078,10 +9094,10 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 617,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9222,10 +9238,10 @@
             "機車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 727,
+        "value": 260,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9238,10 +9254,10 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 260,
+        "value": 727,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9382,10 +9398,10 @@
             "小客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 194,
+        "value": 117,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9398,10 +9414,10 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 117,
+        "value": 194,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9542,10 +9558,10 @@
             "大客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 11,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9558,10 +9574,10 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 11,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9702,10 +9718,10 @@
             "自行車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 46,
+        "value": 10,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9718,10 +9734,10 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 10,
+        "value": 46,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10134,10 +10150,10 @@
             "機車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 711,
+        "value": 331,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10150,10 +10166,10 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 331,
+        "value": 711,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10294,10 +10310,10 @@
             "小客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 162,
+        "value": 136,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10310,10 +10326,10 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 136,
+        "value": 162,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10454,10 +10470,10 @@
             "大客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10470,10 +10486,10 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 7,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10614,10 +10630,10 @@
             "自行車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 44,
+        "value": 17,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10630,10 +10646,10 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 17,
+        "value": 44,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11046,10 +11062,10 @@
             "機車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 885,
+        "value": 161,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11062,10 +11078,10 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 161,
+        "value": 885,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11206,10 +11222,10 @@
             "小客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 207,
+        "value": 65,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11222,10 +11238,10 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 65,
+        "value": 207,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11366,10 +11382,10 @@
             "大客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11382,10 +11398,10 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11526,10 +11542,10 @@
             "自行車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 49,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11542,10 +11558,10 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 7,
+        "value": 49,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11958,10 +11974,10 @@
             "機車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 845,
+        "value": 103,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11974,10 +11990,10 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 103,
+        "value": 845,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12118,10 +12134,10 @@
             "小客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 241,
+        "value": 47,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12134,10 +12150,10 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 47,
+        "value": 241,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12262,7 +12278,7 @@
             "大客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
         "value": 5,
@@ -12278,7 +12294,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
         "value": 5,
@@ -12422,10 +12438,10 @@
             "自行車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 58,
+        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12438,10 +12454,10 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 58,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12678,10 +12694,10 @@
             "行人"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 141,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12694,10 +12710,10 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 141,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12838,10 +12854,10 @@
             "機車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 908,
+        "value": 87,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12854,10 +12870,10 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 87,
+        "value": 908,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12998,10 +13014,10 @@
             "小客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 324,
+        "value": 58,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13014,10 +13030,10 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 58,
+        "value": 324,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13142,10 +13158,10 @@
             "大客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13158,10 +13174,10 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13302,10 +13318,10 @@
             "自行車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 68,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13318,10 +13334,10 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 68,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13686,10 +13702,10 @@
             "機車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 858,
+        "value": 86,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13702,10 +13718,10 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 86,
+        "value": 858,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13846,10 +13862,10 @@
             "小客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 274,
+        "value": 51,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13862,10 +13878,10 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 51,
+        "value": 274,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14006,10 +14022,10 @@
             "大客車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14022,10 +14038,10 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14166,10 +14182,10 @@
             "自行車"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 64,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14182,10 +14198,10 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 64,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14438,10 +14454,10 @@
             "行人"
         ],
         "col": [
-            "車與車對撞"
+            "人與汽(機)車其他"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 158,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14454,10 +14470,10 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車對撞"
         ],
         "colCode": null,
-        "value": 158,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,

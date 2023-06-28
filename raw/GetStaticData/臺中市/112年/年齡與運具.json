@@ -9,7 +9,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 2454,
+        "value": 3253,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 15368,
+        "value": 20142,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 7749,
+        "value": 10217,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 315,
+        "value": 382,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 315,
+        "value": 382,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -89,7 +89,7 @@
             "兒童(未滿12歲)"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -105,7 +105,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 940,
+        "value": 1247,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -121,7 +121,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 9543,
+        "value": 12440,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -137,7 +137,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 934,
+        "value": 1235,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -153,7 +153,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 13,
+        "value": 19,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -169,7 +169,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 13,
+        "value": 19,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -185,7 +185,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 7,
+        "value": 9,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -201,7 +201,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 163,
+        "value": 211,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -233,54 +233,6 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 128,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺中市",
-            "112年",
-            "自行車"
-        ],
-        "col": [
-            "25-64歲"
-        ],
-        "colCode": null,
-        "value": 194,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺中市",
-            "112年",
-            "自行車"
-        ],
-        "col": [
-            "18-24歲"
-        ],
-        "colCode": null,
-        "value": 42,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "臺中市",
-            "112年",
-            "自行車"
-        ],
-        "col": [
-            "兒少(0-17歲)"
-        ],
-        "colCode": null,
         "value": 177,
         "descriptionHtml": "",
         "qty": 0,
@@ -294,10 +246,58 @@
             "自行車"
         ],
         "col": [
+            "25-64歲"
+        ],
+        "colCode": null,
+        "value": 261,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺中市",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "18-24歲"
+        ],
+        "colCode": null,
+        "value": 63,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺中市",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "兒少(0-17歲)"
+        ],
+        "colCode": null,
+        "value": 248,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "臺中市",
+            "112年",
+            "自行車"
+        ],
+        "col": [
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 160,
+        "value": 220,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -313,7 +313,7 @@
             "兒童(未滿12歲)"
         ],
         "colCode": null,
-        "value": 36,
+        "value": 52,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -329,7 +329,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 104,
+        "value": 147,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -345,7 +345,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 231,
+        "value": 332,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -361,7 +361,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 71,
+        "value": 99,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -377,7 +377,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 41,
+        "value": 61,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -393,7 +393,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 39,
+        "value": 58,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -409,7 +409,7 @@
             "兒童(未滿12歲)"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -425,7 +425,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 265,
+        "value": 353,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -441,7 +441,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 485,
+        "value": 625,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -457,7 +457,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 71,
+        "value": 100,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -473,7 +473,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 114,
+        "value": 151,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -489,7 +489,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 54,
+        "value": 71,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -505,7 +505,7 @@
             "兒童(未滿12歲)"
         ],
         "colCode": null,
-        "value": 67,
+        "value": 89,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
