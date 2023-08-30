@@ -9,7 +9,7 @@
             "未注意車前狀況"
         ],
         "colCode": null,
-        "value": 1658,
+        "value": 1822,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 1054,
+        "value": 1155,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "未依規定讓車"
         ],
         "colCode": null,
-        "value": 478,
+        "value": 541,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "不明原因肇事"
         ],
         "colCode": null,
-        "value": 90,
+        "value": 104,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,7 @@
             "未依規定減速"
         ],
         "colCode": null,
-        "value": 327,
+        "value": 358,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -89,7 +89,7 @@
             "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 374,
+        "value": 405,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -105,7 +105,7 @@
             "違反號誌管制或指揮"
         ],
         "colCode": null,
-        "value": 87,
+        "value": 93,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -121,7 +121,7 @@
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 227,
+        "value": 250,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -137,7 +137,7 @@
             "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 245,
+        "value": 270,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -153,7 +153,7 @@
             "未注意車前狀況"
         ],
         "colCode": null,
-        "value": 329,
+        "value": 367,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -169,7 +169,7 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 562,
+        "value": 631,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -185,7 +185,7 @@
             "未依規定讓車"
         ],
         "colCode": null,
-        "value": 333,
+        "value": 366,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -199,6 +199,326 @@
         ],
         "col": [
             "不明原因肇事"
+        ],
+        "colCode": null,
+        "value": 14,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "未依規定減速"
+        ],
+        "colCode": null,
+        "value": 81,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "其他引起事故之違規或不當行為"
+        ],
+        "colCode": null,
+        "value": 47,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "違反號誌管制或指揮"
+        ],
+        "colCode": null,
+        "value": 35,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "左轉彎未依規定"
+        ],
+        "colCode": null,
+        "value": 133,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "未保持行車安全距離"
+        ],
+        "colCode": null,
+        "value": 35,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "未注意車前狀況"
+        ],
+        "colCode": null,
+        "value": 2,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "車輛駕駛人-尚未發現肇事因素"
+        ],
+        "colCode": null,
+        "value": 2,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "未依規定讓車"
+        ],
+        "colCode": null,
+        "value": 2,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "不明原因肇事"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "違反號誌管制或指揮"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "左轉彎未依規定"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "未保持行車安全距離"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "未注意車前狀況"
+        ],
+        "colCode": null,
+        "value": 24,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "車輛駕駛人-尚未發現肇事因素"
+        ],
+        "colCode": null,
+        "value": 21,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "未依規定讓車"
+        ],
+        "colCode": null,
+        "value": 8,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "不明原因肇事"
+        ],
+        "colCode": null,
+        "value": 6,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "未依規定減速"
+        ],
+        "colCode": null,
+        "value": 4,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "其他引起事故之違規或不當行為"
+        ],
+        "colCode": null,
+        "value": 15,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "違反號誌管制或指揮"
+        ],
+        "colCode": null,
+        "value": 5,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新竹市",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "左轉彎未依規定"
         ],
         "colCode": null,
         "value": 13,
@@ -211,77 +531,13 @@
         "row": [
             "新竹市",
             "112年",
-            "小客車"
-        ],
-        "col": [
-            "未依規定減速"
-        ],
-        "colCode": null,
-        "value": 71,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "其他引起事故之違規或不當行為"
-        ],
-        "colCode": null,
-        "value": 43,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "違反號誌管制或指揮"
-        ],
-        "colCode": null,
-        "value": 31,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "左轉彎未依規定"
-        ],
-        "colCode": null,
-        "value": 121,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "112年",
-            "小客車"
+            "自行車"
         ],
         "col": [
             "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 32,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -291,13 +547,13 @@
         "row": [
             "新竹市",
             "112年",
-            "大客車"
+            "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
             "未注意車前狀況"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 12,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -307,119 +563,7 @@
         "row": [
             "新竹市",
             "112年",
-            "大客車"
-        ],
-        "col": [
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "colCode": null,
-        "value": 2,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "112年",
-            "大客車"
-        ],
-        "col": [
-            "未依規定讓車"
-        ],
-        "colCode": null,
-        "value": 2,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "112年",
-            "大客車"
-        ],
-        "col": [
-            "不明原因肇事"
-        ],
-        "colCode": null,
-        "value": 1,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "112年",
-            "大客車"
-        ],
-        "col": [
-            "違反號誌管制或指揮"
-        ],
-        "colCode": null,
-        "value": 1,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "112年",
-            "大客車"
-        ],
-        "col": [
-            "左轉彎未依規定"
-        ],
-        "colCode": null,
-        "value": 1,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "112年",
-            "大客車"
-        ],
-        "col": [
-            "未保持行車安全距離"
-        ],
-        "colCode": null,
-        "value": 1,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "112年",
-            "自行車"
-        ],
-        "col": [
-            "未注意車前狀況"
-        ],
-        "colCode": null,
-        "value": 20,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "112年",
-            "自行車"
+            "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
             "車輛駕駛人-尚未發現肇事因素"
@@ -435,157 +579,13 @@
         "row": [
             "新竹市",
             "112年",
-            "自行車"
-        ],
-        "col": [
-            "未依規定讓車"
-        ],
-        "colCode": null,
-        "value": 6,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "112年",
-            "自行車"
-        ],
-        "col": [
-            "不明原因肇事"
-        ],
-        "colCode": null,
-        "value": 6,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "112年",
-            "自行車"
-        ],
-        "col": [
-            "未依規定減速"
-        ],
-        "colCode": null,
-        "value": 3,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "112年",
-            "自行車"
-        ],
-        "col": [
-            "其他引起事故之違規或不當行為"
-        ],
-        "colCode": null,
-        "value": 14,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "112年",
-            "自行車"
-        ],
-        "col": [
-            "違反號誌管制或指揮"
-        ],
-        "colCode": null,
-        "value": 5,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "112年",
-            "自行車"
-        ],
-        "col": [
-            "左轉彎未依規定"
-        ],
-        "colCode": null,
-        "value": 10,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "112年",
-            "自行車"
-        ],
-        "col": [
-            "未保持行車安全距離"
-        ],
-        "colCode": null,
-        "value": 2,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "112年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "未注意車前狀況"
-        ],
-        "colCode": null,
-        "value": 10,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "112年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "colCode": null,
-        "value": 16,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新竹市",
-            "112年",
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
             "未依規定讓車"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -617,7 +617,7 @@
             "其他引起事故之違規或不當行為"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 9,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -649,7 +649,7 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 113,
+        "value": 121,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -825,7 +825,7 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 1173,
+        "value": 1174,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,

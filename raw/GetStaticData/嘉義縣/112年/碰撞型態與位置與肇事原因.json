@@ -9,7 +9,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 934,
+        "value": 936,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -54,22 +54,6 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 295,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "嘉義縣",
-            "112年",
-            "未注意車前狀況"
-        ],
-        "col": [
             "車與車追撞"
         ],
         "colCode": null,
@@ -86,10 +70,26 @@
             "未注意車前狀況"
         ],
         "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 295,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "嘉義縣",
+            "112年",
+            "未注意車前狀況"
+        ],
+        "col": [
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 225,
+        "value": 226,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -169,7 +169,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 420,
+        "value": 423,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -201,7 +201,23 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 230,
+        "value": 234,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "嘉義縣",
+            "112年",
+            "車輛駕駛人-尚未發現肇事因素"
+        ],
+        "col": [
+            "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 404,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -218,22 +234,6 @@
         ],
         "colCode": null,
         "value": 132,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "嘉義縣",
-            "112年",
-            "車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
-            "車與車追撞"
-        ],
-        "colCode": null,
-        "value": 399,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -329,7 +329,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 216,
+        "value": 217,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -361,7 +361,23 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 43,
+        "value": 44,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "嘉義縣",
+            "112年",
+            "非車輛駕駛人-尚未發現肇事因素"
+        ],
+        "col": [
+            "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 93,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -390,26 +406,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
-        ],
-        "colCode": null,
-        "value": 92,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "嘉義縣",
-            "112年",
-            "非車輛駕駛人-尚未發現肇事因素"
-        ],
-        "col": [
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 460,
+        "value": 462,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -489,7 +489,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 289,
+        "value": 290,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -534,10 +534,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 309,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -550,10 +550,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 310,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -617,7 +617,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 32,
+        "value": 34,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -649,23 +649,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 23,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "嘉義縣",
-            "112年",
-            "不明原因肇事"
-        ],
-        "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 47,
+        "value": 25,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -682,6 +666,22 @@
         ],
         "colCode": null,
         "value": 15,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "嘉義縣",
+            "112年",
+            "不明原因肇事"
+        ],
+        "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 47,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -774,10 +774,10 @@
             "未依規定減速"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 22,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -790,10 +790,10 @@
             "未依規定減速"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 23,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -905,7 +905,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 76,
+        "value": 77,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -950,10 +950,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 108,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -966,10 +966,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 108,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1193,7 +1193,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 165,
+        "value": 170,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1270,10 +1270,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 588,
+        "value": 482,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1286,10 +1286,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 482,
+        "value": 588,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1430,10 +1430,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 226,
+        "value": 774,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1446,10 +1446,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 774,
+        "value": 226,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1545,7 +1545,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 384,
+        "value": 385,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1590,7 +1590,7 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
         "value": 194,
@@ -1606,7 +1606,7 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
         "value": 194,
@@ -1750,10 +1750,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 597,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1766,10 +1766,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 597,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1894,10 +1894,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 39,
+        "value": 18,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1910,10 +1910,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 18,
+        "value": 39,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2038,10 +2038,10 @@
             "未依規定減速"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 15,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2054,10 +2054,10 @@
             "未依規定減速"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 15,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2262,10 +2262,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 182,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2278,10 +2278,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 182,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2534,10 +2534,10 @@
             "未保持行車安全距離"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 317,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2550,10 +2550,10 @@
             "未保持行車安全距離"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 317,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2630,10 +2630,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 604,
+        "value": 384,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2646,10 +2646,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 384,
+        "value": 604,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2790,10 +2790,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 204,
+        "value": 712,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2806,10 +2806,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 712,
+        "value": 204,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2950,10 +2950,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 192,
+        "value": 203,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2966,10 +2966,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 203,
+        "value": 192,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3110,10 +3110,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 557,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3126,10 +3126,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 557,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3238,10 +3238,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 50,
+        "value": 25,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3254,10 +3254,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 25,
+        "value": 50,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3366,10 +3366,10 @@
             "未依規定減速"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 29,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3382,10 +3382,10 @@
             "未依規定減速"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 29,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3510,10 +3510,10 @@
             "其他引起事故之違規或不當行為"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3526,10 +3526,10 @@
             "其他引起事故之違規或不當行為"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3638,10 +3638,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 183,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3654,10 +3654,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 183,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3974,10 +3974,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 551,
+        "value": 326,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3990,10 +3990,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 326,
+        "value": 551,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4134,10 +4134,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 209,
+        "value": 727,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4150,10 +4150,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 727,
+        "value": 209,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4294,10 +4294,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 212,
+        "value": 181,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4310,10 +4310,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 181,
+        "value": 212,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4454,10 +4454,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 533,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4470,10 +4470,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 533,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4598,10 +4598,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 76,
+        "value": 17,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4614,10 +4614,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 17,
+        "value": 76,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4742,10 +4742,10 @@
             "未依規定減速"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4758,10 +4758,10 @@
             "未依規定減速"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4950,10 +4950,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 203,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4966,10 +4966,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 203,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5302,10 +5302,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 525,
+        "value": 294,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5318,10 +5318,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 294,
+        "value": 525,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5462,10 +5462,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 159,
+        "value": 538,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5478,10 +5478,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 538,
+        "value": 159,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5622,10 +5622,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 189,
+        "value": 165,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5638,10 +5638,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 165,
+        "value": 189,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5782,10 +5782,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 521,
+        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5798,10 +5798,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 521,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5926,10 +5926,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 105,
+        "value": 10,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5942,10 +5942,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 10,
+        "value": 105,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6086,10 +6086,10 @@
             "未依規定減速"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 12,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6102,10 +6102,10 @@
             "未依規定減速"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 12,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6198,10 +6198,10 @@
             "其他引起事故之違規或不當行為"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6214,10 +6214,10 @@
             "其他引起事故之違規或不當行為"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6342,10 +6342,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 189,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6358,10 +6358,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 189,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6710,10 +6710,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 536,
+        "value": 341,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6726,10 +6726,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 341,
+        "value": 536,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6870,10 +6870,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 166,
+        "value": 517,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6886,10 +6886,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 517,
+        "value": 166,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7030,10 +7030,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 236,
+        "value": 156,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7046,10 +7046,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 156,
+        "value": 236,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7190,10 +7190,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 553,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7206,10 +7206,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 553,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7318,10 +7318,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 76,
+        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7334,10 +7334,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 76,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7670,10 +7670,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 234,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7686,10 +7686,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 234,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8022,10 +8022,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 496,
+        "value": 303,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8038,10 +8038,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 303,
+        "value": 496,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8182,10 +8182,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 131,
+        "value": 461,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8198,10 +8198,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 461,
+        "value": 131,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8342,10 +8342,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 186,
+        "value": 161,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8358,10 +8358,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 161,
+        "value": 186,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8502,10 +8502,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 491,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8518,10 +8518,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 491,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8630,10 +8630,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 41,
+        "value": 19,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8646,10 +8646,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 19,
+        "value": 41,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8774,10 +8774,10 @@
             "未依規定減速"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 30,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8790,10 +8790,10 @@
             "未依規定減速"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 30,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8918,10 +8918,10 @@
             "其他引起事故之違規或不當行為"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 13,
+        "value": 9,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8934,10 +8934,10 @@
             "其他引起事故之違規或不當行為"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 9,
+        "value": 13,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9030,10 +9030,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 207,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9046,10 +9046,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 207,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9366,10 +9366,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 512,
+        "value": 342,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9382,10 +9382,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 342,
+        "value": 512,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9526,10 +9526,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 110,
+        "value": 490,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9542,10 +9542,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 490,
+        "value": 110,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9686,10 +9686,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 159,
+        "value": 144,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9702,10 +9702,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 144,
+        "value": 159,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9846,10 +9846,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 478,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9862,10 +9862,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 478,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9974,10 +9974,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 15,
+        "value": 16,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9990,10 +9990,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 16,
+        "value": 15,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10198,10 +10198,10 @@
             "其他引起事故之違規或不當行為"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 9,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10214,10 +10214,10 @@
             "其他引起事故之違規或不當行為"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 9,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10310,10 +10310,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 219,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10326,10 +10326,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 219,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10598,10 +10598,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 460,
+        "value": 308,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10614,10 +10614,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 308,
+        "value": 460,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10758,10 +10758,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 105,
+        "value": 450,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10774,10 +10774,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 450,
+        "value": 105,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10918,10 +10918,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 153,
+        "value": 151,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10934,10 +10934,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 151,
+        "value": 153,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11078,10 +11078,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 433,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11094,10 +11094,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 433,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11206,10 +11206,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 40,
+        "value": 16,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11222,10 +11222,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 16,
+        "value": 40,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11462,10 +11462,10 @@
             "其他引起事故之違規或不當行為"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 12,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11478,10 +11478,10 @@
             "其他引起事故之違規或不當行為"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 12,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11590,10 +11590,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 238,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11606,10 +11606,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 238,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11894,10 +11894,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 439,
+        "value": 357,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11910,10 +11910,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 357,
+        "value": 439,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12054,10 +12054,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 116,
+        "value": 440,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12070,10 +12070,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 440,
+        "value": 116,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12214,10 +12214,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 185,
+        "value": 138,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12230,10 +12230,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 138,
+        "value": 185,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12374,10 +12374,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 414,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12390,10 +12390,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 414,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12518,7 +12518,7 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
         "value": 12,
@@ -12534,7 +12534,7 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
         "value": 12,
@@ -12710,10 +12710,10 @@
             "其他引起事故之違規或不當行為"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 15,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12726,10 +12726,10 @@
             "其他引起事故之違規或不當行為"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 15,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12870,10 +12870,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 264,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12886,10 +12886,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 264,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13190,10 +13190,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 457,
+        "value": 318,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13206,10 +13206,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 318,
+        "value": 457,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13350,10 +13350,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 105,
+        "value": 361,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13366,10 +13366,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 361,
+        "value": 105,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13494,10 +13494,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 146,
+        "value": 119,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13510,10 +13510,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 119,
+        "value": 146,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13654,10 +13654,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 406,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13670,10 +13670,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 406,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13798,10 +13798,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 11,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13814,10 +13814,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 7,
+        "value": 11,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13910,10 +13910,10 @@
             "未依規定減速"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 36,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13926,10 +13926,10 @@
             "未依規定減速"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 36,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14054,10 +14054,10 @@
             "其他引起事故之違規或不當行為"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14070,10 +14070,10 @@
             "其他引起事故之違規或不當行為"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14182,10 +14182,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 294,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14198,10 +14198,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 294,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14486,10 +14486,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 373,
+        "value": 336,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14502,10 +14502,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 336,
+        "value": 373,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14646,10 +14646,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 67,
+        "value": 329,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14662,10 +14662,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 329,
+        "value": 67,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14806,10 +14806,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 172,
+        "value": 102,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14822,10 +14822,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 102,
+        "value": 172,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -15062,10 +15062,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 10,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -15078,10 +15078,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 10,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -15286,10 +15286,10 @@
             "其他引起事故之違規或不當行為"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 10,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -15302,10 +15302,10 @@
             "其他引起事故之違規或不當行為"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 10,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -15414,10 +15414,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 243,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -15430,10 +15430,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 243,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -15702,10 +15702,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 340,
+        "value": 245,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -15718,10 +15718,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 245,
+        "value": 340,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -15862,10 +15862,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 69,
+        "value": 299,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -15878,10 +15878,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 299,
+        "value": 69,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -16006,10 +16006,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 164,
+        "value": 111,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -16022,10 +16022,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 111,
+        "value": 164,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -16166,10 +16166,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 345,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -16182,10 +16182,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 345,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -16294,10 +16294,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 12,
+        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -16310,10 +16310,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 12,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -16566,10 +16566,10 @@
             "其他引起事故之違規或不當行為"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 11,
+        "value": 12,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -16582,10 +16582,10 @@
             "其他引起事故之違規或不當行為"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 12,
+        "value": 11,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -16710,10 +16710,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 261,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -16726,10 +16726,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 261,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -16998,10 +16998,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 297,
+        "value": 175,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -17014,10 +17014,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 175,
+        "value": 297,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -17158,10 +17158,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 63,
+        "value": 271,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -17174,10 +17174,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 271,
+        "value": 63,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -17318,10 +17318,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 122,
+        "value": 73,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -17334,10 +17334,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 73,
+        "value": 122,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -17478,10 +17478,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 303,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -17494,10 +17494,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 303,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -17574,10 +17574,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 17,
+        "value": 19,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -17590,10 +17590,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 19,
+        "value": 17,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -17718,10 +17718,10 @@
             "未依規定減速"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 17,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -17734,10 +17734,10 @@
             "未依規定減速"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 17,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -17846,10 +17846,10 @@
             "其他引起事故之違規或不當行為"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -17862,10 +17862,10 @@
             "其他引起事故之違規或不當行為"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -17990,10 +17990,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 198,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -18006,10 +18006,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 198,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -18294,10 +18294,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 239,
+        "value": 131,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -18310,10 +18310,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 131,
+        "value": 239,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -18454,10 +18454,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 69,
+        "value": 272,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -18470,10 +18470,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 272,
+        "value": 69,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -18598,10 +18598,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 137,
+        "value": 83,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -18614,10 +18614,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 83,
+        "value": 137,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -18758,10 +18758,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 263,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -18774,10 +18774,10 @@
             "未依規定讓車"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 263,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -18870,10 +18870,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 14,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -18886,10 +18886,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 14,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -19014,10 +19014,10 @@
             "未依規定減速"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 32,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -19030,10 +19030,10 @@
             "未依規定減速"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 32,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -19158,10 +19158,10 @@
             "其他引起事故之違規或不當行為"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -19174,10 +19174,10 @@
             "其他引起事故之違規或不當行為"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -19558,10 +19558,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 235,
+        "value": 80,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -19574,10 +19574,10 @@
             "未注意車前狀況"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 80,
+        "value": 235,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -19718,10 +19718,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 35,
+        "value": 202,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -19734,10 +19734,10 @@
             "車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 202,
+        "value": 35,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -19878,10 +19878,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 137,
+        "value": 40,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -19894,10 +19894,10 @@
             "非車輛駕駛人-尚未發現肇事因素"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 40,
+        "value": 137,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -20134,10 +20134,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 13,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -20150,10 +20150,10 @@
             "不明原因肇事"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 13,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -20278,10 +20278,10 @@
             "未依規定減速"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 22,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -20294,10 +20294,10 @@
             "未依規定減速"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 22,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -20518,10 +20518,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 190,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -20534,10 +20534,10 @@
             "違反號誌管制或指揮"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 190,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,

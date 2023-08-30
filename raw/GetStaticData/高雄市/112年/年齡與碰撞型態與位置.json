@@ -54,22 +54,6 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 515,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "高齡者(65歲以上)"
-        ],
-        "col": [
             "車與車追撞"
         ],
         "colCode": null,
@@ -86,10 +70,26 @@
             "高齡者(65歲以上)"
         ],
         "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 516,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "高齡者(65歲以上)"
+        ],
+        "col": [
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 172,
+        "value": 173,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -214,22 +214,6 @@
             "25-64歲"
         ],
         "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 2422,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "高雄市",
-            "112年",
-            "25-64歲"
-        ],
-        "col": [
             "車與車追撞"
         ],
         "colCode": null,
@@ -246,10 +230,26 @@
             "25-64歲"
         ],
         "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 2423,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "高雄市",
+            "112年",
+            "25-64歲"
+        ],
+        "col": [
             "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 608,
+        "value": 611,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -374,10 +374,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 602,
+        "value": 1019,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -390,10 +390,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 1019,
+        "value": 602,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -534,10 +534,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 138,
+        "value": 180,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -550,10 +550,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 180,
+        "value": 138,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -694,10 +694,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 83,
+        "value": 117,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -710,10 +710,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 117,
+        "value": 83,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -854,10 +854,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 58,
+        "value": 67,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -870,10 +870,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 67,
+        "value": 58,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -969,7 +969,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 3560,
+        "value": 3561,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1014,10 +1014,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 1084,
+        "value": 948,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1030,10 +1030,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 948,
+        "value": 1084,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1129,7 +1129,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 16663,
+        "value": 16664,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1174,10 +1174,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 5346,
+        "value": 6762,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1190,10 +1190,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 6762,
+        "value": 5346,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1334,10 +1334,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 1391,
+        "value": 2048,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1350,10 +1350,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2048,
+        "value": 1391,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1494,10 +1494,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 347,
+        "value": 322,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1510,10 +1510,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 322,
+        "value": 347,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1654,7 +1654,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
         "value": 218,
@@ -1670,7 +1670,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
         "value": 218,
@@ -1814,10 +1814,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 150,
+        "value": 114,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1830,10 +1830,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 114,
+        "value": 150,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1974,10 +1974,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 958,
+        "value": 1025,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1990,10 +1990,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 1025,
+        "value": 958,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2134,10 +2134,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 4718,
+        "value": 7100,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2150,10 +2150,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 7100,
+        "value": 4718,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2294,10 +2294,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 1293,
+        "value": 2256,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2310,10 +2310,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2256,
+        "value": 1293,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2454,10 +2454,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 310,
+        "value": 312,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2470,10 +2470,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 312,
+        "value": 310,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2614,10 +2614,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 192,
+        "value": 217,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2630,10 +2630,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 217,
+        "value": 192,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2774,10 +2774,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 134,
+        "value": 109,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2790,10 +2790,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 109,
+        "value": 134,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2934,10 +2934,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 1113,
+        "value": 1010,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2950,10 +2950,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 1010,
+        "value": 1113,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3094,10 +3094,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 5289,
+        "value": 7065,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3110,10 +3110,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 7065,
+        "value": 5289,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3254,10 +3254,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 1518,
+        "value": 2528,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3270,10 +3270,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2528,
+        "value": 1518,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3414,10 +3414,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 373,
+        "value": 344,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3430,10 +3430,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 344,
+        "value": 373,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3574,10 +3574,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 216,
+        "value": 231,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3590,10 +3590,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 231,
+        "value": 216,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3734,10 +3734,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 168,
+        "value": 120,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3750,10 +3750,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 120,
+        "value": 168,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3894,10 +3894,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 1052,
+        "value": 890,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3910,10 +3910,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 890,
+        "value": 1052,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4054,10 +4054,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 5590,
+        "value": 6424,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4070,10 +4070,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 6424,
+        "value": 5590,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4214,10 +4214,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 1648,
+        "value": 2559,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4230,10 +4230,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2559,
+        "value": 1648,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4374,10 +4374,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 423,
+        "value": 344,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4390,10 +4390,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 344,
+        "value": 423,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4534,10 +4534,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 272,
+        "value": 235,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4550,10 +4550,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 235,
+        "value": 272,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4694,10 +4694,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 174,
+        "value": 116,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4710,10 +4710,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 116,
+        "value": 174,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4854,10 +4854,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 1055,
+        "value": 844,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4870,10 +4870,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 844,
+        "value": 1055,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5014,10 +5014,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 6000,
+        "value": 6817,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5030,10 +5030,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 6817,
+        "value": 6000,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5174,10 +5174,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 1891,
+        "value": 2646,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5190,10 +5190,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2646,
+        "value": 1891,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5334,10 +5334,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 427,
+        "value": 383,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5350,10 +5350,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 383,
+        "value": 427,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5494,10 +5494,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 283,
+        "value": 242,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5510,10 +5510,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 242,
+        "value": 283,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5654,10 +5654,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 163,
+        "value": 159,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5670,10 +5670,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 159,
+        "value": 163,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5814,10 +5814,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 1004,
+        "value": 860,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5830,10 +5830,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 860,
+        "value": 1004,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5974,10 +5974,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 6155,
+        "value": 7571,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5990,10 +5990,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 7571,
+        "value": 6155,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6134,10 +6134,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 2011,
+        "value": 2985,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6150,10 +6150,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2985,
+        "value": 2011,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6294,10 +6294,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 445,
+        "value": 415,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6310,10 +6310,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 415,
+        "value": 445,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6454,10 +6454,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 307,
+        "value": 278,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6470,10 +6470,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 278,
+        "value": 307,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6614,10 +6614,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 159,
+        "value": 144,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6630,10 +6630,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 144,
+        "value": 159,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6774,10 +6774,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 969,
+        "value": 776,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6790,10 +6790,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 776,
+        "value": 969,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6934,10 +6934,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 6548,
+        "value": 7830,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6950,10 +6950,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 7830,
+        "value": 6548,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7094,10 +7094,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 2409,
+        "value": 3107,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7110,10 +7110,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 3107,
+        "value": 2409,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7254,10 +7254,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 516,
+        "value": 431,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7270,10 +7270,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 431,
+        "value": 516,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7414,10 +7414,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 366,
+        "value": 286,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7430,10 +7430,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 286,
+        "value": 366,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7574,10 +7574,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 172,
+        "value": 165,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7590,10 +7590,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 165,
+        "value": 172,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7734,10 +7734,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 1062,
+        "value": 823,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7750,10 +7750,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 823,
+        "value": 1062,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7894,10 +7894,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 7301,
+        "value": 8502,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7910,10 +7910,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 8502,
+        "value": 7301,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8054,10 +8054,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 2722,
+        "value": 3460,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8070,10 +8070,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 3460,
+        "value": 2722,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8214,10 +8214,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 634,
+        "value": 465,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8230,10 +8230,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 465,
+        "value": 634,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8374,10 +8374,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 474,
+        "value": 322,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8390,10 +8390,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 322,
+        "value": 474,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8534,10 +8534,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 188,
+        "value": 165,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8550,10 +8550,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 165,
+        "value": 188,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8694,10 +8694,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 919,
+        "value": 668,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8710,10 +8710,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 668,
+        "value": 919,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8854,10 +8854,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 7092,
+        "value": 7515,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8870,10 +8870,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 7515,
+        "value": 7092,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9014,10 +9014,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 2659,
+        "value": 3076,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9030,10 +9030,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 3076,
+        "value": 2659,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9174,10 +9174,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 662,
+        "value": 450,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9190,10 +9190,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 450,
+        "value": 662,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9334,10 +9334,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 477,
+        "value": 302,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9350,10 +9350,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 302,
+        "value": 477,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9494,10 +9494,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 217,
+        "value": 160,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9510,10 +9510,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 160,
+        "value": 217,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9654,10 +9654,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 773,
+        "value": 632,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9670,10 +9670,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 632,
+        "value": 773,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9814,10 +9814,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 6507,
+        "value": 6937,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9830,10 +9830,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 6937,
+        "value": 6507,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9974,10 +9974,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 2318,
+        "value": 2644,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9990,10 +9990,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2644,
+        "value": 2318,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10134,10 +10134,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 617,
+        "value": 442,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10150,10 +10150,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 442,
+        "value": 617,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10294,10 +10294,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 464,
+        "value": 323,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10310,10 +10310,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 323,
+        "value": 464,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10454,10 +10454,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 180,
+        "value": 144,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10470,10 +10470,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 144,
+        "value": 180,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10614,10 +10614,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 718,
+        "value": 511,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10630,10 +10630,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 511,
+        "value": 718,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10774,10 +10774,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 6169,
+        "value": 6404,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10790,10 +10790,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 6404,
+        "value": 6169,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10934,10 +10934,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 2337,
+        "value": 2500,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -10950,10 +10950,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 2500,
+        "value": 2337,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11094,10 +11094,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 672,
+        "value": 500,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11110,10 +11110,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 500,
+        "value": 672,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11254,10 +11254,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 495,
+        "value": 376,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11270,10 +11270,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 376,
+        "value": 495,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11414,10 +11414,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 206,
+        "value": 137,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11430,10 +11430,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 137,
+        "value": 206,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11574,10 +11574,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 608,
+        "value": 439,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11590,10 +11590,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 439,
+        "value": 608,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11734,10 +11734,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 5996,
+        "value": 4853,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11750,10 +11750,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 4853,
+        "value": 5996,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11894,10 +11894,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 2211,
+        "value": 1879,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11910,10 +11910,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 1879,
+        "value": 2211,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12054,10 +12054,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 592,
+        "value": 351,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12070,10 +12070,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 351,
+        "value": 592,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12214,10 +12214,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 442,
+        "value": 264,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12230,10 +12230,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 264,
+        "value": 442,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12374,10 +12374,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 171,
+        "value": 100,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12390,10 +12390,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 100,
+        "value": 171,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12534,10 +12534,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 626,
+        "value": 434,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12550,10 +12550,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 434,
+        "value": 626,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12694,10 +12694,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 6207,
+        "value": 4801,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12710,10 +12710,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 4801,
+        "value": 6207,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12854,10 +12854,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 2189,
+        "value": 1579,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -12870,10 +12870,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 1579,
+        "value": 2189,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13014,10 +13014,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 624,
+        "value": 337,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13030,10 +13030,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 337,
+        "value": 624,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13174,10 +13174,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 477,
+        "value": 245,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13190,10 +13190,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 245,
+        "value": 477,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13334,10 +13334,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 174,
+        "value": 107,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13350,10 +13350,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 107,
+        "value": 174,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13494,10 +13494,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 697,
+        "value": 473,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13510,10 +13510,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 473,
+        "value": 697,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13654,10 +13654,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 6721,
+        "value": 4812,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13670,10 +13670,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 4812,
+        "value": 6721,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13814,10 +13814,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 2328,
+        "value": 1587,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13830,10 +13830,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 1587,
+        "value": 2328,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13974,10 +13974,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 668,
+        "value": 365,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -13990,10 +13990,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 365,
+        "value": 668,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14134,10 +14134,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 478,
+        "value": 252,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14150,10 +14150,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 252,
+        "value": 478,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14294,10 +14294,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 239,
+        "value": 124,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14310,10 +14310,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 124,
+        "value": 239,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14454,10 +14454,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 689,
+        "value": 404,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14470,10 +14470,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 404,
+        "value": 689,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14614,10 +14614,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 6342,
+        "value": 4237,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14630,10 +14630,10 @@
             "25-64歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 4237,
+        "value": 6342,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14774,10 +14774,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 2061,
+        "value": 1413,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14790,10 +14790,10 @@
             "18-24歲"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 1413,
+        "value": 2061,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14934,10 +14934,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 671,
+        "value": 313,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14950,10 +14950,10 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 313,
+        "value": 671,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -15094,10 +15094,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 494,
+        "value": 223,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -15110,10 +15110,10 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 223,
+        "value": 494,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -15254,10 +15254,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車路口交岔撞"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 216,
+        "value": 107,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -15270,10 +15270,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "車與車追撞"
+            "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 107,
+        "value": 216,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
