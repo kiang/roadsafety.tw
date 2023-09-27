@@ -9,7 +9,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 4357,
+        "value": 5409,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 2333,
+        "value": 2998,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 1527,
+        "value": 2003,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 1434,
+        "value": 1830,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 1800,
+        "value": 2454,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -86,10 +86,10 @@
             "機車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 672,
+        "value": 891,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -105,7 +105,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 706,
+        "value": 918,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -118,343 +118,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
-        ],
-        "colCode": null,
-        "value": 88,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "機車"
-        ],
-        "col": [
-            "人與汽(機)車其他"
-        ],
-        "colCode": null,
-        "value": 87,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "機車"
-        ],
-        "col": [
-            "車與車對撞"
-        ],
-        "colCode": null,
-        "value": 183,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "車與車側撞"
-        ],
-        "colCode": null,
-        "value": 2040,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "車與車其他"
-        ],
-        "colCode": null,
-        "value": 1088,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "車與車同向擦撞"
-        ],
-        "colCode": null,
-        "value": 786,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "車與車追撞"
-        ],
-        "colCode": null,
-        "value": 793,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 981,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "汽(機)車本身路上翻車、摔倒"
-        ],
-        "colCode": null,
-        "value": 17,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "車與車對向擦撞"
-        ],
-        "colCode": null,
-        "value": 314,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "人與汽(機)車穿越道路中"
-        ],
-        "colCode": null,
-        "value": 76,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "人與汽(機)車其他"
-        ],
-        "colCode": null,
-        "value": 53,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "車與車對撞"
-        ],
-        "colCode": null,
-        "value": 53,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "大客車"
-        ],
-        "col": [
-            "車與車側撞"
-        ],
-        "colCode": null,
-        "value": 8,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "大客車"
-        ],
-        "col": [
-            "車與車其他"
-        ],
-        "colCode": null,
-        "value": 12,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "大客車"
-        ],
-        "col": [
-            "車與車同向擦撞"
-        ],
-        "colCode": null,
-        "value": 8,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "大客車"
-        ],
-        "col": [
-            "車與車追撞"
-        ],
-        "colCode": null,
-        "value": 2,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "大客車"
-        ],
-        "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 2,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "大客車"
-        ],
-        "col": [
-            "人與汽(機)車穿越道路中"
-        ],
-        "colCode": null,
-        "value": 1,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "大客車"
-        ],
-        "col": [
-            "人與汽(機)車其他"
-        ],
-        "colCode": null,
-        "value": 2,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "自行車"
-        ],
-        "col": [
-            "車與車側撞"
-        ],
-        "colCode": null,
-        "value": 191,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "自行車"
-        ],
-        "col": [
-            "車與車其他"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 118,
@@ -467,13 +131,349 @@
         "row": [
             "彰化縣",
             "112年",
+            "機車"
+        ],
+        "col": [
+            "人與車車其他"
+        ],
+        "colCode": null,
+        "value": 118,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "機車"
+        ],
+        "col": [
+            "車與車對撞"
+        ],
+        "colCode": null,
+        "value": 248,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "車與車側撞"
+        ],
+        "colCode": null,
+        "value": 2537,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "車與車其他"
+        ],
+        "colCode": null,
+        "value": 1435,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "車與車同向擦撞"
+        ],
+        "colCode": null,
+        "value": 1057,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 1029,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 1296,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "車輛本身路上翻車、摔倒"
+        ],
+        "colCode": null,
+        "value": 21,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "車與車對向擦撞"
+        ],
+        "colCode": null,
+        "value": 417,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "人與車穿越道路中"
+        ],
+        "colCode": null,
+        "value": 101,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "人與車車其他"
+        ],
+        "colCode": null,
+        "value": 71,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "車與車對撞"
+        ],
+        "colCode": null,
+        "value": 69,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "車與車側撞"
+        ],
+        "colCode": null,
+        "value": 10,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "車與車其他"
+        ],
+        "colCode": null,
+        "value": 14,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "車與車同向擦撞"
+        ],
+        "colCode": null,
+        "value": 9,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 3,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 4,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "人與車穿越道路中"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "人與車車其他"
+        ],
+        "colCode": null,
+        "value": 2,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "車與車側撞"
+        ],
+        "colCode": null,
+        "value": 233,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "自行車"
+        ],
+        "col": [
+            "車與車其他"
+        ],
+        "colCode": null,
+        "value": 154,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
             "自行車"
         ],
         "col": [
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 85,
+        "value": 111,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -489,7 +489,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 71,
+        "value": 96,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -505,7 +505,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 38,
+        "value": 62,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -518,10 +518,10 @@
             "自行車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 39,
+        "value": 65,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -537,7 +537,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 29,
+        "value": 44,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -550,10 +550,10 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -566,7 +566,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 3,
@@ -585,7 +585,7 @@
             "車與車對撞"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 14,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -601,7 +601,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 167,
+        "value": 213,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -617,7 +617,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 106,
+        "value": 127,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -633,7 +633,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 64,
+        "value": 89,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -649,7 +649,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 53,
+        "value": 76,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -665,7 +665,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 87,
+        "value": 125,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -678,7 +678,23 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
+        ],
+        "colCode": null,
+        "value": 47,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "車與車對向擦撞"
         ],
         "colCode": null,
         "value": 35,
@@ -694,10 +710,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "車與車對向擦撞"
+            "人與車穿越道路中"
         ],
         "colCode": null,
-        "value": 29,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -710,23 +726,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
-        ],
-        "colCode": null,
-        "value": 6,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 4,
@@ -745,7 +745,7 @@
             "車與車對撞"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 10,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -777,7 +777,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -793,7 +793,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -806,10 +806,10 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
-        "value": 178,
+        "value": 237,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -822,10 +822,10 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
-        "value": 113,
+        "value": 138,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -918,7 +918,7 @@
             "機車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 1491,
@@ -950,7 +950,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 243,
@@ -966,7 +966,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 157,
@@ -1078,7 +1078,7 @@
             "小客車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 33,
@@ -1110,7 +1110,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 149,
@@ -1126,7 +1126,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 108,
@@ -1238,7 +1238,7 @@
             "大客車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 1,
@@ -1254,7 +1254,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 1,
@@ -1270,7 +1270,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 2,
@@ -1366,7 +1366,7 @@
             "自行車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 110,
@@ -1398,7 +1398,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 1,
@@ -1414,7 +1414,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 9,
@@ -1526,7 +1526,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 56,
@@ -1558,7 +1558,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 5,
@@ -1574,7 +1574,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 12,
@@ -1686,7 +1686,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 415,
@@ -1702,7 +1702,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 227,
@@ -1814,7 +1814,7 @@
             "機車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 1261,
@@ -1846,7 +1846,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 205,
@@ -1862,7 +1862,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 136,
@@ -1974,7 +1974,7 @@
             "小客車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 24,
@@ -2006,7 +2006,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 125,
@@ -2022,7 +2022,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 76,
@@ -2134,7 +2134,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 2,
@@ -2150,7 +2150,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 2,
@@ -2262,7 +2262,7 @@
             "自行車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 99,
@@ -2294,7 +2294,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 1,
@@ -2310,7 +2310,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 6,
@@ -2422,7 +2422,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 53,
@@ -2454,7 +2454,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 10,
@@ -2470,7 +2470,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 8,
@@ -2582,7 +2582,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 371,
@@ -2598,7 +2598,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 183,
@@ -2694,7 +2694,7 @@
             "機車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 1290,
@@ -2726,7 +2726,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 268,
@@ -2742,7 +2742,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 108,
@@ -2854,7 +2854,7 @@
             "小客車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 13,
@@ -2886,7 +2886,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 146,
@@ -2902,7 +2902,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 83,
@@ -3030,7 +3030,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 6,
@@ -3046,7 +3046,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 8,
@@ -3142,7 +3142,7 @@
             "自行車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 96,
@@ -3174,7 +3174,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 3,
@@ -3190,7 +3190,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 6,
@@ -3302,7 +3302,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 54,
@@ -3334,7 +3334,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 6,
@@ -3350,7 +3350,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 8,
@@ -3462,7 +3462,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 450,
@@ -3478,7 +3478,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 170,
@@ -3590,7 +3590,7 @@
             "機車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 1088,
@@ -3622,7 +3622,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 226,
@@ -3638,7 +3638,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 122,
@@ -3750,7 +3750,7 @@
             "小客車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 14,
@@ -3782,7 +3782,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 140,
@@ -3798,7 +3798,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 57,
@@ -3910,7 +3910,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 1,
@@ -4022,7 +4022,7 @@
             "自行車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 75,
@@ -4054,7 +4054,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 8,
@@ -4166,7 +4166,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 28,
@@ -4198,7 +4198,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 5,
@@ -4214,7 +4214,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 4,
@@ -4310,7 +4310,7 @@
             "行人"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 1,
@@ -4326,7 +4326,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 397,
@@ -4342,7 +4342,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 162,
@@ -4438,7 +4438,7 @@
             "機車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 750,
@@ -4470,7 +4470,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 158,
@@ -4486,7 +4486,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 90,
@@ -4598,7 +4598,7 @@
             "小客車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 17,
@@ -4630,7 +4630,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 126,
@@ -4646,7 +4646,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 67,
@@ -4774,7 +4774,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 1,
@@ -4790,7 +4790,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 2,
@@ -4902,7 +4902,7 @@
             "自行車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 61,
@@ -4934,7 +4934,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 1,
@@ -4950,7 +4950,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 7,
@@ -5062,7 +5062,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 22,
@@ -5094,7 +5094,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 1,
@@ -5110,7 +5110,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 2,
@@ -5222,7 +5222,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 306,
@@ -5238,7 +5238,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 150,
@@ -5334,7 +5334,7 @@
             "機車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 881,
@@ -5366,7 +5366,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 199,
@@ -5382,7 +5382,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 73,
@@ -5494,7 +5494,7 @@
             "小客車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 22,
@@ -5526,7 +5526,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 131,
@@ -5542,7 +5542,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 57,
@@ -5670,7 +5670,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 3,
@@ -5782,7 +5782,7 @@
             "自行車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 70,
@@ -5814,7 +5814,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 7,
@@ -5926,7 +5926,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 15,
@@ -5958,7 +5958,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 2,
@@ -5974,7 +5974,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 5,
@@ -6054,7 +6054,7 @@
             "行人"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 1,
@@ -6086,7 +6086,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 358,
@@ -6102,7 +6102,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 132,
@@ -6198,7 +6198,7 @@
             "機車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 866,
@@ -6230,7 +6230,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 199,
@@ -6246,7 +6246,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 94,
@@ -6358,7 +6358,7 @@
             "小客車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 14,
@@ -6390,7 +6390,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 109,
@@ -6406,7 +6406,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 54,
@@ -6534,7 +6534,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 1,
@@ -6550,7 +6550,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 1,
@@ -6662,7 +6662,7 @@
             "自行車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 76,
@@ -6694,7 +6694,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 5,
@@ -6710,7 +6710,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 6,
@@ -6822,7 +6822,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 11,
@@ -6854,7 +6854,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 1,
@@ -6870,7 +6870,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 2,
@@ -6998,7 +6998,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 348,
@@ -7014,7 +7014,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 155,
@@ -7110,7 +7110,7 @@
             "機車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 837,
@@ -7142,7 +7142,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 212,
@@ -7158,7 +7158,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 100,
@@ -7270,7 +7270,7 @@
             "小客車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 8,
@@ -7302,7 +7302,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 108,
@@ -7318,7 +7318,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 71,
@@ -7430,7 +7430,7 @@
             "大客車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 1,
@@ -7462,7 +7462,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 2,
@@ -7478,7 +7478,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 2,
@@ -7590,7 +7590,7 @@
             "自行車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 73,
@@ -7622,7 +7622,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 3,
@@ -7638,7 +7638,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 9,
@@ -7750,7 +7750,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 11,
@@ -7782,7 +7782,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 2,
@@ -7798,7 +7798,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 2,
@@ -7910,7 +7910,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 346,
@@ -7926,7 +7926,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 165,
@@ -8022,7 +8022,7 @@
             "機車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 923,
@@ -8054,7 +8054,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 239,
@@ -8070,7 +8070,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 110,
@@ -8182,7 +8182,7 @@
             "小客車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 7,
@@ -8214,7 +8214,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 143,
@@ -8230,7 +8230,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 85,
@@ -8358,7 +8358,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 1,
@@ -8374,7 +8374,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 2,
@@ -8486,7 +8486,7 @@
             "自行車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 104,
@@ -8518,7 +8518,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 1,
@@ -8534,7 +8534,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 5,
@@ -8646,7 +8646,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 6,
@@ -8678,7 +8678,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 2,
@@ -8694,7 +8694,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 2,
@@ -8806,7 +8806,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 406,
@@ -8822,7 +8822,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 178,
@@ -8934,7 +8934,7 @@
             "機車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 623,
@@ -8966,7 +8966,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 171,
@@ -8982,7 +8982,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 101,
@@ -9094,7 +9094,7 @@
             "小客車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 8,
@@ -9126,7 +9126,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 94,
@@ -9142,7 +9142,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 38,
@@ -9270,7 +9270,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 1,
@@ -9382,7 +9382,7 @@
             "自行車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 36,
@@ -9414,7 +9414,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 1,
@@ -9430,7 +9430,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 5,
@@ -9542,7 +9542,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 5,
@@ -9574,7 +9574,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 1,
@@ -9686,7 +9686,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 286,
@@ -9702,7 +9702,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 143,
@@ -9798,7 +9798,7 @@
             "機車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 420,
@@ -9830,7 +9830,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 52,
@@ -9846,7 +9846,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 269,
@@ -9958,7 +9958,7 @@
             "小客車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 7,
@@ -9990,7 +9990,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 35,
@@ -10006,7 +10006,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 148,
@@ -10134,7 +10134,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 2,
@@ -10246,7 +10246,7 @@
             "自行車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 17,
@@ -10278,7 +10278,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 1,
@@ -10294,7 +10294,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 11,
@@ -10406,7 +10406,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 1,
@@ -10438,7 +10438,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 1,
@@ -10454,7 +10454,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 1,
@@ -10534,7 +10534,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 106,
@@ -10550,7 +10550,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 445,
@@ -10646,7 +10646,7 @@
             "機車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 457,
@@ -10678,7 +10678,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 60,
@@ -10694,7 +10694,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 287,
@@ -10806,7 +10806,7 @@
             "小客車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 6,
@@ -10838,7 +10838,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 29,
@@ -10854,7 +10854,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 149,
@@ -10966,7 +10966,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 2,
@@ -11078,7 +11078,7 @@
             "自行車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 23,
@@ -11110,7 +11110,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 2,
@@ -11126,7 +11126,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 12,
@@ -11238,7 +11238,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 2,
@@ -11270,7 +11270,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 2,
@@ -11382,7 +11382,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 99,
@@ -11398,7 +11398,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 451,
@@ -11494,7 +11494,7 @@
             "機車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 450,
@@ -11526,7 +11526,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 63,
@@ -11542,7 +11542,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 259,
@@ -11654,7 +11654,7 @@
             "小客車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 1,
@@ -11686,7 +11686,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 44,
@@ -11702,7 +11702,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 123,
@@ -11830,7 +11830,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 3,
@@ -11942,7 +11942,7 @@
             "自行車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 21,
@@ -11974,7 +11974,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 1,
@@ -11990,7 +11990,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 15,
@@ -12102,7 +12102,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 4,
@@ -12214,7 +12214,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 121,
@@ -12230,7 +12230,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 430,
@@ -12326,7 +12326,7 @@
             "機車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 297,
@@ -12358,7 +12358,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 77,
@@ -12374,7 +12374,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 235,
@@ -12486,7 +12486,7 @@
             "小客車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 6,
@@ -12518,7 +12518,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 41,
@@ -12534,7 +12534,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 144,
@@ -12662,7 +12662,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 4,
@@ -12774,7 +12774,7 @@
             "自行車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 17,
@@ -12806,7 +12806,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 5,
@@ -12918,7 +12918,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 1,
@@ -13046,7 +13046,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 128,
@@ -13062,7 +13062,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 404,
@@ -13158,7 +13158,7 @@
             "機車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 236,
@@ -13190,7 +13190,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 66,
@@ -13206,7 +13206,7 @@
             "機車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 198,
@@ -13318,7 +13318,7 @@
             "小客車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 5,
@@ -13350,7 +13350,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 52,
@@ -13366,7 +13366,7 @@
             "小客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 110,
@@ -13494,7 +13494,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 2,
@@ -13510,7 +13510,7 @@
             "大客車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 6,
@@ -13606,7 +13606,7 @@
             "自行車"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 18,
@@ -13638,7 +13638,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 2,
@@ -13654,7 +13654,7 @@
             "自行車"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 6,
@@ -13846,7 +13846,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 135,
@@ -13862,7 +13862,7 @@
             "行人"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 345,

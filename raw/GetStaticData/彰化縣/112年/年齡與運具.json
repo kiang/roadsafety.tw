@@ -9,7 +9,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 2399,
+        "value": 3086,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 8132,
+        "value": 10486,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 3044,
+        "value": 3917,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 329,
+        "value": 411,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 329,
+        "value": 410,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -83,106 +83,10 @@
         "row": [
             "彰化縣",
             "112年",
-            "小客車"
+            "機車"
         ],
         "col": [
-            "高齡者(65歲以上)"
-        ],
-        "colCode": null,
-        "value": 632,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "25-64歲"
-        ],
-        "colCode": null,
-        "value": 5390,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "18-24歲"
-        ],
-        "colCode": null,
-        "value": 477,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "兒少(0-17歲)"
-        ],
-        "colCode": null,
-        "value": 6,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "少年(12-17歲)"
-        ],
-        "colCode": null,
-        "value": 6,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "大客車"
-        ],
-        "col": [
-            "25-64歲"
-        ],
-        "colCode": null,
-        "value": 34,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "112年",
-            "大客車"
-        ],
-        "col": [
-            "18-24歲"
+            "兒童(未滿12歲)"
         ],
         "colCode": null,
         "value": 1,
@@ -195,13 +99,125 @@
         "row": [
             "彰化縣",
             "112年",
+            "小客車"
+        ],
+        "col": [
+            "高齡者(65歲以上)"
+        ],
+        "colCode": null,
+        "value": 840,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "25-64歲"
+        ],
+        "colCode": null,
+        "value": 6960,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "18-24歲"
+        ],
+        "colCode": null,
+        "value": 615,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "兒少(0-17歲)"
+        ],
+        "colCode": null,
+        "value": 8,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "少年(12-17歲)"
+        ],
+        "colCode": null,
+        "value": 8,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "25-64歲"
+        ],
+        "colCode": null,
+        "value": 42,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "18-24歲"
+        ],
+        "colCode": null,
+        "value": 2,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "112年",
             "自行車"
         ],
         "col": [
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 232,
+        "value": 304,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -217,7 +233,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 169,
+        "value": 230,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -233,7 +249,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 17,
+        "value": 28,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -249,7 +265,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 188,
+        "value": 252,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -265,7 +281,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 168,
+        "value": 224,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -281,7 +297,7 @@
             "兒童(未滿12歲)"
         ],
         "colCode": null,
-        "value": 48,
+        "value": 69,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -297,7 +313,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 142,
+        "value": 193,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -313,7 +329,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 261,
+        "value": 322,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -329,7 +345,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 72,
+        "value": 102,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -345,7 +361,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 115,
+        "value": 152,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -361,7 +377,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 114,
+        "value": 150,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -377,7 +393,7 @@
             "兒童(未滿12歲)"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -393,7 +409,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 171,
+        "value": 220,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -409,7 +425,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 195,
+        "value": 249,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -425,7 +441,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 18,
+        "value": 20,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -441,7 +457,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 75,
+        "value": 94,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -457,7 +473,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 34,
+        "value": 42,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -473,7 +489,7 @@
             "兒童(未滿12歲)"
         ],
         "colCode": null,
-        "value": 44,
+        "value": 56,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,

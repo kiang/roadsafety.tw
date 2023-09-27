@@ -9,7 +9,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 281,
+        "value": 351,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 134,
+        "value": 174,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 184,
+        "value": 218,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 111,
+        "value": 141,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 139,
+        "value": 193,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -86,10 +86,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 37,
+        "value": 45,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -105,7 +105,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 72,
+        "value": 93,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -118,10 +118,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
-        "value": 41,
+        "value": 49,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -134,10 +134,10 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
-        "value": 26,
+        "value": 31,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -151,422 +151,6 @@
         ],
         "col": [
             "車與車對撞"
-        ],
-        "colCode": null,
-        "value": 14,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "25-64歲"
-        ],
-        "col": [
-            "車與車側撞"
-        ],
-        "colCode": null,
-        "value": 1401,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "25-64歲"
-        ],
-        "col": [
-            "車與車其他"
-        ],
-        "colCode": null,
-        "value": 671,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "25-64歲"
-        ],
-        "col": [
-            "車與車同向擦撞"
-        ],
-        "colCode": null,
-        "value": 716,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "25-64歲"
-        ],
-        "col": [
-            "車與車追撞"
-        ],
-        "colCode": null,
-        "value": 580,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "25-64歲"
-        ],
-        "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 751,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "25-64歲"
-        ],
-        "col": [
-            "汽(機)車本身路上翻車、摔倒"
-        ],
-        "colCode": null,
-        "value": 104,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "25-64歲"
-        ],
-        "col": [
-            "車與車對向擦撞"
-        ],
-        "colCode": null,
-        "value": 288,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "25-64歲"
-        ],
-        "col": [
-            "人與汽(機)車穿越道路中"
-        ],
-        "colCode": null,
-        "value": 111,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "25-64歲"
-        ],
-        "col": [
-            "人與汽(機)車其他"
-        ],
-        "colCode": null,
-        "value": 64,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "25-64歲"
-        ],
-        "col": [
-            "車與車對撞"
-        ],
-        "colCode": null,
-        "value": 81,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "18-24歲"
-        ],
-        "col": [
-            "車與車側撞"
-        ],
-        "colCode": null,
-        "value": 412,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "18-24歲"
-        ],
-        "col": [
-            "車與車其他"
-        ],
-        "colCode": null,
-        "value": 227,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "18-24歲"
-        ],
-        "col": [
-            "車與車同向擦撞"
-        ],
-        "colCode": null,
-        "value": 195,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "18-24歲"
-        ],
-        "col": [
-            "車與車追撞"
-        ],
-        "colCode": null,
-        "value": 182,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "18-24歲"
-        ],
-        "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 178,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "18-24歲"
-        ],
-        "col": [
-            "汽(機)車本身路上翻車、摔倒"
-        ],
-        "colCode": null,
-        "value": 76,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "18-24歲"
-        ],
-        "col": [
-            "車與車對向擦撞"
-        ],
-        "colCode": null,
-        "value": 103,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "18-24歲"
-        ],
-        "col": [
-            "人與汽(機)車穿越道路中"
-        ],
-        "colCode": null,
-        "value": 27,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "18-24歲"
-        ],
-        "col": [
-            "人與汽(機)車其他"
-        ],
-        "colCode": null,
-        "value": 7,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "18-24歲"
-        ],
-        "col": [
-            "車與車對撞"
-        ],
-        "colCode": null,
-        "value": 27,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "兒少(0-17歲)"
-        ],
-        "col": [
-            "車與車側撞"
-        ],
-        "colCode": null,
-        "value": 113,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "兒少(0-17歲)"
-        ],
-        "col": [
-            "車與車其他"
-        ],
-        "colCode": null,
-        "value": 55,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "兒少(0-17歲)"
-        ],
-        "col": [
-            "車與車同向擦撞"
-        ],
-        "colCode": null,
-        "value": 58,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "兒少(0-17歲)"
-        ],
-        "col": [
-            "車與車追撞"
-        ],
-        "colCode": null,
-        "value": 46,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "兒少(0-17歲)"
-        ],
-        "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 80,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "兒少(0-17歲)"
-        ],
-        "col": [
-            "汽(機)車本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 21,
@@ -579,77 +163,13 @@
         "row": [
             "苗栗縣",
             "112年",
-            "兒少(0-17歲)"
-        ],
-        "col": [
-            "車與車對向擦撞"
-        ],
-        "colCode": null,
-        "value": 26,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "兒少(0-17歲)"
-        ],
-        "col": [
-            "人與汽(機)車穿越道路中"
-        ],
-        "colCode": null,
-        "value": 16,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "兒少(0-17歲)"
-        ],
-        "col": [
-            "人與汽(機)車其他"
-        ],
-        "colCode": null,
-        "value": 11,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "兒少(0-17歲)"
-        ],
-        "col": [
-            "車與車對撞"
-        ],
-        "colCode": null,
-        "value": 8,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "苗栗縣",
-            "112年",
-            "少年(12-17歲)"
+            "25-64歲"
         ],
         "col": [
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 94,
+        "value": 1681,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -659,13 +179,13 @@
         "row": [
             "苗栗縣",
             "112年",
-            "少年(12-17歲)"
+            "25-64歲"
         ],
         "col": [
             "車與車其他"
         ],
         "colCode": null,
-        "value": 52,
+        "value": 842,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -675,13 +195,13 @@
         "row": [
             "苗栗縣",
             "112年",
-            "少年(12-17歲)"
+            "25-64歲"
         ],
         "col": [
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 46,
+        "value": 854,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -691,13 +211,13 @@
         "row": [
             "苗栗縣",
             "112年",
-            "少年(12-17歲)"
+            "25-64歲"
         ],
         "col": [
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 39,
+        "value": 699,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -707,10 +227,298 @@
         "row": [
             "苗栗縣",
             "112年",
-            "少年(12-17歲)"
+            "25-64歲"
         ],
         "col": [
             "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 977,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "25-64歲"
+        ],
+        "col": [
+            "車輛本身路上翻車、摔倒"
+        ],
+        "colCode": null,
+        "value": 120,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "25-64歲"
+        ],
+        "col": [
+            "車與車對向擦撞"
+        ],
+        "colCode": null,
+        "value": 350,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "25-64歲"
+        ],
+        "col": [
+            "人與車穿越道路中"
+        ],
+        "colCode": null,
+        "value": 123,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "25-64歲"
+        ],
+        "col": [
+            "人與車車其他"
+        ],
+        "colCode": null,
+        "value": 78,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "25-64歲"
+        ],
+        "col": [
+            "車與車對撞"
+        ],
+        "colCode": null,
+        "value": 98,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "18-24歲"
+        ],
+        "col": [
+            "車與車側撞"
+        ],
+        "colCode": null,
+        "value": 514,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "18-24歲"
+        ],
+        "col": [
+            "車與車其他"
+        ],
+        "colCode": null,
+        "value": 270,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "18-24歲"
+        ],
+        "col": [
+            "車與車同向擦撞"
+        ],
+        "colCode": null,
+        "value": 232,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "18-24歲"
+        ],
+        "col": [
+            "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 222,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "18-24歲"
+        ],
+        "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 226,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "18-24歲"
+        ],
+        "col": [
+            "車輛本身路上翻車、摔倒"
+        ],
+        "colCode": null,
+        "value": 91,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "18-24歲"
+        ],
+        "col": [
+            "車與車對向擦撞"
+        ],
+        "colCode": null,
+        "value": 110,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "18-24歲"
+        ],
+        "col": [
+            "人與車穿越道路中"
+        ],
+        "colCode": null,
+        "value": 30,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "18-24歲"
+        ],
+        "col": [
+            "人與車車其他"
+        ],
+        "colCode": null,
+        "value": 15,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "18-24歲"
+        ],
+        "col": [
+            "車與車對撞"
+        ],
+        "colCode": null,
+        "value": 32,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "兒少(0-17歲)"
+        ],
+        "col": [
+            "車與車側撞"
+        ],
+        "colCode": null,
+        "value": 146,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "兒少(0-17歲)"
+        ],
+        "col": [
+            "車與車其他"
+        ],
+        "colCode": null,
+        "value": 65,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "兒少(0-17歲)"
+        ],
+        "col": [
+            "車與車同向擦撞"
         ],
         "colCode": null,
         "value": 63,
@@ -723,13 +531,13 @@
         "row": [
             "苗栗縣",
             "112年",
-            "少年(12-17歲)"
+            "兒少(0-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車與車追撞"
         ],
         "colCode": null,
-        "value": 21,
+        "value": 57,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -739,10 +547,26 @@
         "row": [
             "苗栗縣",
             "112年",
-            "少年(12-17歲)"
+            "兒少(0-17歲)"
         ],
         "col": [
-            "車與車對向擦撞"
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 98,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "兒少(0-17歲)"
+        ],
+        "col": [
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 24,
@@ -755,10 +579,58 @@
         "row": [
             "苗栗縣",
             "112年",
-            "少年(12-17歲)"
+            "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "車與車對向擦撞"
+        ],
+        "colCode": null,
+        "value": 32,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "兒少(0-17歲)"
+        ],
+        "col": [
+            "人與車穿越道路中"
+        ],
+        "colCode": null,
+        "value": 17,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "兒少(0-17歲)"
+        ],
+        "col": [
+            "人與車車其他"
+        ],
+        "colCode": null,
+        "value": 13,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "兒少(0-17歲)"
+        ],
+        "col": [
+            "車與車對撞"
         ],
         "colCode": null,
         "value": 11,
@@ -774,10 +646,138 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "車與車側撞"
         ],
         "colCode": null,
-        "value": 9,
+        "value": 114,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "少年(12-17歲)"
+        ],
+        "col": [
+            "車與車其他"
+        ],
+        "colCode": null,
+        "value": 58,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "少年(12-17歲)"
+        ],
+        "col": [
+            "車與車同向擦撞"
+        ],
+        "colCode": null,
+        "value": 50,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "少年(12-17歲)"
+        ],
+        "col": [
+            "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 50,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "少年(12-17歲)"
+        ],
+        "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 75,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "少年(12-17歲)"
+        ],
+        "col": [
+            "車輛本身路上翻車、摔倒"
+        ],
+        "colCode": null,
+        "value": 24,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "少年(12-17歲)"
+        ],
+        "col": [
+            "車與車對向擦撞"
+        ],
+        "colCode": null,
+        "value": 28,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "少年(12-17歲)"
+        ],
+        "col": [
+            "人與車穿越道路中"
+        ],
+        "colCode": null,
+        "value": 11,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "少年(12-17歲)"
+        ],
+        "col": [
+            "人與車車其他"
+        ],
+        "colCode": null,
+        "value": 11,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -793,7 +793,7 @@
             "車與車對撞"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 9,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -809,7 +809,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 24,
+        "value": 37,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -825,7 +825,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 10,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -841,7 +841,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 12,
+        "value": 13,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -873,7 +873,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 18,
+        "value": 24,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -889,7 +889,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -902,10 +902,10 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -918,10 +918,26 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 3,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "苗栗縣",
+            "112年",
+            "兒童(未滿12歲)"
+        ],
+        "col": [
+            "車與車對撞"
+        ],
+        "colCode": null,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1014,7 +1030,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 60,
@@ -1046,7 +1062,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 96,
@@ -1062,7 +1078,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 45,
@@ -1174,7 +1190,7 @@
             "25-64歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 204,
@@ -1206,7 +1222,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 250,
@@ -1222,7 +1238,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 102,
@@ -1334,7 +1350,7 @@
             "18-24歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 182,
@@ -1366,7 +1382,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 44,
@@ -1382,7 +1398,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 36,
@@ -1494,7 +1510,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 40,
@@ -1526,7 +1542,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 34,
@@ -1542,7 +1558,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 27,
@@ -1654,7 +1670,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 35,
@@ -1686,7 +1702,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 19,
@@ -1702,7 +1718,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 19,
@@ -1814,7 +1830,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 6,
@@ -1846,7 +1862,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 17,
@@ -1862,7 +1878,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 12,
@@ -1974,7 +1990,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 49,
@@ -2006,7 +2022,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 108,
@@ -2022,7 +2038,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 30,
@@ -2134,7 +2150,7 @@
             "25-64歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 188,
@@ -2166,7 +2182,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 221,
@@ -2182,7 +2198,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 83,
@@ -2294,7 +2310,7 @@
             "18-24歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 151,
@@ -2326,7 +2342,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 46,
@@ -2342,7 +2358,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 42,
@@ -2454,7 +2470,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 16,
@@ -2486,7 +2502,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 29,
@@ -2502,7 +2518,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 6,
@@ -2614,7 +2630,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 15,
@@ -2646,7 +2662,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 20,
@@ -2662,7 +2678,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 5,
@@ -2774,7 +2790,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 1,
@@ -2806,7 +2822,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 10,
@@ -2822,7 +2838,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 1,
@@ -2934,7 +2950,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 39,
@@ -2966,7 +2982,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 81,
@@ -2982,7 +2998,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 24,
@@ -3094,7 +3110,7 @@
             "25-64歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 166,
@@ -3126,7 +3142,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 203,
@@ -3142,7 +3158,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 85,
@@ -3254,7 +3270,7 @@
             "18-24歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 133,
@@ -3286,7 +3302,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 70,
@@ -3302,7 +3318,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 32,
@@ -3414,7 +3430,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 19,
@@ -3446,7 +3462,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 34,
@@ -3462,7 +3478,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 20,
@@ -3574,7 +3590,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 14,
@@ -3606,7 +3622,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 24,
@@ -3622,7 +3638,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 10,
@@ -3734,7 +3750,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 5,
@@ -3766,7 +3782,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 10,
@@ -3782,7 +3798,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 12,
@@ -3894,7 +3910,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 45,
@@ -3926,7 +3942,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 97,
@@ -3942,7 +3958,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 32,
@@ -4054,7 +4070,7 @@
             "25-64歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 149,
@@ -4086,7 +4102,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 227,
@@ -4102,7 +4118,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 76,
@@ -4214,7 +4230,7 @@
             "18-24歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 132,
@@ -4246,7 +4262,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 56,
@@ -4262,7 +4278,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 30,
@@ -4374,7 +4390,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 16,
@@ -4406,7 +4422,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 39,
@@ -4422,7 +4438,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 16,
@@ -4534,7 +4550,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 13,
@@ -4566,7 +4582,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 25,
@@ -4582,7 +4598,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 9,
@@ -4694,7 +4710,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 4,
@@ -4726,7 +4742,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 17,
@@ -4742,7 +4758,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 7,
@@ -4854,7 +4870,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 43,
@@ -4886,7 +4902,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 67,
@@ -4902,7 +4918,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 22,
@@ -5014,7 +5030,7 @@
             "25-64歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 170,
@@ -5046,7 +5062,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 153,
@@ -5062,7 +5078,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 72,
@@ -5174,7 +5190,7 @@
             "18-24歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 133,
@@ -5206,7 +5222,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 44,
@@ -5222,7 +5238,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 19,
@@ -5334,7 +5350,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 11,
@@ -5366,7 +5382,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 21,
@@ -5382,7 +5398,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 18,
@@ -5494,7 +5510,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 8,
@@ -5526,7 +5542,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 18,
@@ -5542,7 +5558,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 10,
@@ -5654,7 +5670,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 3,
@@ -5686,7 +5702,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 5,
@@ -5702,7 +5718,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 8,
@@ -5814,7 +5830,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 52,
@@ -5846,7 +5862,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 85,
@@ -5862,7 +5878,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 20,
@@ -5974,7 +5990,7 @@
             "25-64歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 180,
@@ -6006,7 +6022,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 165,
@@ -6022,7 +6038,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 65,
@@ -6134,7 +6150,7 @@
             "18-24歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 148,
@@ -6166,7 +6182,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 49,
@@ -6182,7 +6198,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 16,
@@ -6294,7 +6310,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 22,
@@ -6326,7 +6342,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 29,
@@ -6342,7 +6358,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 12,
@@ -6454,7 +6470,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 19,
@@ -6486,7 +6502,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 21,
@@ -6502,7 +6518,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 5,
@@ -6614,7 +6630,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 5,
@@ -6646,7 +6662,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 10,
@@ -6662,7 +6678,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 8,
@@ -6758,7 +6774,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 51,
@@ -6790,7 +6806,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 74,
@@ -6806,7 +6822,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 23,
@@ -6918,7 +6934,7 @@
             "25-64歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 183,
@@ -6950,7 +6966,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 189,
@@ -6966,7 +6982,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 71,
@@ -7078,7 +7094,7 @@
             "18-24歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 152,
@@ -7110,7 +7126,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 51,
@@ -7126,7 +7142,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 22,
@@ -7238,7 +7254,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 17,
@@ -7270,7 +7286,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 37,
@@ -7286,7 +7302,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 9,
@@ -7398,7 +7414,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 17,
@@ -7430,7 +7446,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 21,
@@ -7446,7 +7462,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 6,
@@ -7558,7 +7574,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 1,
@@ -7590,7 +7606,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 18,
@@ -7606,7 +7622,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 3,
@@ -7718,7 +7734,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 47,
@@ -7750,7 +7766,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 64,
@@ -7766,7 +7782,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 27,
@@ -7878,7 +7894,7 @@
             "25-64歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 170,
@@ -7910,7 +7926,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 168,
@@ -7926,7 +7942,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 70,
@@ -8038,7 +8054,7 @@
             "18-24歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 145,
@@ -8070,7 +8086,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 50,
@@ -8086,7 +8102,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 18,
@@ -8198,7 +8214,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 19,
@@ -8230,7 +8246,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 50,
@@ -8246,7 +8262,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 12,
@@ -8358,7 +8374,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 17,
@@ -8390,7 +8406,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 31,
@@ -8406,7 +8422,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 7,
@@ -8518,7 +8534,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 3,
@@ -8550,7 +8566,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 20,
@@ -8566,7 +8582,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 6,
@@ -8678,7 +8694,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 29,
@@ -8710,7 +8726,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 64,
@@ -8726,7 +8742,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 15,
@@ -8838,7 +8854,7 @@
             "25-64歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 152,
@@ -8870,7 +8886,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 174,
@@ -8886,7 +8902,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 38,
@@ -8998,7 +9014,7 @@
             "18-24歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 99,
@@ -9030,7 +9046,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 45,
@@ -9046,7 +9062,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 7,
@@ -9158,7 +9174,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 15,
@@ -9190,7 +9206,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 41,
@@ -9206,7 +9222,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 6,
@@ -9318,7 +9334,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 15,
@@ -9350,7 +9366,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 24,
@@ -9366,7 +9382,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 4,
@@ -9478,7 +9494,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 1,
@@ -9510,7 +9526,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 19,
@@ -9526,7 +9542,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 3,
@@ -9638,7 +9654,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 39,
@@ -9670,7 +9686,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 56,
@@ -9686,7 +9702,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 11,
@@ -9798,7 +9814,7 @@
             "25-64歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 163,
@@ -9830,7 +9846,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 164,
@@ -9846,7 +9862,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 34,
@@ -9958,7 +9974,7 @@
             "18-24歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 103,
@@ -9990,7 +10006,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 45,
@@ -10006,7 +10022,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 14,
@@ -10118,7 +10134,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 21,
@@ -10150,7 +10166,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 42,
@@ -10166,7 +10182,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 12,
@@ -10278,7 +10294,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 18,
@@ -10310,7 +10326,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 27,
@@ -10326,7 +10342,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 7,
@@ -10438,7 +10454,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 3,
@@ -10470,7 +10486,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 19,
@@ -10486,7 +10502,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 5,
@@ -10598,7 +10614,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 24,
@@ -10630,7 +10646,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 51,
@@ -10646,7 +10662,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 18,
@@ -10758,7 +10774,7 @@
             "25-64歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 146,
@@ -10790,7 +10806,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 139,
@@ -10806,7 +10822,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 62,
@@ -10918,7 +10934,7 @@
             "18-24歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 80,
@@ -10950,7 +10966,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 36,
@@ -10966,7 +10982,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 12,
@@ -11078,7 +11094,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 10,
@@ -11110,7 +11126,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 41,
@@ -11126,7 +11142,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 14,
@@ -11238,7 +11254,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 10,
@@ -11270,7 +11286,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 21,
@@ -11286,7 +11302,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 11,
@@ -11414,7 +11430,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 21,
@@ -11430,7 +11446,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 5,
@@ -11542,7 +11558,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 30,
@@ -11574,7 +11590,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 52,
@@ -11590,7 +11606,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 17,
@@ -11702,7 +11718,7 @@
             "25-64歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 127,
@@ -11734,7 +11750,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 139,
@@ -11750,7 +11766,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 59,
@@ -11862,7 +11878,7 @@
             "18-24歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 70,
@@ -11894,7 +11910,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 44,
@@ -11910,7 +11926,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 20,
@@ -12022,7 +12038,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 24,
@@ -12054,7 +12070,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 32,
@@ -12070,7 +12086,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 9,
@@ -12182,7 +12198,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 23,
@@ -12214,7 +12230,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 23,
@@ -12230,7 +12246,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 5,
@@ -12342,7 +12358,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 1,
@@ -12374,7 +12390,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 12,
@@ -12390,7 +12406,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 4,
@@ -12502,7 +12518,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 16,
@@ -12534,7 +12550,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 35,
@@ -12550,7 +12566,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 13,
@@ -12662,7 +12678,7 @@
             "25-64歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 170,
@@ -12694,7 +12710,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 124,
@@ -12710,7 +12726,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 51,
@@ -12822,7 +12838,7 @@
             "18-24歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 85,
@@ -12854,7 +12870,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 38,
@@ -12870,7 +12886,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 12,
@@ -12982,7 +12998,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 24,
@@ -13014,7 +13030,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 21,
@@ -13030,7 +13046,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 17,
@@ -13142,7 +13158,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 15,
@@ -13174,7 +13190,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 11,
@@ -13190,7 +13206,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 8,
@@ -13302,7 +13318,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 9,
@@ -13334,7 +13350,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 12,
@@ -13350,7 +13366,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 9,
@@ -13462,7 +13478,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 12,
@@ -13494,7 +13510,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 33,
@@ -13510,7 +13526,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 14,
@@ -13622,7 +13638,7 @@
             "25-64歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 120,
@@ -13654,7 +13670,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 102,
@@ -13670,7 +13686,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 32,
@@ -13782,7 +13798,7 @@
             "18-24歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 53,
@@ -13814,7 +13830,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 39,
@@ -13830,7 +13846,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 8,
@@ -13942,7 +13958,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 14,
@@ -13974,7 +13990,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 20,
@@ -13990,7 +14006,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 5,
@@ -14102,7 +14118,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 13,
@@ -14134,7 +14150,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 5,
@@ -14150,7 +14166,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 5,
@@ -14262,7 +14278,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 1,
@@ -14294,7 +14310,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 16,
@@ -14310,7 +14326,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 1,
@@ -14422,7 +14438,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 5,
@@ -14454,7 +14470,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 32,
@@ -14470,7 +14486,7 @@
             "高齡者(65歲以上)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 13,
@@ -14582,7 +14598,7 @@
             "25-64歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 85,
@@ -14614,7 +14630,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 73,
@@ -14630,7 +14646,7 @@
             "25-64歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 29,
@@ -14742,7 +14758,7 @@
             "18-24歲"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 34,
@@ -14774,7 +14790,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 18,
@@ -14790,7 +14806,7 @@
             "18-24歲"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 11,
@@ -14902,7 +14918,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 6,
@@ -14934,7 +14950,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 27,
@@ -14950,7 +14966,7 @@
             "兒少(0-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 4,
@@ -15062,7 +15078,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 4,
@@ -15094,7 +15110,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 16,
@@ -15110,7 +15126,7 @@
             "少年(12-17歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 2,
@@ -15206,7 +15222,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "汽(機)車本身路上翻車、摔倒"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
         "value": 2,
@@ -15238,7 +15254,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車穿越道路中"
+            "人與車穿越道路中"
         ],
         "colCode": null,
         "value": 15,
@@ -15254,7 +15270,7 @@
             "兒童(未滿12歲)"
         ],
         "col": [
-            "人與汽(機)車其他"
+            "人與車車其他"
         ],
         "colCode": null,
         "value": 2,
