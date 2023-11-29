@@ -9,7 +9,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 106419,
+        "value": 116204,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 69891,
+        "value": 78778,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 37309,
+        "value": 41210,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 51944,
+        "value": 57903,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 35831,
+        "value": 40114,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -89,7 +89,7 @@
             "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 17966,
+        "value": 20004,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -105,7 +105,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 9179,
+        "value": 10154,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -121,7 +121,7 @@
             "人與車穿越道路中"
         ],
         "colCode": null,
-        "value": 3756,
+        "value": 4199,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -137,7 +137,7 @@
             "人與車車其他"
         ],
         "colCode": null,
-        "value": 1657,
+        "value": 1837,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -153,7 +153,7 @@
             "車與車對撞"
         ],
         "colCode": null,
-        "value": 3143,
+        "value": 3462,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -169,7 +169,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 48587,
+        "value": 53175,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -185,7 +185,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 30967,
+        "value": 34864,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -201,7 +201,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 17611,
+        "value": 19526,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -217,7 +217,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 25422,
+        "value": 28423,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -233,7 +233,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 15121,
+        "value": 16942,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -249,7 +249,7 @@
             "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 1121,
+        "value": 1259,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -265,7 +265,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 4379,
+        "value": 4882,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -281,7 +281,7 @@
             "人與車穿越道路中"
         ],
         "colCode": null,
-        "value": 2624,
+        "value": 2920,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -297,7 +297,7 @@
             "人與車車其他"
         ],
         "colCode": null,
-        "value": 1101,
+        "value": 1226,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -313,7 +313,7 @@
             "車與車對撞"
         ],
         "colCode": null,
-        "value": 1273,
+        "value": 1399,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -329,7 +329,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 356,
+        "value": 385,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -345,7 +345,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 462,
+        "value": 527,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -359,6 +359,22 @@
         ],
         "col": [
             "車與車同向擦撞"
+        ],
+        "colCode": null,
+        "value": 560,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "車與車追撞"
         ],
         "colCode": null,
         "value": 490,
@@ -374,26 +390,10 @@
             "大客車"
         ],
         "col": [
-            "車與車追撞"
-        ],
-        "colCode": null,
-        "value": 430,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "ALL",
-            "112年",
-            "大客車"
-        ],
-        "col": [
             "人與車穿越道路中"
         ],
         "colCode": null,
-        "value": 52,
+        "value": 59,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -409,7 +409,7 @@
             "人與車車其他"
         ],
         "colCode": null,
-        "value": 364,
+        "value": 386,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -425,7 +425,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 2976,
+        "value": 3284,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -441,7 +441,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 2393,
+        "value": 2702,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -457,7 +457,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 1285,
+        "value": 1456,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -473,7 +473,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 1248,
+        "value": 1395,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -489,7 +489,7 @@
             "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 832,
+        "value": 925,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -505,7 +505,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 2393,
+        "value": 2626,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -521,7 +521,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 1600,
+        "value": 1816,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -537,7 +537,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 818,
+        "value": 918,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -553,7 +553,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 741,
+        "value": 824,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -569,7 +569,7 @@
             "人與車穿越道路中"
         ],
         "colCode": null,
-        "value": 80,
+        "value": 87,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -585,7 +585,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 137,
+        "value": 163,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -601,7 +601,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 37,
+        "value": 44,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -617,7 +617,23 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 82,
+        "value": 107,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "112年",
+            "行人"
+        ],
+        "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 17,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -633,7 +649,7 @@
             "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 33,
+        "value": 36,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -649,7 +665,7 @@
             "人與車穿越道路中"
         ],
         "colCode": null,
-        "value": 6981,
+        "value": 7767,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -665,7 +681,7 @@
             "人與車車其他"
         ],
         "colCode": null,
-        "value": 2305,
+        "value": 2567,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11609,7 +11625,23 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 63,
+        "value": 73,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "112年",
+            "大客車"
+        ],
+        "col": [
+            "車輛本身路上翻車、摔倒"
+        ],
+        "colCode": null,
+        "value": 25,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11625,7 +11657,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 56,
+        "value": 61,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11641,7 +11673,7 @@
             "車與車對撞"
         ],
         "colCode": null,
-        "value": 19,
+        "value": 20,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11657,7 +11689,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 718,
+        "value": 827,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11673,7 +11705,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 309,
+        "value": 353,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11689,7 +11721,7 @@
             "人與車穿越道路中"
         ],
         "colCode": null,
-        "value": 51,
+        "value": 60,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11705,7 +11737,7 @@
             "人與車車其他"
         ],
         "colCode": null,
-        "value": 102,
+        "value": 112,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11721,7 +11753,7 @@
             "車與車對撞"
         ],
         "colCode": null,
-        "value": 148,
+        "value": 162,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11737,7 +11769,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 961,
+        "value": 1074,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11753,7 +11785,7 @@
             "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 472,
+        "value": 539,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11769,7 +11801,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 229,
+        "value": 261,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11785,7 +11817,7 @@
             "人與車車其他"
         ],
         "colCode": null,
-        "value": 55,
+        "value": 64,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11801,7 +11833,7 @@
             "車與車對撞"
         ],
         "colCode": null,
-        "value": 75,
+        "value": 81,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11817,7 +11849,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 68,
+        "value": 72,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -11833,7 +11865,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 9,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -14442,38 +14474,6 @@
         ],
         "colCode": null,
         "value": 56,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "ALL",
-            "112年",
-            "大客車"
-        ],
-        "col": [
-            "車輛本身路上翻車、摔倒"
-        ],
-        "colCode": null,
-        "value": 21,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "ALL",
-            "112年",
-            "行人"
-        ],
-        "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 13,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
