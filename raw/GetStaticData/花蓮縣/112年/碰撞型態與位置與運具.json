@@ -9,7 +9,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 2008,
+        "value": 2163,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 805,
+        "value": 892,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 501,
+        "value": 542,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 589,
+        "value": 650,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 1119,
+        "value": 1212,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -89,7 +89,7 @@
             "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 498,
+        "value": 535,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -105,7 +105,7 @@
             "車與車對向擦撞"
         ],
         "colCode": null,
-        "value": 108,
+        "value": 118,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -116,166 +116,6 @@
             "花蓮縣",
             "112年",
             "機車"
-        ],
-        "col": [
-            "人與車穿越道路中"
-        ],
-        "colCode": null,
-        "value": 51,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "花蓮縣",
-            "112年",
-            "機車"
-        ],
-        "col": [
-            "人與車車其他"
-        ],
-        "colCode": null,
-        "value": 19,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "花蓮縣",
-            "112年",
-            "機車"
-        ],
-        "col": [
-            "車與車對撞"
-        ],
-        "colCode": null,
-        "value": 52,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "花蓮縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "車與車側撞"
-        ],
-        "colCode": null,
-        "value": 1074,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "花蓮縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "車與車其他"
-        ],
-        "colCode": null,
-        "value": 481,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "花蓮縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "車與車同向擦撞"
-        ],
-        "colCode": null,
-        "value": 300,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "花蓮縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "車與車追撞"
-        ],
-        "colCode": null,
-        "value": 410,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "花蓮縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "車與車路口交岔撞"
-        ],
-        "colCode": null,
-        "value": 747,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "花蓮縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "車輛本身路上翻車、摔倒"
-        ],
-        "colCode": null,
-        "value": 64,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "花蓮縣",
-            "112年",
-            "小客車"
-        ],
-        "col": [
-            "車與車對向擦撞"
-        ],
-        "colCode": null,
-        "value": 81,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "花蓮縣",
-            "112年",
-            "小客車"
         ],
         "col": [
             "人與車穿越道路中"
@@ -291,13 +131,173 @@
         "row": [
             "花蓮縣",
             "112年",
+            "機車"
+        ],
+        "col": [
+            "人與車車其他"
+        ],
+        "colCode": null,
+        "value": 20,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "花蓮縣",
+            "112年",
+            "機車"
+        ],
+        "col": [
+            "車與車對撞"
+        ],
+        "colCode": null,
+        "value": 55,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "花蓮縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "車與車側撞"
+        ],
+        "colCode": null,
+        "value": 1202,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "花蓮縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "車與車其他"
+        ],
+        "colCode": null,
+        "value": 535,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "花蓮縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "車與車同向擦撞"
+        ],
+        "colCode": null,
+        "value": 324,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "花蓮縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "車與車追撞"
+        ],
+        "colCode": null,
+        "value": 468,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "花蓮縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "車與車路口交岔撞"
+        ],
+        "colCode": null,
+        "value": 820,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "花蓮縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "車輛本身路上翻車、摔倒"
+        ],
+        "colCode": null,
+        "value": 67,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "花蓮縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "車與車對向擦撞"
+        ],
+        "colCode": null,
+        "value": 87,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "花蓮縣",
+            "112年",
+            "小客車"
+        ],
+        "col": [
+            "人與車穿越道路中"
+        ],
+        "colCode": null,
+        "value": 58,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "花蓮縣",
+            "112年",
             "小客車"
         ],
         "col": [
             "人與車車其他"
         ],
         "colCode": null,
-        "value": 22,
+        "value": 25,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -329,7 +329,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -361,7 +361,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -457,7 +457,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 58,
+        "value": 64,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -473,7 +473,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 30,
+        "value": 31,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -489,7 +489,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 22,
+        "value": 26,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -505,7 +505,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 38,
+        "value": 39,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -521,7 +521,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 22,
+        "value": 23,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -537,7 +537,7 @@
             "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 22,
+        "value": 27,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -601,7 +601,7 @@
             "車與車側撞"
         ],
         "colCode": null,
-        "value": 201,
+        "value": 220,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -617,7 +617,7 @@
             "車與車其他"
         ],
         "colCode": null,
-        "value": 111,
+        "value": 119,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -633,7 +633,7 @@
             "車與車同向擦撞"
         ],
         "colCode": null,
-        "value": 59,
+        "value": 61,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -649,7 +649,7 @@
             "車與車追撞"
         ],
         "colCode": null,
-        "value": 77,
+        "value": 83,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -665,7 +665,7 @@
             "車與車路口交岔撞"
         ],
         "colCode": null,
-        "value": 119,
+        "value": 128,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -745,7 +745,7 @@
             "車與車對撞"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -809,7 +809,7 @@
             "人與車穿越道路中"
         ],
         "colCode": null,
-        "value": 126,
+        "value": 132,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -825,7 +825,7 @@
             "人與車車其他"
         ],
         "colCode": null,
-        "value": 29,
+        "value": 30,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,

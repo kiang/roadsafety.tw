@@ -243,13 +243,13 @@
         "row": [
             "連江縣",
             "112年",
-            "左轉彎未依規定"
+            "未保持行車安全距離"
         ],
         "col": [
-            "車與車側撞"
+            "車輛本身路上翻車、摔倒"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -259,13 +259,13 @@
         "row": [
             "連江縣",
             "112年",
-            "未保持行車安全距離"
+            "左轉彎未依規定"
         ],
         "col": [
-            "車輛本身路上翻車、摔倒"
+            "車與車側撞"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -659,22 +659,6 @@
         "row": [
             "連江縣",
             "111年",
-            "左轉彎未依規定"
-        ],
-        "col": [
-            "車與車對向擦撞"
-        ],
-        "colCode": null,
-        "value": 2,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "連江縣",
-            "111年",
             "未保持行車安全距離"
         ],
         "col": [
@@ -698,6 +682,22 @@
         ],
         "colCode": null,
         "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "連江縣",
+            "111年",
+            "左轉彎未依規定"
+        ],
+        "col": [
+            "車與車對向擦撞"
+        ],
+        "colCode": null,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1795,6 +1795,22 @@
         "row": [
             "連江縣",
             "108年",
+            "未保持行車安全距離"
+        ],
+        "col": [
+            "車與車同向擦撞"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "連江縣",
+            "108年",
             "左轉彎未依規定"
         ],
         "col": [
@@ -1815,22 +1831,6 @@
         ],
         "col": [
             "車與車對向擦撞"
-        ],
-        "colCode": null,
-        "value": 1,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "連江縣",
-            "108年",
-            "未保持行車安全距離"
-        ],
-        "col": [
-            "車與車同向擦撞"
         ],
         "colCode": null,
         "value": 1,
@@ -2451,10 +2451,10 @@
         "row": [
             "連江縣",
             "105年",
-            "左轉彎未依規定"
+            "未保持行車安全距離"
         ],
         "col": [
-            "車與車對向擦撞"
+            "車與車同向擦撞"
         ],
         "colCode": null,
         "value": 1,
@@ -2467,10 +2467,10 @@
         "row": [
             "連江縣",
             "105年",
-            "未保持行車安全距離"
+            "左轉彎未依規定"
         ],
         "col": [
-            "車與車同向擦撞"
+            "車與車對向擦撞"
         ],
         "colCode": null,
         "value": 1,
