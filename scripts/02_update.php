@@ -32,7 +32,7 @@ if (false !== $pos) {
             $targetFile = "{$optionPath}/{$parts[1]}_{$parts[2]}.json";
             $city = urlencode($option);
             if (!file_exists($targetFile)) {
-                $client->request('GET', "{$baseUrl}City={$city}&Cyear={$parts[1]}%E5%B9%B4&Month={$parts[2]}%E6%9C%88&Type=30%E6%97%A5%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B8");
+                $client->request('GET', "{$baseUrl}City={$city}&Cyear={$parts[1]}%E5%B9%B4&Month={$parts[2]}%E6%9C%88&SType=ALL&Type=30%E6%97%A5%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B8");
                 $json = json_decode($client->getResponse()->getContent());
                 file_put_contents($targetFile, json_encode($json, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
             }
