@@ -9,7 +9,7 @@
             "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -23,22 +23,6 @@
         ],
         "col": [
             "車輛駕駛者-尚未發現肇事因素"
-        ],
-        "colCode": null,
-        "value": 1,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "連江縣",
-            "112年",
-            "機車"
-        ],
-        "col": [
-            "未注意車前狀況(舊)"
         ],
         "colCode": null,
         "value": 2,
@@ -70,6 +54,22 @@
             "機車"
         ],
         "col": [
+            "未注意車前狀況(舊)"
+        ],
+        "colCode": null,
+        "value": 2,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "連江縣",
+            "112年",
+            "機車"
+        ],
+        "col": [
             "其他未依規定讓車"
         ],
         "colCode": null,
@@ -214,10 +214,10 @@
             "機車"
         ],
         "col": [
-            "未注意車前狀況(舊)"
+            "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 9,
+        "value": 21,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -230,10 +230,10 @@
             "機車"
         ],
         "col": [
-            "車輛駕駛者-尚未發現肇事因素"
+            "未注意車前狀況(舊)"
         ],
         "colCode": null,
-        "value": 21,
+        "value": 9,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -342,10 +342,10 @@
             "小客車"
         ],
         "col": [
-            "未注意車前狀況(舊)"
+            "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -358,10 +358,10 @@
             "小客車"
         ],
         "col": [
-            "車輛駕駛者-尚未發現肇事因素"
+            "未注意車前狀況(舊)"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -410,22 +410,6 @@
         ],
         "colCode": null,
         "value": 1,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "連江縣",
-            "110年",
-            "機車"
-        ],
-        "col": [
-            "未注意車前狀況(舊)"
-        ],
-        "colCode": null,
-        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -454,6 +438,22 @@
             "機車"
         ],
         "col": [
+            "未注意車前狀況(舊)"
+        ],
+        "colCode": null,
+        "value": 8,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "連江縣",
+            "110年",
+            "機車"
+        ],
+        "col": [
             "其他不當駕車行為"
         ],
         "colCode": null,
@@ -486,10 +486,10 @@
             "小客車"
         ],
         "col": [
-            "未注意車前狀況(舊)"
+            "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -502,10 +502,10 @@
             "小客車"
         ],
         "col": [
-            "車輛駕駛者-尚未發現肇事因素"
+            "未注意車前狀況(舊)"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -582,10 +582,10 @@
             "機車"
         ],
         "col": [
-            "未注意車前狀況(舊)"
+            "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 19,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -598,10 +598,10 @@
             "機車"
         ],
         "col": [
-            "車輛駕駛者-尚未發現肇事因素"
+            "未注意車前狀況(舊)"
         ],
         "colCode": null,
-        "value": 19,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -710,10 +710,10 @@
             "機車"
         ],
         "col": [
-            "未注意車前狀況(舊)"
+            "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 13,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -726,10 +726,10 @@
             "機車"
         ],
         "col": [
-            "車輛駕駛者-尚未發現肇事因素"
+            "未注意車前狀況(舊)"
         ],
         "colCode": null,
-        "value": 13,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -838,10 +838,10 @@
             "小客車"
         ],
         "col": [
-            "未注意車前狀況(舊)"
+            "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -854,10 +854,10 @@
             "小客車"
         ],
         "col": [
-            "車輛駕駛者-尚未發現肇事因素"
+            "未注意車前狀況(舊)"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -950,10 +950,10 @@
             "機車"
         ],
         "col": [
-            "未注意車前狀況(舊)"
+            "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -966,10 +966,10 @@
             "機車"
         ],
         "col": [
-            "車輛駕駛者-尚未發現肇事因素"
+            "未注意車前狀況(舊)"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1046,7 +1046,7 @@
             "小客車"
         ],
         "col": [
-            "未注意車前狀況(舊)"
+            "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
         "value": 1,
@@ -1062,7 +1062,7 @@
             "小客車"
         ],
         "col": [
-            "車輛駕駛者-尚未發現肇事因素"
+            "未注意車前狀況(舊)"
         ],
         "colCode": null,
         "value": 1,
@@ -1079,22 +1079,6 @@
         ],
         "col": [
             "無(物或動物)-尚未發現肇事因素"
-        ],
-        "colCode": null,
-        "value": 1,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "連江縣",
-            "106年",
-            "機車"
-        ],
-        "col": [
-            "未注意車前狀況(舊)"
         ],
         "colCode": null,
         "value": 1,
@@ -1126,6 +1110,22 @@
             "機車"
         ],
         "col": [
+            "未注意車前狀況(舊)"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "連江縣",
+            "106年",
+            "機車"
+        ],
+        "col": [
             "不明原因肇事(舊)"
         ],
         "colCode": null,
@@ -1190,10 +1190,10 @@
             "機車"
         ],
         "col": [
-            "未注意車前狀況(舊)"
+            "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 15,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1206,10 +1206,10 @@
             "機車"
         ],
         "col": [
-            "車輛駕駛者-尚未發現肇事因素"
+            "未注意車前狀況(舊)"
         ],
         "colCode": null,
-        "value": 15,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1270,7 +1270,7 @@
             "小客車"
         ],
         "col": [
-            "未注意車前狀況(舊)"
+            "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
         "value": 1,
@@ -1286,7 +1286,7 @@
             "小客車"
         ],
         "col": [
-            "車輛駕駛者-尚未發現肇事因素"
+            "未注意車前狀況(舊)"
         ],
         "colCode": null,
         "value": 1,
@@ -1350,10 +1350,10 @@
             "機車"
         ],
         "col": [
-            "未注意車前狀況(舊)"
+            "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1366,10 +1366,10 @@
             "機車"
         ],
         "col": [
-            "車輛駕駛者-尚未發現肇事因素"
+            "未注意車前狀況(舊)"
         ],
         "colCode": null,
-        "value": 7,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1446,10 +1446,10 @@
             "機車"
         ],
         "col": [
-            "未注意車前狀況(舊)"
+            "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1462,10 +1462,10 @@
             "機車"
         ],
         "col": [
-            "車輛駕駛者-尚未發現肇事因素"
+            "未注意車前狀況(舊)"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1510,7 +1510,7 @@
             "小客車"
         ],
         "col": [
-            "未注意車前狀況(舊)"
+            "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
         "value": 2,
@@ -1526,7 +1526,7 @@
             "小客車"
         ],
         "col": [
-            "車輛駕駛者-尚未發現肇事因素"
+            "未注意車前狀況(舊)"
         ],
         "colCode": null,
         "value": 2,
