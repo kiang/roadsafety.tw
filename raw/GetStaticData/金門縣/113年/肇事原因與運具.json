@@ -9,7 +9,7 @@
             "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 189,
+        "value": 212,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "其他不當駕車行為"
         ],
         "colCode": null,
-        "value": 7,
+        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "未依規定減速"
         ],
         "colCode": null,
-        "value": 106,
+        "value": 116,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,7 @@
             "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 39,
+        "value": 41,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -89,7 +89,7 @@
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 15,
+        "value": 18,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -105,7 +105,7 @@
             "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 88,
+        "value": 96,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -121,7 +121,7 @@
             "其他未依規定讓車"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -153,7 +153,7 @@
             "未依規定減速"
         ],
         "colCode": null,
-        "value": 33,
+        "value": 35,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -185,7 +185,7 @@
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -275,13 +275,29 @@
         "row": [
             "金門縣",
             "113年",
+            "自行車"
+        ],
+        "col": [
+            "左轉彎未依規定"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "金門縣",
+            "113年",
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
             "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -297,7 +313,7 @@
             "未依規定減速"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -422,10 +438,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 66,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -438,10 +454,10 @@
             "機車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 66,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -566,10 +582,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 13,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -582,10 +598,10 @@
             "小客車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 13,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -998,10 +1014,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 43,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1014,10 +1030,10 @@
             "機車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 43,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1142,10 +1158,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1158,10 +1174,10 @@
             "小客車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 7,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1542,10 +1558,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 9,
+        "value": 36,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1558,10 +1574,10 @@
             "機車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 36,
+        "value": 9,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1686,10 +1702,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1702,10 +1718,10 @@
             "小客車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 7,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2102,10 +2118,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 48,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2118,10 +2134,10 @@
             "機車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 48,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2246,10 +2262,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2262,10 +2278,10 @@
             "小客車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2630,10 +2646,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 36,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2646,10 +2662,10 @@
             "機車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 36,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2774,10 +2790,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 13,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2790,10 +2806,10 @@
             "小客車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 13,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3174,10 +3190,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 63,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3190,10 +3206,10 @@
             "機車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 63,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3318,10 +3334,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 14,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3334,10 +3350,10 @@
             "小客車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 14,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3718,10 +3734,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 79,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3734,10 +3750,10 @@
             "機車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 79,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3846,10 +3862,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 14,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3862,10 +3878,10 @@
             "小客車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 14,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4230,10 +4246,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 65,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4246,10 +4262,10 @@
             "機車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 65,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4342,10 +4358,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 11,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4358,10 +4374,10 @@
             "小客車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 11,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4758,10 +4774,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4774,10 +4790,10 @@
             "小客車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 7,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5094,10 +5110,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 64,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5110,10 +5126,10 @@
             "機車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 64,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5206,10 +5222,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5222,10 +5238,10 @@
             "小客車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5446,7 +5462,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
         "value": 1,
@@ -5462,7 +5478,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
         "value": 1,
@@ -5718,10 +5734,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5734,10 +5750,10 @@
             "小客車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6022,10 +6038,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 30,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6038,10 +6054,10 @@
             "機車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 30,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6150,10 +6166,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6166,10 +6182,10 @@
             "小客車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6454,10 +6470,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 23,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6470,10 +6486,10 @@
             "機車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 23,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6854,10 +6870,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 26,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6870,10 +6886,10 @@
             "機車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 26,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6982,10 +6998,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6998,10 +7014,10 @@
             "小客車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7318,10 +7334,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 16,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7334,10 +7350,10 @@
             "機車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 16,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7446,10 +7462,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7462,10 +7478,10 @@
             "小客車"
         ],
         "col": [
-            "未保持行車安全距離"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
