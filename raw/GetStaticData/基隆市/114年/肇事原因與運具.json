@@ -9,7 +9,7 @@
             "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 506,
+        "value": 1482,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "其他未依規定讓車"
         ],
         "colCode": null,
-        "value": 25,
+        "value": 73,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "其他不當駕車行為"
         ],
         "colCode": null,
-        "value": 27,
+        "value": 86,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -55,6 +55,118 @@
         ],
         "col": [
             "未依規定減速"
+        ],
+        "colCode": null,
+        "value": 193,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "基隆市",
+            "114年",
+            "機車"
+        ],
+        "col": [
+            "未保持行車安全距離"
+        ],
+        "colCode": null,
+        "value": 306,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "基隆市",
+            "114年",
+            "機車"
+        ],
+        "col": [
+            "左轉彎未依規定"
+        ],
+        "colCode": null,
+        "value": 96,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "基隆市",
+            "114年",
+            "小客車"
+        ],
+        "col": [
+            "車輛駕駛者-尚未發現肇事因素"
+        ],
+        "colCode": null,
+        "value": 555,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "基隆市",
+            "114年",
+            "小客車"
+        ],
+        "col": [
+            "其他未依規定讓車"
+        ],
+        "colCode": null,
+        "value": 76,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "基隆市",
+            "114年",
+            "小客車"
+        ],
+        "col": [
+            "其他不當駕車行為"
+        ],
+        "colCode": null,
+        "value": 20,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "基隆市",
+            "114年",
+            "小客車"
+        ],
+        "col": [
+            "未依規定減速"
+        ],
+        "colCode": null,
+        "value": 39,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "基隆市",
+            "114年",
+            "小客車"
+        ],
+        "col": [
+            "未保持行車安全距離"
         ],
         "colCode": null,
         "value": 82,
@@ -67,29 +179,13 @@
         "row": [
             "基隆市",
             "114年",
-            "機車"
-        ],
-        "col": [
-            "未保持行車安全距離"
-        ],
-        "colCode": null,
-        "value": 126,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "基隆市",
-            "114年",
-            "機車"
+            "小客車"
         ],
         "col": [
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 36,
+        "value": 83,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -99,13 +195,13 @@
         "row": [
             "基隆市",
             "114年",
-            "小客車"
+            "大客車"
         ],
         "col": [
             "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 204,
+        "value": 28,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -115,157 +211,141 @@
         "row": [
             "基隆市",
             "114年",
-            "小客車"
+            "大客車"
+        ],
+        "col": [
+            "其他不當駕車行為"
+        ],
+        "colCode": null,
+        "value": 2,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "基隆市",
+            "114年",
+            "大客車"
+        ],
+        "col": [
+            "未依規定減速"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "基隆市",
+            "114年",
+            "大客車"
+        ],
+        "col": [
+            "未保持行車安全距離"
+        ],
+        "colCode": null,
+        "value": 12,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "基隆市",
+            "114年",
+            "大客車"
+        ],
+        "col": [
+            "左轉彎未依規定"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "基隆市",
+            "114年",
+            "自行車"
+        ],
+        "col": [
+            "車輛駕駛者-尚未發現肇事因素"
+        ],
+        "colCode": null,
+        "value": 11,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "基隆市",
+            "114年",
+            "自行車"
+        ],
+        "col": [
+            "其他不當駕車行為"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "基隆市",
+            "114年",
+            "自行車"
+        ],
+        "col": [
+            "左轉彎未依規定"
+        ],
+        "colCode": null,
+        "value": 4,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "基隆市",
+            "114年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "車輛駕駛者-尚未發現肇事因素"
+        ],
+        "colCode": null,
+        "value": 6,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "基隆市",
+            "114年",
+            "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
             "其他未依規定讓車"
         ],
         "colCode": null,
-        "value": 22,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "基隆市",
-            "114年",
-            "小客車"
-        ],
-        "col": [
-            "其他不當駕車行為"
-        ],
-        "colCode": null,
-        "value": 4,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "基隆市",
-            "114年",
-            "小客車"
-        ],
-        "col": [
-            "未依規定減速"
-        ],
-        "colCode": null,
-        "value": 9,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "基隆市",
-            "114年",
-            "小客車"
-        ],
-        "col": [
-            "未保持行車安全距離"
-        ],
-        "colCode": null,
-        "value": 30,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "基隆市",
-            "114年",
-            "小客車"
-        ],
-        "col": [
-            "左轉彎未依規定"
-        ],
-        "colCode": null,
-        "value": 25,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "基隆市",
-            "114年",
-            "大客車"
-        ],
-        "col": [
-            "車輛駕駛者-尚未發現肇事因素"
-        ],
-        "colCode": null,
-        "value": 9,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "基隆市",
-            "114年",
-            "大客車"
-        ],
-        "col": [
-            "未保持行車安全距離"
-        ],
-        "colCode": null,
-        "value": 5,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "基隆市",
-            "114年",
-            "自行車"
-        ],
-        "col": [
-            "車輛駕駛者-尚未發現肇事因素"
-        ],
-        "colCode": null,
-        "value": 2,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "基隆市",
-            "114年",
-            "自行車"
-        ],
-        "col": [
-            "左轉彎未依規定"
-        ],
-        "colCode": null,
         "value": 1,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "基隆市",
-            "114年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "車輛駕駛者-尚未發現肇事因素"
-        ],
-        "colCode": null,
-        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -297,7 +377,39 @@
             "未依規定減速"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 3,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "基隆市",
+            "114年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "未保持行車安全距離"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "基隆市",
+            "114年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "左轉彎未依規定"
+        ],
+        "colCode": null,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -313,7 +425,7 @@
             "無(物或動物)-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 66,
+        "value": 105,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -854,10 +966,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 20,
+        "value": 173,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -870,10 +982,10 @@
             "機車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 173,
+        "value": 20,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -998,10 +1110,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 124,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1014,10 +1126,10 @@
             "小客車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 124,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1398,10 +1510,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 73,
+        "value": 206,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1414,10 +1526,10 @@
             "機車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 206,
+        "value": 73,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1542,10 +1654,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 30,
+        "value": 177,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1558,10 +1670,10 @@
             "小客車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 177,
+        "value": 30,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1734,10 +1846,10 @@
             "自行車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1750,10 +1862,10 @@
             "自行車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1862,10 +1974,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -1878,10 +1990,10 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2022,10 +2134,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 62,
+        "value": 227,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2038,10 +2150,10 @@
             "機車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 227,
+        "value": 62,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2166,10 +2278,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 23,
+        "value": 161,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2182,10 +2294,10 @@
             "小客車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 161,
+        "value": 23,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2374,10 +2486,10 @@
             "自行車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2390,10 +2502,10 @@
             "自行車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2470,7 +2582,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
         "value": 1,
@@ -2486,7 +2598,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
         "value": 1,
@@ -2630,10 +2742,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 76,
+        "value": 230,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2646,10 +2758,10 @@
             "機車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 230,
+        "value": 76,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2774,10 +2886,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 33,
+        "value": 181,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -2790,10 +2902,10 @@
             "小客車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 181,
+        "value": 33,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3014,7 +3126,7 @@
             "自行車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
         "value": 2,
@@ -3030,7 +3142,7 @@
             "自行車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
         "value": 2,
@@ -3110,7 +3222,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
         "value": 2,
@@ -3126,7 +3238,7 @@
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
         "value": 2,
@@ -3270,10 +3382,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 87,
+        "value": 236,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3286,10 +3398,10 @@
             "機車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 236,
+        "value": 87,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3414,10 +3526,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 41,
+        "value": 187,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3430,10 +3542,10 @@
             "小客車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 187,
+        "value": 41,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3526,10 +3638,10 @@
             "大客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3542,10 +3654,10 @@
             "大客車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3638,7 +3750,7 @@
             "自行車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
         "value": 2,
@@ -3654,7 +3766,7 @@
             "自行車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
         "value": 2,
@@ -3846,10 +3958,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 74,
+        "value": 186,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3862,10 +3974,10 @@
             "機車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 186,
+        "value": 74,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -3990,10 +4102,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 36,
+        "value": 159,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4006,10 +4118,10 @@
             "小客車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 159,
+        "value": 36,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4214,10 +4326,10 @@
             "自行車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4230,10 +4342,10 @@
             "自行車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4438,10 +4550,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 54,
+        "value": 119,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4454,10 +4566,10 @@
             "機車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 119,
+        "value": 54,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4582,10 +4694,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 19,
+        "value": 95,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4598,10 +4710,10 @@
             "小客車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 95,
+        "value": 19,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4950,10 +5062,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 46,
+        "value": 107,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -4966,10 +5078,10 @@
             "機車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 107,
+        "value": 46,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5094,10 +5206,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 23,
+        "value": 100,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5110,10 +5222,10 @@
             "小客車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 100,
+        "value": 23,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5398,10 +5510,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 68,
+        "value": 144,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5414,10 +5526,10 @@
             "機車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 144,
+        "value": 68,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5542,10 +5654,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 25,
+        "value": 132,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5558,10 +5670,10 @@
             "小客車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 132,
+        "value": 25,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5942,10 +6054,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 98,
+        "value": 129,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -5958,10 +6070,10 @@
             "機車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 129,
+        "value": 98,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6086,10 +6198,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 40,
+        "value": 128,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6102,10 +6214,10 @@
             "小客車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 128,
+        "value": 40,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6214,10 +6326,10 @@
             "大客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6230,10 +6342,10 @@
             "大客車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6310,10 +6422,10 @@
             "自行車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6326,10 +6438,10 @@
             "自行車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6502,10 +6614,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 68,
+        "value": 101,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6518,10 +6630,10 @@
             "機車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 101,
+        "value": 68,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6646,10 +6758,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 34,
+        "value": 106,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6662,10 +6774,10 @@
             "小客車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 106,
+        "value": 34,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6838,10 +6950,10 @@
             "自行車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -6854,10 +6966,10 @@
             "自行車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7046,10 +7158,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 87,
+        "value": 92,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7062,10 +7174,10 @@
             "機車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 92,
+        "value": 87,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7190,10 +7302,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 40,
+        "value": 78,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7206,10 +7318,10 @@
             "小客車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 78,
+        "value": 40,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7270,10 +7382,10 @@
             "大客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7286,10 +7398,10 @@
             "大客車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7526,10 +7638,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 81,
+        "value": 76,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7542,10 +7654,10 @@
             "機車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 76,
+        "value": 81,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7670,10 +7782,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 45,
+        "value": 77,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7686,10 +7798,10 @@
             "小客車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 77,
+        "value": 45,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7990,10 +8102,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 58,
+        "value": 83,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8006,10 +8118,10 @@
             "機車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 83,
+        "value": 58,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8134,10 +8246,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 26,
+        "value": 75,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8150,10 +8262,10 @@
             "小客車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 75,
+        "value": 26,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8230,10 +8342,10 @@
             "大客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8246,10 +8358,10 @@
             "大客車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8502,10 +8614,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 70,
+        "value": 60,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8518,10 +8630,10 @@
             "機車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 60,
+        "value": 70,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8646,10 +8758,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 35,
+        "value": 57,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8662,10 +8774,10 @@
             "小客車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 57,
+        "value": 35,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -8998,10 +9110,10 @@
             "機車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 60,
+        "value": 79,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9014,10 +9126,10 @@
             "機車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 79,
+        "value": 60,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9142,10 +9254,10 @@
             "小客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 23,
+        "value": 97,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9158,10 +9270,10 @@
             "小客車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 97,
+        "value": 23,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9270,10 +9382,10 @@
             "大客車"
         ],
         "col": [
-            "違反號誌管制或指揮(舊)"
+            "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 2,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9286,10 +9398,10 @@
             "大客車"
         ],
         "col": [
-            "左轉彎未依規定"
+            "違反號誌管制或指揮(舊)"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,

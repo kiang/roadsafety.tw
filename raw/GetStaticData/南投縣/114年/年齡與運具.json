@@ -9,7 +9,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 520,
+        "value": 1482,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 1408,
+        "value": 4018,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 530,
+        "value": 1589,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 43,
+        "value": 113,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,23 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 43,
+        "value": 112,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "南投縣",
+            "114年",
+            "機車"
+        ],
+        "col": [
+            "兒童(未滿12歲)"
+        ],
+        "colCode": null,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -89,7 +105,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 233,
+        "value": 651,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -105,7 +121,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 1183,
+        "value": 3266,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -121,7 +137,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 99,
+        "value": 294,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -137,7 +153,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -153,7 +169,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 7,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -185,214 +201,6 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 18,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "南投縣",
-            "114年",
-            "自行車"
-        ],
-        "col": [
-            "高齡者(65歲以上)"
-        ],
-        "colCode": null,
-        "value": 21,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "南投縣",
-            "114年",
-            "自行車"
-        ],
-        "col": [
-            "25-64歲"
-        ],
-        "colCode": null,
-        "value": 29,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "南投縣",
-            "114年",
-            "自行車"
-        ],
-        "col": [
-            "18-24歲"
-        ],
-        "colCode": null,
-        "value": 4,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "南投縣",
-            "114年",
-            "自行車"
-        ],
-        "col": [
-            "兒少(0-17歲)"
-        ],
-        "colCode": null,
-        "value": 38,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "南投縣",
-            "114年",
-            "自行車"
-        ],
-        "col": [
-            "少年(12-17歲)"
-        ],
-        "colCode": null,
-        "value": 32,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "南投縣",
-            "114年",
-            "自行車"
-        ],
-        "col": [
-            "兒童(未滿12歲)"
-        ],
-        "colCode": null,
-        "value": 10,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "南投縣",
-            "114年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "高齡者(65歲以上)"
-        ],
-        "colCode": null,
-        "value": 38,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "南投縣",
-            "114年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "25-64歲"
-        ],
-        "colCode": null,
-        "value": 30,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "南投縣",
-            "114年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "18-24歲"
-        ],
-        "colCode": null,
-        "value": 6,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "南投縣",
-            "114年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "兒少(0-17歲)"
-        ],
-        "colCode": null,
-        "value": 21,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "南投縣",
-            "114年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "少年(12-17歲)"
-        ],
-        "colCode": null,
-        "value": 21,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "南投縣",
-            "114年",
-            "行人"
-        ],
-        "col": [
-            "高齡者(65歲以上)"
-        ],
-        "colCode": null,
-        "value": 51,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "南投縣",
-            "114年",
-            "行人"
-        ],
-        "col": [
-            "25-64歲"
-        ],
-        "colCode": null,
         "value": 45,
         "descriptionHtml": "",
         "qty": 0,
@@ -403,13 +211,237 @@
         "row": [
             "南投縣",
             "114年",
+            "自行車"
+        ],
+        "col": [
+            "高齡者(65歲以上)"
+        ],
+        "colCode": null,
+        "value": 60,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "南投縣",
+            "114年",
+            "自行車"
+        ],
+        "col": [
+            "25-64歲"
+        ],
+        "colCode": null,
+        "value": 93,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "南投縣",
+            "114年",
+            "自行車"
+        ],
+        "col": [
+            "18-24歲"
+        ],
+        "colCode": null,
+        "value": 14,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "南投縣",
+            "114年",
+            "自行車"
+        ],
+        "col": [
+            "兒少(0-17歲)"
+        ],
+        "colCode": null,
+        "value": 112,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "南投縣",
+            "114年",
+            "自行車"
+        ],
+        "col": [
+            "少年(12-17歲)"
+        ],
+        "colCode": null,
+        "value": 98,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "南投縣",
+            "114年",
+            "自行車"
+        ],
+        "col": [
+            "兒童(未滿12歲)"
+        ],
+        "colCode": null,
+        "value": 27,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "南投縣",
+            "114年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "高齡者(65歲以上)"
+        ],
+        "colCode": null,
+        "value": 95,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "南投縣",
+            "114年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "25-64歲"
+        ],
+        "colCode": null,
+        "value": 80,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "南投縣",
+            "114年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "18-24歲"
+        ],
+        "colCode": null,
+        "value": 24,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "南投縣",
+            "114年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "兒少(0-17歲)"
+        ],
+        "colCode": null,
+        "value": 75,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "南投縣",
+            "114年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "少年(12-17歲)"
+        ],
+        "colCode": null,
+        "value": 74,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "南投縣",
+            "114年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "兒童(未滿12歲)"
+        ],
+        "colCode": null,
+        "value": 1,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "南投縣",
+            "114年",
+            "行人"
+        ],
+        "col": [
+            "高齡者(65歲以上)"
+        ],
+        "colCode": null,
+        "value": 128,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "南投縣",
+            "114年",
+            "行人"
+        ],
+        "col": [
+            "25-64歲"
+        ],
+        "colCode": null,
+        "value": 110,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "南投縣",
+            "114年",
             "行人"
         ],
         "col": [
             "18-24歲"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -425,7 +457,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 16,
+        "value": 39,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -441,7 +473,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 13,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -457,7 +489,7 @@
             "兒童(未滿12歲)"
         ],
         "colCode": null,
-        "value": 12,
+        "value": 31,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
