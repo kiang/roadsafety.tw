@@ -9,7 +9,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 9866,
+        "value": 15415,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 46419,
+        "value": 72232,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 14705,
+        "value": 23295,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 437,
+        "value": 659,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 427,
+        "value": 647,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -89,7 +89,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 3870,
+        "value": 5988,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -105,7 +105,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 26298,
+        "value": 40857,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -121,7 +121,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 2071,
+        "value": 3165,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -137,7 +137,23 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 544,
+        "value": 834,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "115年",
+            "自行車"
+        ],
+        "col": [
+            "高齡者(65歲以上)"
+        ],
+        "colCode": null,
+        "value": 1179,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -153,7 +169,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 788,
+        "value": 1254,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -169,7 +185,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 901,
+        "value": 1438,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -185,7 +201,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 773,
+        "value": 1226,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -201,7 +217,7 @@
             "兒童(未滿12歲)"
         ],
         "colCode": null,
-        "value": 252,
+        "value": 390,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -217,7 +233,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 969,
+        "value": 1445,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -233,7 +249,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 1380,
+        "value": 2026,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -249,7 +265,39 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 152,
+        "value": 244,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "115年",
+            "行人"
+        ],
+        "col": [
+            "兒少(0-17歲)"
+        ],
+        "colCode": null,
+        "value": 456,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "ALL",
+            "115年",
+            "行人"
+        ],
+        "col": [
+            "少年(12-17歲)"
+        ],
+        "colCode": null,
+        "value": 202,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7737,7 +7785,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 17,
+        "value": 22,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7753,7 +7801,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 16,
+        "value": 19,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7769,7 +7817,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 23,
+        "value": 40,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7779,13 +7827,13 @@
         "row": [
             "ALL",
             "115年",
-            "自行車"
+            "大客車"
         ],
         "col": [
-            "高齡者(65歲以上)"
+            "18-24歲"
         ],
         "colCode": null,
-        "value": 739,
+        "value": 11,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7801,7 +7849,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 135,
+        "value": 219,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7817,7 +7865,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 492,
+        "value": 780,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7833,7 +7881,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 633,
+        "value": 1015,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7849,7 +7897,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 182,
+        "value": 291,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7865,7 +7913,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 747,
+        "value": 1258,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7881,39 +7929,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 745,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "ALL",
-            "115年",
-            "行人"
-        ],
-        "col": [
-            "兒少(0-17歲)"
-        ],
-        "colCode": null,
-        "value": 280,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "ALL",
-            "115年",
-            "行人"
-        ],
-        "col": [
-            "少年(12-17歲)"
-        ],
-        "colCode": null,
-        "value": 124,
+        "value": 1252,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -7929,7 +7945,7 @@
             "兒童(未滿12歲)"
         ],
         "colCode": null,
-        "value": 181,
+        "value": 290,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9129,7 +9145,7 @@
             "兒童(未滿12歲)"
         ],
         "colCode": null,
-        "value": 12,
+        "value": 14,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9145,7 +9161,7 @@
             "兒童(未滿12歲)"
         ],
         "colCode": null,
-        "value": 12,
+        "value": 27,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -9874,22 +9890,6 @@
     {
         "row": [
             "ALL",
-            "115年",
-            "大客車"
-        ],
-        "col": [
-            "18-24歲"
-        ],
-        "colCode": null,
-        "value": 4,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "ALL",
             "103年",
             "電動自行車(電動+\r電動輔助)"
         ],
@@ -9961,7 +9961,7 @@
             "兒童(未滿12歲)"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 3,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,

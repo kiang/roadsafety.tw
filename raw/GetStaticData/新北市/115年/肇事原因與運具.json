@@ -9,7 +9,7 @@
             "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 5059,
+        "value": 7769,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "其他未依規定讓車"
         ],
         "colCode": null,
-        "value": 438,
+        "value": 615,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "其他不當駕車行為"
         ],
         "colCode": null,
-        "value": 968,
+        "value": 1613,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "未依規定減速"
         ],
         "colCode": null,
-        "value": 475,
+        "value": 753,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,7 @@
             "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 1555,
+        "value": 2365,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -89,7 +89,7 @@
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 231,
+        "value": 324,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -105,7 +105,7 @@
             "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 1639,
+        "value": 2426,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -121,7 +121,7 @@
             "其他未依規定讓車"
         ],
         "colCode": null,
-        "value": 245,
+        "value": 360,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -137,7 +137,7 @@
             "其他不當駕車行為"
         ],
         "colCode": null,
-        "value": 267,
+        "value": 426,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -153,7 +153,7 @@
             "未依規定減速"
         ],
         "colCode": null,
-        "value": 78,
+        "value": 104,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -169,7 +169,7 @@
             "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 296,
+        "value": 425,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -185,7 +185,7 @@
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 107,
+        "value": 164,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -201,7 +201,7 @@
             "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 100,
+        "value": 157,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -233,7 +233,7 @@
             "其他不當駕車行為"
         ],
         "colCode": null,
-        "value": 26,
+        "value": 39,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -249,7 +249,7 @@
             "未依規定減速"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 5,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -265,7 +265,7 @@
             "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 19,
+        "value": 26,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -297,7 +297,7 @@
             "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 148,
+        "value": 220,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -313,7 +313,7 @@
             "其他未依規定讓車"
         ],
         "colCode": null,
-        "value": 19,
+        "value": 31,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -329,7 +329,7 @@
             "其他不當駕車行為"
         ],
         "colCode": null,
-        "value": 43,
+        "value": 73,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -343,22 +343,6 @@
         ],
         "col": [
             "未依規定減速"
-        ],
-        "colCode": null,
-        "value": 8,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新北市",
-            "115年",
-            "自行車"
-        ],
-        "col": [
-            "未保持行車安全距離"
         ],
         "colCode": null,
         "value": 10,
@@ -374,10 +358,26 @@
             "自行車"
         ],
         "col": [
+            "未保持行車安全距離"
+        ],
+        "colCode": null,
+        "value": 20,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新北市",
+            "115年",
+            "自行車"
+        ],
+        "col": [
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 31,
+        "value": 35,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -393,7 +393,7 @@
             "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 64,
+        "value": 83,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -409,7 +409,7 @@
             "其他未依規定讓車"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 10,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -425,7 +425,7 @@
             "其他不當駕車行為"
         ],
         "colCode": null,
-        "value": 21,
+        "value": 32,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -441,7 +441,7 @@
             "未依規定減速"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -457,7 +457,7 @@
             "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 9,
+        "value": 20,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -473,7 +473,7 @@
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 5,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -489,7 +489,7 @@
             "無(物或動物)-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 347,
+        "value": 486,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
