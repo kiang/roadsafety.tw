@@ -9,7 +9,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 386,
+        "value": 632,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 1217,
+        "value": 1944,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 502,
+        "value": 812,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 15,
+        "value": 32,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 14,
+        "value": 31,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -105,7 +105,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 167,
+        "value": 277,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -121,7 +121,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 1034,
+        "value": 1660,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -137,7 +137,23 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 85,
+        "value": 158,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "嘉義縣",
+            "115年",
+            "大客車"
+        ],
+        "col": [
+            "高齡者(65歲以上)"
+        ],
+        "colCode": null,
+        "value": 1,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -153,7 +169,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 7,
+        "value": 10,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -169,7 +185,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 33,
+        "value": 63,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -185,7 +201,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 28,
+        "value": 49,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -196,102 +212,6 @@
             "嘉義縣",
             "115年",
             "自行車"
-        ],
-        "col": [
-            "18-24歲"
-        ],
-        "colCode": null,
-        "value": 6,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "嘉義縣",
-            "115年",
-            "自行車"
-        ],
-        "col": [
-            "兒少(0-17歲)"
-        ],
-        "colCode": null,
-        "value": 23,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "嘉義縣",
-            "115年",
-            "自行車"
-        ],
-        "col": [
-            "少年(12-17歲)"
-        ],
-        "colCode": null,
-        "value": 18,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "嘉義縣",
-            "115年",
-            "自行車"
-        ],
-        "col": [
-            "兒童(未滿12歲)"
-        ],
-        "colCode": null,
-        "value": 8,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "嘉義縣",
-            "115年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "高齡者(65歲以上)"
-        ],
-        "colCode": null,
-        "value": 32,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "嘉義縣",
-            "115年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "25-64歲"
-        ],
-        "colCode": null,
-        "value": 23,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "嘉義縣",
-            "115年",
-            "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
             "18-24歲"
@@ -307,13 +227,109 @@
         "row": [
             "嘉義縣",
             "115年",
+            "自行車"
+        ],
+        "col": [
+            "兒少(0-17歲)"
+        ],
+        "colCode": null,
+        "value": 43,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "嘉義縣",
+            "115年",
+            "自行車"
+        ],
+        "col": [
+            "少年(12-17歲)"
+        ],
+        "colCode": null,
+        "value": 35,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "嘉義縣",
+            "115年",
+            "自行車"
+        ],
+        "col": [
+            "兒童(未滿12歲)"
+        ],
+        "colCode": null,
+        "value": 14,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "嘉義縣",
+            "115年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "高齡者(65歲以上)"
+        ],
+        "colCode": null,
+        "value": 52,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "嘉義縣",
+            "115年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "25-64歲"
+        ],
+        "colCode": null,
+        "value": 34,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "嘉義縣",
+            "115年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "18-24歲"
+        ],
+        "colCode": null,
+        "value": 21,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "嘉義縣",
+            "115年",
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 53,
+        "value": 85,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -329,7 +345,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 53,
+        "value": 84,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -345,7 +361,7 @@
             "兒童(未滿12歲)"
         ],
         "colCode": null,
-        "value": 1,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -361,7 +377,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 26,
+        "value": 34,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -377,7 +393,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 20,
+        "value": 43,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -409,7 +425,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 10,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -425,7 +441,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 2,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -441,7 +457,7 @@
             "兒童(未滿12歲)"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
