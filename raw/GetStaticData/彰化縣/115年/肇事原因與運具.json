@@ -9,7 +9,7 @@
             "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 3170,
+        "value": 3776,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "其他未依規定讓車"
         ],
         "colCode": null,
-        "value": 247,
+        "value": 281,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "其他不當駕車行為"
         ],
         "colCode": null,
-        "value": 914,
+        "value": 1103,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,7 @@
             "未依規定減速"
         ],
         "colCode": null,
-        "value": 1274,
+        "value": 1477,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -89,7 +89,7 @@
             "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 823,
+        "value": 964,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -105,7 +105,7 @@
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 294,
+        "value": 347,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -121,7 +121,7 @@
             "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 1561,
+        "value": 1903,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -137,7 +137,7 @@
             "其他未依規定讓車"
         ],
         "colCode": null,
-        "value": 186,
+        "value": 225,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -153,7 +153,7 @@
             "其他不當駕車行為"
         ],
         "colCode": null,
-        "value": 291,
+        "value": 368,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -169,7 +169,7 @@
             "未依規定減速"
         ],
         "colCode": null,
-        "value": 431,
+        "value": 499,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -185,7 +185,7 @@
             "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 189,
+        "value": 221,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -201,7 +201,7 @@
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 132,
+        "value": 157,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -217,7 +217,7 @@
             "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 6,
+        "value": 8,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -233,7 +233,7 @@
             "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -249,7 +249,7 @@
             "車輛駕駛者-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 178,
+        "value": 199,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -265,7 +265,7 @@
             "其他未依規定讓車"
         ],
         "colCode": null,
-        "value": 15,
+        "value": 19,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -276,6 +276,102 @@
             "彰化縣",
             "115年",
             "自行車"
+        ],
+        "col": [
+            "其他不當駕車行為"
+        ],
+        "colCode": null,
+        "value": 93,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "115年",
+            "自行車"
+        ],
+        "col": [
+            "未依規定減速"
+        ],
+        "colCode": null,
+        "value": 14,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "115年",
+            "自行車"
+        ],
+        "col": [
+            "未保持行車安全距離"
+        ],
+        "colCode": null,
+        "value": 25,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "115年",
+            "自行車"
+        ],
+        "col": [
+            "左轉彎未依規定"
+        ],
+        "colCode": null,
+        "value": 47,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "115年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "車輛駕駛者-尚未發現肇事因素"
+        ],
+        "colCode": null,
+        "value": 211,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "115年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "其他未依規定讓車"
+        ],
+        "colCode": null,
+        "value": 22,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "彰化縣",
+            "115年",
+            "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
             "其他不當駕車行為"
@@ -291,109 +387,13 @@
         "row": [
             "彰化縣",
             "115年",
-            "自行車"
-        ],
-        "col": [
-            "未依規定減速"
-        ],
-        "colCode": null,
-        "value": 9,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "115年",
-            "自行車"
-        ],
-        "col": [
-            "未保持行車安全距離"
-        ],
-        "colCode": null,
-        "value": 21,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "115年",
-            "自行車"
-        ],
-        "col": [
-            "左轉彎未依規定"
-        ],
-        "colCode": null,
-        "value": 38,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "115年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "車輛駕駛者-尚未發現肇事因素"
-        ],
-        "colCode": null,
-        "value": 176,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "115年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "其他未依規定讓車"
-        ],
-        "colCode": null,
-        "value": 17,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "115年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "其他不當駕車行為"
-        ],
-        "colCode": null,
-        "value": 51,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "彰化縣",
-            "115年",
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
             "未依規定減速"
         ],
         "colCode": null,
-        "value": 73,
+        "value": 87,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -409,7 +409,7 @@
             "未保持行車安全距離"
         ],
         "colCode": null,
-        "value": 32,
+        "value": 47,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -425,7 +425,7 @@
             "左轉彎未依規定"
         ],
         "colCode": null,
-        "value": 30,
+        "value": 34,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -441,7 +441,7 @@
             "無(物或動物)-尚未發現肇事因素"
         ],
         "colCode": null,
-        "value": 144,
+        "value": 162,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
