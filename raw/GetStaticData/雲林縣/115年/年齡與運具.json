@@ -9,7 +9,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 1279,
+        "value": 1477,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 3603,
+        "value": 4156,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 1600,
+        "value": 1807,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 60,
+        "value": 69,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 60,
+        "value": 69,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -89,7 +89,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 410,
+        "value": 470,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -105,7 +105,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 3162,
+        "value": 3636,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -121,7 +121,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 287,
+        "value": 320,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -137,7 +137,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -153,7 +153,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 3,
+        "value": 4,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -185,7 +185,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 22,
+        "value": 23,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -199,6 +199,22 @@
         ],
         "col": [
             "高齡者(65歲以上)"
+        ],
+        "colCode": null,
+        "value": 130,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "雲林縣",
+            "115年",
+            "自行車"
+        ],
+        "col": [
+            "25-64歲"
         ],
         "colCode": null,
         "value": 106,
@@ -214,26 +230,10 @@
             "自行車"
         ],
         "col": [
-            "25-64歲"
-        ],
-        "colCode": null,
-        "value": 89,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "雲林縣",
-            "115年",
-            "自行車"
-        ],
-        "col": [
             "18-24歲"
         ],
         "colCode": null,
-        "value": 31,
+        "value": 35,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -249,7 +249,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 147,
+        "value": 168,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -265,7 +265,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 125,
+        "value": 142,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -281,7 +281,7 @@
             "兒童(未滿12歲)"
         ],
         "colCode": null,
-        "value": 39,
+        "value": 47,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -297,7 +297,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 90,
+        "value": 104,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -313,7 +313,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 96,
+        "value": 107,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -327,118 +327,6 @@
         ],
         "col": [
             "18-24歲"
-        ],
-        "colCode": null,
-        "value": 18,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "雲林縣",
-            "115年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "兒少(0-17歲)"
-        ],
-        "colCode": null,
-        "value": 141,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "雲林縣",
-            "115年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "少年(12-17歲)"
-        ],
-        "colCode": null,
-        "value": 136,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "雲林縣",
-            "115年",
-            "電動自行車(電動+\r電動輔助)"
-        ],
-        "col": [
-            "兒童(未滿12歲)"
-        ],
-        "colCode": null,
-        "value": 7,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "雲林縣",
-            "115年",
-            "行人"
-        ],
-        "col": [
-            "高齡者(65歲以上)"
-        ],
-        "colCode": null,
-        "value": 75,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "雲林縣",
-            "115年",
-            "行人"
-        ],
-        "col": [
-            "25-64歲"
-        ],
-        "colCode": null,
-        "value": 82,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "雲林縣",
-            "115年",
-            "行人"
-        ],
-        "col": [
-            "18-24歲"
-        ],
-        "colCode": null,
-        "value": 14,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "雲林縣",
-            "115年",
-            "行人"
-        ],
-        "col": [
-            "兒少(0-17歲)"
         ],
         "colCode": null,
         "value": 23,
@@ -451,13 +339,125 @@
         "row": [
             "雲林縣",
             "115年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "兒少(0-17歲)"
+        ],
+        "colCode": null,
+        "value": 163,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "雲林縣",
+            "115年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "少年(12-17歲)"
+        ],
+        "colCode": null,
+        "value": 156,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "雲林縣",
+            "115年",
+            "電動自行車(電動+\r電動輔助)"
+        ],
+        "col": [
+            "兒童(未滿12歲)"
+        ],
+        "colCode": null,
+        "value": 9,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "雲林縣",
+            "115年",
+            "行人"
+        ],
+        "col": [
+            "高齡者(65歲以上)"
+        ],
+        "colCode": null,
+        "value": 86,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "雲林縣",
+            "115年",
+            "行人"
+        ],
+        "col": [
+            "25-64歲"
+        ],
+        "colCode": null,
+        "value": 101,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "雲林縣",
+            "115年",
+            "行人"
+        ],
+        "col": [
+            "18-24歲"
+        ],
+        "colCode": null,
+        "value": 16,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "雲林縣",
+            "115年",
+            "行人"
+        ],
+        "col": [
+            "兒少(0-17歲)"
+        ],
+        "colCode": null,
+        "value": 27,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "雲林縣",
+            "115年",
             "行人"
         ],
         "col": [
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 8,
+        "value": 10,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -473,7 +473,7 @@
             "兒童(未滿12歲)"
         ],
         "colCode": null,
-        "value": 16,
+        "value": 18,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,

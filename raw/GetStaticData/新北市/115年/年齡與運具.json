@@ -9,7 +9,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 5156,
+        "value": 5887,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -25,7 +25,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 29874,
+        "value": 33976,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -41,7 +41,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 8320,
+        "value": 9602,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -57,7 +57,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 114,
+        "value": 122,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -73,7 +73,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 110,
+        "value": 118,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -105,7 +105,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 1866,
+        "value": 2163,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -121,7 +121,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 12256,
+        "value": 13989,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -137,7 +137,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 790,
+        "value": 906,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -185,7 +185,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 39,
+        "value": 47,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -201,7 +201,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 713,
+        "value": 815,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -217,7 +217,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 4,
+        "value": 6,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -233,7 +233,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 494,
+        "value": 564,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -249,7 +249,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 605,
+        "value": 685,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -263,54 +263,6 @@
         ],
         "col": [
             "18-24歲"
-        ],
-        "colCode": null,
-        "value": 100,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新北市",
-            "115年",
-            "自行車"
-        ],
-        "col": [
-            "兒少(0-17歲)"
-        ],
-        "colCode": null,
-        "value": 409,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新北市",
-            "115年",
-            "自行車"
-        ],
-        "col": [
-            "少年(12-17歲)"
-        ],
-        "colCode": null,
-        "value": 352,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新北市",
-            "115年",
-            "自行車"
-        ],
-        "col": [
-            "兒童(未滿12歲)"
         ],
         "colCode": null,
         "value": 111,
@@ -323,13 +275,61 @@
         "row": [
             "新北市",
             "115年",
+            "自行車"
+        ],
+        "col": [
+            "兒少(0-17歲)"
+        ],
+        "colCode": null,
+        "value": 470,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新北市",
+            "115年",
+            "自行車"
+        ],
+        "col": [
+            "少年(12-17歲)"
+        ],
+        "colCode": null,
+        "value": 408,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新北市",
+            "115年",
+            "自行車"
+        ],
+        "col": [
+            "兒童(未滿12歲)"
+        ],
+        "colCode": null,
+        "value": 131,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新北市",
+            "115年",
             "電動自行車(電動+\r電動輔助)"
         ],
         "col": [
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 160,
+        "value": 188,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -345,7 +345,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 309,
+        "value": 351,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -361,7 +361,7 @@
             "18-24歲"
         ],
         "colCode": null,
-        "value": 56,
+        "value": 63,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -377,7 +377,7 @@
             "兒少(0-17歲)"
         ],
         "colCode": null,
-        "value": 177,
+        "value": 218,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -393,7 +393,7 @@
             "少年(12-17歲)"
         ],
         "colCode": null,
-        "value": 177,
+        "value": 218,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -425,7 +425,7 @@
             "高齡者(65歲以上)"
         ],
         "colCode": null,
-        "value": 746,
+        "value": 832,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -441,7 +441,7 @@
             "25-64歲"
         ],
         "colCode": null,
-        "value": 1065,
+        "value": 1224,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
@@ -455,57 +455,57 @@
         ],
         "col": [
             "18-24歲"
-        ],
-        "colCode": null,
-        "value": 130,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新北市",
-            "115年",
-            "行人"
-        ],
-        "col": [
-            "兒少(0-17歲)"
-        ],
-        "colCode": null,
-        "value": 234,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新北市",
-            "115年",
-            "行人"
-        ],
-        "col": [
-            "少年(12-17歲)"
-        ],
-        "colCode": null,
-        "value": 111,
-        "descriptionHtml": "",
-        "qty": 0,
-        "diff": null,
-        "tooltip": null
-    },
-    {
-        "row": [
-            "新北市",
-            "115年",
-            "行人"
-        ],
-        "col": [
-            "兒童(未滿12歲)"
         ],
         "colCode": null,
         "value": 145,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新北市",
+            "115年",
+            "行人"
+        ],
+        "col": [
+            "兒少(0-17歲)"
+        ],
+        "colCode": null,
+        "value": 277,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新北市",
+            "115年",
+            "行人"
+        ],
+        "col": [
+            "少年(12-17歲)"
+        ],
+        "colCode": null,
+        "value": 135,
+        "descriptionHtml": "",
+        "qty": 0,
+        "diff": null,
+        "tooltip": null
+    },
+    {
+        "row": [
+            "新北市",
+            "115年",
+            "行人"
+        ],
+        "col": [
+            "兒童(未滿12歲)"
+        ],
+        "colCode": null,
+        "value": 168,
         "descriptionHtml": "",
         "qty": 0,
         "diff": null,
